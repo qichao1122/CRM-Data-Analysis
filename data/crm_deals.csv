@@ -1,0 +1,1201 @@
+deal_id,deal_name,rep_name,rep_segment,region,industry,product,lead_source,acv,stage,created_date,close_date,days_in_pipeline,deal_score,num_touches,competitors,forecast_category
+DL-10000,Healthcare Corp #1,Alice Morgan,Enterprise,North America,Healthcare,Support Plus,Event,4000,Lead,2023-07-01,,13,45.0,8,None,Pipeline
+DL-10001,Retail Corp #2,Brian Chen,Mid-Market,North America,Retail,CRM Enterprise,Inbound,69000,Lead,2022-10-06,,16,65.9,8,HubSpot,Best Case
+DL-10002,Healthcare Corp #3,Carlos Rivera,Mid-Market,LATAM,Healthcare,Analytics Add-on,Paid Search,8500,Lead,2023-03-04,,25,21.0,37,Microsoft,Best Case
+DL-10003,Technology Corp #4,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Outbound,149000,Closed Lost,2022-04-22,2022-08-06,78,87.1,25,Zoho,Pipeline
+DL-10004,Technology Corp #5,Ethan Park,SMB,APAC,Technology,CRM Pro,Partner,24000,Lead,2023-11-15,,16,65.5,13,HubSpot,Pipeline
+DL-10005,Technology Corp #6,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Inbound,21000,Lead,2022-01-06,,24,77.8,5,HubSpot,Pipeline
+DL-10006,Manufacturing Corp #7,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Inbound,22500,Lead,2022-10-12,,10,86.5,20,Salesforce,Commit
+DL-10007,Retail Corp #8,Hannah Brooks,Mid-Market,APAC,Retail,CRM Enterprise,Inbound,77500,Lead,2022-02-06,,21,35.1,36,Microsoft,Best Case
+DL-10008,Retail Corp #9,Alice Morgan,Enterprise,North America,Retail,Support Plus,Outbound,4500,Demo,2023-11-23,,39,80.3,9,Zoho,Best Case
+DL-10009,Manufacturing Corp #10,Brian Chen,Mid-Market,North America,Manufacturing,Integration Suite,Partner,23500,Closed Won,2022-09-07,2022-10-23,29,71.9,12,Salesforce,Pipeline
+DL-10010,Technology Corp #11,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Inbound,14500,Lead,2022-08-21,,8,31.1,39,HubSpot,Closed
+DL-10011,Healthcare Corp #12,Diana Patel,Enterprise,Europe,Healthcare,Support Plus,Referral,5000,Lead,2023-09-15,,16,64.5,5,HubSpot,Pipeline
+DL-10012,Manufacturing Corp #13,Ethan Park,SMB,APAC,Manufacturing,Support Plus,Referral,7000,Lead,2023-05-06,,3,34.0,4,Microsoft,Commit
+DL-10013,Technology Corp #14,Fiona Walsh,SMB,Europe,Technology,Analytics Add-on,Outbound,13000,Lead,2022-03-30,,28,82.8,28,None,Pipeline
+DL-10014,Finance Corp #15,George Kim,Enterprise,North America,Finance,CRM Enterprise,Referral,81000,Closed Lost,2024-01-18,2024-02-11,17,87.3,36,None,Pipeline
+DL-10015,Healthcare Corp #16,Hannah Brooks,Mid-Market,APAC,Healthcare,Analytics Add-on,Outbound,13500,Lead,2024-03-23,,25,70.2,24,HubSpot,Closed
+DL-10016,Real Estate Corp #17,Alice Morgan,Enterprise,North America,Real Estate,CRM Enterprise,Referral,65500,Lead,2023-09-26,,19,37.8,15,None,Commit
+DL-10017,Manufacturing Corp #18,Brian Chen,Mid-Market,North America,Manufacturing,CRM Pro,Referral,13000,Lead,2023-04-11,,19,93.4,21,Zoho,Best Case
+DL-10018,Healthcare Corp #19,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Outbound,17500,Closed Lost,2022-06-28,2022-08-09,21,33.3,37,Zoho,Closed
+DL-10019,Healthcare Corp #20,Diana Patel,Enterprise,Europe,Healthcare,CRM Pro,Outbound,24000,Closed Lost,2023-05-21,2023-06-19,17,34.3,12,Microsoft,Best Case
+DL-10020,Healthcare Corp #21,Ethan Park,SMB,APAC,Healthcare,CRM Enterprise,Inbound,188500,Lead,2022-07-11,,20,42.1,14,None,Pipeline
+DL-10021,Retail Corp #22,Fiona Walsh,SMB,Europe,Retail,Support Plus,Outbound,5000,Closed Won,2022-08-23,2022-09-29,23,23.8,35,Salesforce,Best Case
+DL-10022,Healthcare Corp #23,George Kim,Enterprise,North America,Healthcare,Analytics Add-on,Referral,9500,Closed Won,2022-09-20,2022-10-31,23,77.7,10,Microsoft,Pipeline
+DL-10023,Technology Corp #24,Hannah Brooks,Mid-Market,APAC,Technology,Integration Suite,Referral,25500,Lead,2022-05-07,,4,23.1,17,HubSpot,Commit
+DL-10024,Technology Corp #25,Alice Morgan,Enterprise,North America,Technology,CRM Enterprise,Partner,194000,Closed Lost,2023-09-29,2023-10-22,12,61.2,29,None,Pipeline
+DL-10025,Real Estate Corp #26,Brian Chen,Mid-Market,North America,Real Estate,Support Plus,Outbound,7000,Closed Lost,2022-08-15,2022-09-02,11,23.5,4,Zoho,Commit
+DL-10026,Finance Corp #27,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Enterprise,Event,162000,Closed Lost,2022-11-13,2022-12-25,14,86.5,12,Salesforce,Closed
+DL-10027,Finance Corp #28,Diana Patel,Enterprise,Europe,Finance,Support Plus,Referral,7500,Lead,2024-05-13,,28,80.1,28,Microsoft,Pipeline
+DL-10028,Manufacturing Corp #29,Ethan Park,SMB,APAC,Manufacturing,Analytics Add-on,Outbound,14000,Closed Lost,2024-05-29,2024-07-02,27,21.4,6,None,Pipeline
+DL-10029,Healthcare Corp #30,Fiona Walsh,SMB,Europe,Healthcare,CRM Enterprise,Outbound,149000,Lead,2022-08-27,,15,90.2,4,HubSpot,Closed
+DL-10030,Finance Corp #31,George Kim,Enterprise,North America,Finance,Support Plus,Event,8000,Lead,2024-06-25,,12,45.6,37,Zoho,Best Case
+DL-10031,Retail Corp #32,Hannah Brooks,Mid-Market,APAC,Retail,CRM Pro,Outbound,12000,Lead,2023-05-04,,15,27.5,4,Zoho,Closed
+DL-10032,Healthcare Corp #33,Alice Morgan,Enterprise,North America,Healthcare,Integration Suite,Paid Search,43000,Lead,2023-06-09,,19,44.6,27,None,Commit
+DL-10033,Manufacturing Corp #34,Brian Chen,Mid-Market,North America,Manufacturing,Support Plus,Paid Search,9500,Lead,2024-06-30,,2,72.9,38,None,Closed
+DL-10034,Manufacturing Corp #35,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Support Plus,Outbound,4500,Closed Lost,2024-03-27,2024-04-20,5,84.7,35,Salesforce,Closed
+DL-10035,Finance Corp #36,Diana Patel,Enterprise,Europe,Finance,Integration Suite,Inbound,24000,Lead,2023-12-13,,17,28.3,21,Salesforce,Best Case
+DL-10036,Technology Corp #37,Ethan Park,SMB,APAC,Technology,Integration Suite,Partner,37000,Lead,2023-11-12,,20,55.8,6,Microsoft,Best Case
+DL-10037,Manufacturing Corp #38,Fiona Walsh,SMB,Europe,Manufacturing,Support Plus,Inbound,9500,Closed Lost,2024-03-26,2024-04-29,16,92.7,22,Microsoft,Commit
+DL-10038,Healthcare Corp #39,George Kim,Enterprise,North America,Healthcare,Support Plus,Outbound,7500,Closed Lost,2023-11-06,2023-12-17,27,28.0,15,Salesforce,Commit
+DL-10039,Healthcare Corp #40,Hannah Brooks,Mid-Market,APAC,Healthcare,Integration Suite,Inbound,31000,Lead,2024-06-10,,29,43.2,33,None,Pipeline
+DL-10040,Education Corp #41,Alice Morgan,Enterprise,North America,Education,Support Plus,Outbound,9500,Closed Won,2023-06-16,2023-08-24,45,56.0,39,HubSpot,Commit
+DL-10041,Healthcare Corp #42,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Partner,13000,Closed Lost,2023-03-05,2023-04-13,13,81.0,39,Zoho,Best Case
+DL-10042,Retail Corp #43,Carlos Rivera,Mid-Market,LATAM,Retail,Support Plus,Outbound,8000,Lead,2022-08-09,,6,35.5,35,None,Pipeline
+DL-10043,Technology Corp #44,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Outbound,119500,Lead,2024-01-31,,9,26.6,32,Microsoft,Best Case
+DL-10044,Healthcare Corp #45,Ethan Park,SMB,APAC,Healthcare,Support Plus,Event,7000,Closed Won,2022-07-14,2022-08-24,14,46.1,22,None,Best Case
+DL-10045,Finance Corp #46,Fiona Walsh,SMB,Europe,Finance,Analytics Add-on,Event,11500,Closed Lost,2023-02-25,2023-03-28,25,66.6,15,Salesforce,Best Case
+DL-10046,Healthcare Corp #47,George Kim,Enterprise,North America,Healthcare,CRM Pro,Referral,15500,Lead,2023-01-02,,21,50.9,35,Microsoft,Closed
+DL-10047,Finance Corp #48,Hannah Brooks,Mid-Market,APAC,Finance,Analytics Add-on,Inbound,5000,Closed Won,2022-09-12,2022-10-11,12,71.8,4,None,Commit
+DL-10048,Technology Corp #49,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Inbound,14000,Closed Lost,2022-09-11,2022-10-15,24,47.8,20,Microsoft,Best Case
+DL-10049,Finance Corp #50,Brian Chen,Mid-Market,North America,Finance,Support Plus,Inbound,3000,Lead,2022-05-02,,20,22.3,35,HubSpot,Best Case
+DL-10050,Technology Corp #51,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Referral,4000,Closed Lost,2024-02-09,2024-02-25,3,55.5,16,None,Best Case
+DL-10051,Finance Corp #52,Diana Patel,Enterprise,Europe,Finance,CRM Enterprise,Referral,129000,Lead,2023-06-01,,11,65.6,12,Microsoft,Pipeline
+DL-10052,Education Corp #53,Ethan Park,SMB,APAC,Education,Support Plus,Inbound,3500,Lead,2022-08-14,,5,33.0,36,Salesforce,Best Case
+DL-10053,Healthcare Corp #54,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Partner,44500,Qualified,2023-06-12,,46,73.9,22,Microsoft,Closed
+DL-10054,Technology Corp #55,George Kim,Enterprise,North America,Technology,CRM Enterprise,Outbound,91500,Lead,2023-04-10,,8,41.6,24,Salesforce,Best Case
+DL-10055,Finance Corp #56,Hannah Brooks,Mid-Market,APAC,Finance,CRM Pro,Outbound,14000,Lead,2023-05-17,,16,26.6,8,Salesforce,Pipeline
+DL-10056,Finance Corp #57,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Paid Search,8000,Lead,2024-01-31,,28,90.4,9,Salesforce,Commit
+DL-10057,Finance Corp #58,Brian Chen,Mid-Market,North America,Finance,Support Plus,Event,3500,Lead,2022-07-04,,5,69.9,22,HubSpot,Closed
+DL-10058,Healthcare Corp #59,Carlos Rivera,Mid-Market,LATAM,Healthcare,Analytics Add-on,Referral,11000,Lead,2023-02-06,,17,59.9,5,Salesforce,Best Case
+DL-10059,Healthcare Corp #60,Diana Patel,Enterprise,Europe,Healthcare,Analytics Add-on,Outbound,11000,Lead,2022-05-08,,24,87.0,32,Salesforce,Pipeline
+DL-10060,Technology Corp #61,Ethan Park,SMB,APAC,Technology,CRM Pro,Referral,8500,Lead,2023-11-29,,26,28.3,34,Salesforce,Best Case
+DL-10061,Manufacturing Corp #62,Fiona Walsh,SMB,Europe,Manufacturing,Support Plus,Outbound,6000,Lead,2023-12-08,,1,73.7,25,None,Closed
+DL-10062,Healthcare Corp #63,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Inbound,191500,Closed Lost,2023-06-21,2023-08-01,15,89.9,23,None,Closed
+DL-10063,Retail Corp #64,Hannah Brooks,Mid-Market,APAC,Retail,CRM Enterprise,Outbound,163000,Lead,2022-03-05,,3,88.3,7,Salesforce,Pipeline
+DL-10064,Technology Corp #65,Alice Morgan,Enterprise,North America,Technology,CRM Pro,Outbound,13500,Lead,2022-07-28,,18,35.4,32,Microsoft,Pipeline
+DL-10065,Healthcare Corp #66,Brian Chen,Mid-Market,North America,Healthcare,CRM Enterprise,Outbound,187000,Closed Lost,2022-11-14,2022-12-22,22,30.6,9,Microsoft,Best Case
+DL-10066,Education Corp #67,Carlos Rivera,Mid-Market,LATAM,Education,CRM Pro,Inbound,21000,Lead,2022-07-21,,7,54.4,23,Zoho,Best Case
+DL-10067,Technology Corp #68,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Outbound,13000,Lead,2023-01-26,,24,66.9,16,None,Best Case
+DL-10068,Healthcare Corp #69,Ethan Park,SMB,APAC,Healthcare,Analytics Add-on,Referral,9500,Closed Lost,2023-02-08,2023-03-01,12,84.6,38,HubSpot,Pipeline
+DL-10069,Finance Corp #70,Fiona Walsh,SMB,Europe,Finance,Integration Suite,Paid Search,38000,Lead,2024-02-08,,26,39.0,10,Microsoft,Best Case
+DL-10070,Healthcare Corp #71,George Kim,Enterprise,North America,Healthcare,Support Plus,Referral,4000,Lead,2022-08-06,,3,84.2,33,HubSpot,Commit
+DL-10071,Technology Corp #72,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Inbound,42000,Lead,2022-07-10,,1,51.6,36,None,Pipeline
+DL-10072,Technology Corp #73,Alice Morgan,Enterprise,North America,Technology,CRM Enterprise,Inbound,98000,Lead,2024-01-31,,11,84.6,11,Zoho,Commit
+DL-10073,Technology Corp #74,Brian Chen,Mid-Market,North America,Technology,Analytics Add-on,Event,13500,Lead,2023-01-25,,1,67.5,12,Salesforce,Closed
+DL-10074,Real Estate Corp #75,Carlos Rivera,Mid-Market,LATAM,Real Estate,CRM Enterprise,Referral,184000,Lead,2023-09-18,,24,57.4,5,HubSpot,Best Case
+DL-10075,Retail Corp #76,Diana Patel,Enterprise,Europe,Retail,Support Plus,Inbound,3000,Lead,2024-04-03,,26,69.9,9,Zoho,Best Case
+DL-10076,Healthcare Corp #77,Ethan Park,SMB,APAC,Healthcare,CRM Enterprise,Outbound,107500,Lead,2024-05-27,,6,25.1,33,HubSpot,Closed
+DL-10077,Retail Corp #78,Fiona Walsh,SMB,Europe,Retail,Analytics Add-on,Outbound,14000,Lead,2024-05-22,,4,60.5,8,None,Closed
+DL-10078,Real Estate Corp #79,George Kim,Enterprise,North America,Real Estate,Analytics Add-on,Event,8000,Lead,2022-04-08,,3,71.6,19,Salesforce,Closed
+DL-10079,Manufacturing Corp #80,Hannah Brooks,Mid-Market,APAC,Manufacturing,Integration Suite,Inbound,43500,Lead,2022-04-05,,10,79.3,28,Microsoft,Pipeline
+DL-10080,Real Estate Corp #81,Alice Morgan,Enterprise,North America,Real Estate,Analytics Add-on,Event,12000,Closed Lost,2023-08-26,2023-10-03,21,36.6,39,Zoho,Pipeline
+DL-10081,Retail Corp #82,Brian Chen,Mid-Market,North America,Retail,CRM Pro,Referral,11000,Lead,2024-04-17,,1,89.3,38,Zoho,Best Case
+DL-10082,Manufacturing Corp #83,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Analytics Add-on,Partner,8000,Closed Lost,2022-02-03,2022-02-27,18,72.2,15,None,Pipeline
+DL-10083,Healthcare Corp #84,Diana Patel,Enterprise,Europe,Healthcare,CRM Pro,Referral,17000,Lead,2023-11-07,,16,51.3,20,Zoho,Pipeline
+DL-10084,Technology Corp #85,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Event,190000,Lead,2024-07-02,,11,56.0,26,Zoho,Closed
+DL-10085,Retail Corp #86,Fiona Walsh,SMB,Europe,Retail,CRM Pro,Referral,13500,Lead,2023-11-02,,1,84.0,29,Microsoft,Pipeline
+DL-10086,Education Corp #87,George Kim,Enterprise,North America,Education,CRM Pro,Outbound,9500,Lead,2022-04-24,,28,64.1,39,Zoho,Commit
+DL-10087,Education Corp #88,Hannah Brooks,Mid-Market,APAC,Education,CRM Enterprise,Paid Search,66500,Lead,2022-07-31,,28,58.5,11,Salesforce,Pipeline
+DL-10088,Technology Corp #89,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Event,13000,Lead,2023-07-31,,7,59.4,12,Microsoft,Best Case
+DL-10089,Real Estate Corp #90,Brian Chen,Mid-Market,North America,Real Estate,Analytics Add-on,Inbound,13000,Lead,2022-07-24,,16,26.9,35,HubSpot,Pipeline
+DL-10090,Education Corp #91,Carlos Rivera,Mid-Market,LATAM,Education,CRM Pro,Inbound,22000,Lead,2022-10-29,,28,38.9,3,None,Pipeline
+DL-10091,Finance Corp #92,Diana Patel,Enterprise,Europe,Finance,Support Plus,Referral,4500,Lead,2022-03-11,,25,64.4,33,HubSpot,Commit
+DL-10092,Finance Corp #93,Ethan Park,SMB,APAC,Finance,Support Plus,Referral,8000,Closed Lost,2024-03-05,2024-03-26,8,37.9,37,Salesforce,Commit
+DL-10093,Technology Corp #94,Fiona Walsh,SMB,Europe,Technology,Support Plus,Partner,9000,Lead,2022-01-27,,24,75.8,8,None,Closed
+DL-10094,Finance Corp #95,George Kim,Enterprise,North America,Finance,CRM Enterprise,Referral,85500,Lead,2024-06-16,,19,60.5,31,Salesforce,Commit
+DL-10095,Finance Corp #96,Hannah Brooks,Mid-Market,APAC,Finance,CRM Enterprise,Referral,94500,Lead,2024-05-02,,3,25.1,14,None,Pipeline
+DL-10096,Finance Corp #97,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Inbound,8500,Lead,2024-02-19,,29,68.6,24,HubSpot,Pipeline
+DL-10097,Manufacturing Corp #98,Brian Chen,Mid-Market,North America,Manufacturing,Analytics Add-on,Inbound,7500,Closed Lost,2022-05-26,2022-07-05,14,59.5,33,HubSpot,Closed
+DL-10098,Retail Corp #99,Carlos Rivera,Mid-Market,LATAM,Retail,Integration Suite,Inbound,33500,Lead,2024-05-20,,5,51.5,26,HubSpot,Pipeline
+DL-10099,Real Estate Corp #100,Diana Patel,Enterprise,Europe,Real Estate,CRM Pro,Event,13000,Lead,2023-11-14,,6,62.2,20,Microsoft,Pipeline
+DL-10100,Technology Corp #101,Ethan Park,SMB,APAC,Technology,Support Plus,Event,8000,Closed Lost,2024-02-12,2024-03-11,23,89.1,25,None,Best Case
+DL-10101,Technology Corp #102,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Inbound,18000,Lead,2023-05-26,,7,44.4,24,HubSpot,Closed
+DL-10102,Technology Corp #103,George Kim,Enterprise,North America,Technology,Support Plus,Outbound,3500,Lead,2023-03-16,,18,84.5,31,Salesforce,Best Case
+DL-10103,Technology Corp #104,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Referral,9500,Lead,2022-01-17,,14,78.2,37,Salesforce,Best Case
+DL-10104,Education Corp #105,Alice Morgan,Enterprise,North America,Education,CRM Pro,Outbound,22000,Lead,2022-10-22,,29,81.6,4,None,Closed
+DL-10105,Technology Corp #106,Brian Chen,Mid-Market,North America,Technology,Analytics Add-on,Paid Search,5000,Lead,2022-02-17,,16,73.6,32,HubSpot,Closed
+DL-10106,Technology Corp #107,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Referral,30000,Qualified,2023-12-19,,21,68.8,20,Microsoft,Pipeline
+DL-10107,Finance Corp #108,Diana Patel,Enterprise,Europe,Finance,Support Plus,Event,4000,Lead,2023-08-26,,15,37.1,39,Zoho,Commit
+DL-10108,Technology Corp #109,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Outbound,7000,Lead,2022-07-06,,25,51.2,34,Microsoft,Commit
+DL-10109,Retail Corp #110,Fiona Walsh,SMB,Europe,Retail,Integration Suite,Partner,13000,Lead,2023-06-14,,13,85.5,36,HubSpot,Pipeline
+DL-10110,Finance Corp #111,George Kim,Enterprise,North America,Finance,Support Plus,Referral,4000,Lead,2023-08-01,,22,88.2,9,Salesforce,Closed
+DL-10111,Technology Corp #112,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Outbound,3000,Lead,2022-03-31,,12,69.7,6,None,Pipeline
+DL-10112,Healthcare Corp #113,Alice Morgan,Enterprise,North America,Healthcare,Analytics Add-on,Outbound,11500,Lead,2023-12-09,,4,37.7,5,Salesforce,Best Case
+DL-10113,Healthcare Corp #114,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Inbound,15000,Closed Lost,2023-07-19,2023-08-14,21,75.2,27,Microsoft,Closed
+DL-10114,Manufacturing Corp #115,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Integration Suite,Referral,40500,Closed Lost,2023-05-10,2023-05-21,1,23.9,26,Salesforce,Pipeline
+DL-10115,Technology Corp #116,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Inbound,16500,Closed Lost,2022-05-16,2022-07-12,29,67.9,35,Microsoft,Best Case
+DL-10116,Finance Corp #117,Ethan Park,SMB,APAC,Finance,Integration Suite,Inbound,29500,Lead,2022-05-02,,5,32.2,9,None,Pipeline
+DL-10117,Technology Corp #118,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Paid Search,145500,Lead,2022-12-09,,1,84.8,31,Salesforce,Commit
+DL-10118,Education Corp #119,George Kim,Enterprise,North America,Education,CRM Pro,Referral,11500,Lead,2022-12-27,,19,95.0,4,Zoho,Best Case
+DL-10119,Manufacturing Corp #120,Hannah Brooks,Mid-Market,APAC,Manufacturing,CRM Pro,Inbound,9500,Lead,2022-04-10,,19,52.9,36,Zoho,Pipeline
+DL-10120,Manufacturing Corp #121,Alice Morgan,Enterprise,North America,Manufacturing,CRM Pro,Referral,10000,Lead,2022-01-06,,10,72.2,17,HubSpot,Pipeline
+DL-10121,Healthcare Corp #122,Brian Chen,Mid-Market,North America,Healthcare,Integration Suite,Referral,12000,Lead,2022-06-04,,19,60.7,38,None,Closed
+DL-10122,Manufacturing Corp #123,Carlos Rivera,Mid-Market,LATAM,Manufacturing,CRM Pro,Outbound,14000,Lead,2023-06-15,,16,81.0,29,Zoho,Pipeline
+DL-10123,Technology Corp #124,Diana Patel,Enterprise,Europe,Technology,Support Plus,Inbound,9000,Lead,2024-04-28,,2,27.6,20,HubSpot,Pipeline
+DL-10124,Healthcare Corp #125,Ethan Park,SMB,APAC,Healthcare,Integration Suite,Outbound,29500,Lead,2023-07-13,,21,29.1,9,None,Pipeline
+DL-10125,Finance Corp #126,Fiona Walsh,SMB,Europe,Finance,CRM Pro,Inbound,17500,Lead,2024-05-31,,15,23.3,26,Zoho,Commit
+DL-10126,Manufacturing Corp #127,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Inbound,19500,Lead,2023-07-14,,12,46.5,11,None,Pipeline
+DL-10127,Manufacturing Corp #128,Hannah Brooks,Mid-Market,APAC,Manufacturing,Integration Suite,Event,34000,Closed Lost,2023-12-03,2023-12-18,5,85.2,20,Microsoft,Pipeline
+DL-10128,Healthcare Corp #129,Alice Morgan,Enterprise,North America,Healthcare,Analytics Add-on,Referral,11000,Lead,2022-08-01,,12,94.1,8,None,Best Case
+DL-10129,Healthcare Corp #130,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Paid Search,19500,Lead,2022-04-28,,4,40.6,5,Salesforce,Closed
+DL-10130,Technology Corp #131,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Outbound,11500,Demo,2022-03-05,,49,44.3,15,None,Closed
+DL-10131,Retail Corp #132,Diana Patel,Enterprise,Europe,Retail,CRM Pro,Outbound,24500,Closed Lost,2022-11-02,2022-12-23,36,51.7,33,Salesforce,Pipeline
+DL-10132,Real Estate Corp #133,Ethan Park,SMB,APAC,Real Estate,Analytics Add-on,Inbound,14000,Lead,2023-01-01,,5,60.5,34,Microsoft,Commit
+DL-10133,Technology Corp #134,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Outbound,18000,Closed Lost,2022-05-26,2022-06-10,2,48.6,15,Salesforce,Best Case
+DL-10134,Manufacturing Corp #135,George Kim,Enterprise,North America,Manufacturing,CRM Enterprise,Outbound,136000,Lead,2024-04-21,,15,35.6,37,Salesforce,Closed
+DL-10135,Healthcare Corp #136,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Event,178500,Closed Lost,2023-12-24,2024-04-15,85,56.5,25,None,Pipeline
+DL-10136,Finance Corp #137,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Referral,22000,Closed Lost,2022-04-22,2022-05-12,14,78.3,7,Microsoft,Closed
+DL-10137,Manufacturing Corp #138,Brian Chen,Mid-Market,North America,Manufacturing,Support Plus,Referral,3500,Closed Lost,2022-07-17,2022-08-10,18,78.6,20,Salesforce,Closed
+DL-10138,Technology Corp #139,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Inbound,15000,Closed Lost,2022-03-10,2022-04-24,23,66.4,26,Salesforce,Pipeline
+DL-10139,Technology Corp #140,Diana Patel,Enterprise,Europe,Technology,Support Plus,Referral,7000,Lead,2023-01-25,,4,34.6,16,HubSpot,Closed
+DL-10140,Retail Corp #141,Ethan Park,SMB,APAC,Retail,Support Plus,Outbound,3000,Lead,2023-03-17,,1,30.3,22,Salesforce,Pipeline
+DL-10141,Technology Corp #142,Fiona Walsh,SMB,Europe,Technology,Support Plus,Inbound,4000,Lead,2022-02-09,,11,57.5,12,Salesforce,Pipeline
+DL-10142,Manufacturing Corp #143,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Event,33500,Lead,2023-07-16,,25,30.0,6,None,Closed
+DL-10143,Manufacturing Corp #144,Hannah Brooks,Mid-Market,APAC,Manufacturing,Support Plus,Paid Search,4500,Lead,2022-08-20,,23,49.0,19,Salesforce,Closed
+DL-10144,Healthcare Corp #145,Alice Morgan,Enterprise,North America,Healthcare,Support Plus,Event,4000,Closed Won,2023-04-14,2023-05-15,26,91.7,30,HubSpot,Pipeline
+DL-10145,Healthcare Corp #146,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Inbound,11500,Lead,2022-06-09,,3,39.9,3,Salesforce,Closed
+DL-10146,Healthcare Corp #147,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Referral,24500,Closed Lost,2022-01-10,2022-02-15,8,55.9,36,HubSpot,Pipeline
+DL-10147,Finance Corp #148,Diana Patel,Enterprise,Europe,Finance,CRM Enterprise,Referral,136000,Closed Lost,2023-11-16,2023-12-23,24,89.6,11,HubSpot,Best Case
+DL-10148,Healthcare Corp #149,Ethan Park,SMB,APAC,Healthcare,CRM Pro,Inbound,10500,Closed Lost,2024-04-29,2024-06-17,20,70.4,14,Zoho,Pipeline
+DL-10149,Finance Corp #150,Fiona Walsh,SMB,Europe,Finance,Support Plus,Outbound,8000,Lead,2024-02-10,,22,33.3,23,Zoho,Closed
+DL-10150,Technology Corp #151,George Kim,Enterprise,North America,Technology,CRM Enterprise,Referral,57000,Closed Lost,2022-03-26,2022-05-06,28,51.0,31,None,Commit
+DL-10151,Technology Corp #152,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Referral,3500,Lead,2024-03-13,,13,80.9,30,Zoho,Pipeline
+DL-10152,Technology Corp #153,Alice Morgan,Enterprise,North America,Technology,CRM Enterprise,Outbound,145000,Lead,2023-11-11,,24,48.1,22,Microsoft,Closed
+DL-10153,Manufacturing Corp #154,Brian Chen,Mid-Market,North America,Manufacturing,Integration Suite,Inbound,36500,Closed Lost,2024-05-26,2024-06-18,11,85.7,39,HubSpot,Best Case
+DL-10154,Retail Corp #155,Carlos Rivera,Mid-Market,LATAM,Retail,Analytics Add-on,Referral,6000,Closed Won,2022-01-02,2022-04-02,68,24.0,21,Microsoft,Commit
+DL-10155,Technology Corp #156,Diana Patel,Enterprise,Europe,Technology,Analytics Add-on,Inbound,9500,Lead,2022-02-23,,10,79.1,22,HubSpot,Pipeline
+DL-10156,Healthcare Corp #157,Ethan Park,SMB,APAC,Healthcare,CRM Pro,Inbound,9500,Lead,2023-07-02,,22,68.2,18,None,Commit
+DL-10157,Technology Corp #158,Fiona Walsh,SMB,Europe,Technology,Integration Suite,Referral,24500,Lead,2023-06-22,,6,22.0,3,None,Pipeline
+DL-10158,Finance Corp #159,George Kim,Enterprise,North America,Finance,Support Plus,Inbound,8000,Lead,2024-02-20,,7,56.1,19,Zoho,Commit
+DL-10159,Finance Corp #160,Hannah Brooks,Mid-Market,APAC,Finance,CRM Enterprise,Event,185500,Closed Lost,2022-01-07,2022-01-23,2,89.2,20,Salesforce,Pipeline
+DL-10160,Technology Corp #161,Alice Morgan,Enterprise,North America,Technology,Integration Suite,Inbound,21000,Lead,2023-12-22,,29,83.4,12,Salesforce,Closed
+DL-10161,Technology Corp #162,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Inbound,185000,Lead,2023-05-03,,12,21.6,27,Zoho,Best Case
+DL-10162,Education Corp #163,Carlos Rivera,Mid-Market,LATAM,Education,CRM Enterprise,Event,172000,Closed Lost,2023-07-26,2023-09-02,15,34.3,15,HubSpot,Closed
+DL-10163,Real Estate Corp #164,Diana Patel,Enterprise,Europe,Real Estate,Support Plus,Inbound,3500,Lead,2022-07-26,,8,59.3,7,Zoho,Commit
+DL-10164,Technology Corp #165,Ethan Park,SMB,APAC,Technology,CRM Pro,Inbound,17000,Lead,2023-02-24,,15,83.7,27,Microsoft,Best Case
+DL-10165,Finance Corp #166,Fiona Walsh,SMB,Europe,Finance,Integration Suite,Outbound,14000,Closed Lost,2024-01-08,2024-04-12,69,85.3,11,Microsoft,Closed
+DL-10166,Retail Corp #167,George Kim,Enterprise,North America,Retail,CRM Enterprise,Outbound,50000,Closed Lost,2024-04-11,2024-05-18,16,81.7,17,None,Closed
+DL-10167,Technology Corp #168,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Outbound,55000,Lead,2023-11-25,,9,34.7,36,Microsoft,Best Case
+DL-10168,Finance Corp #169,Alice Morgan,Enterprise,North America,Finance,CRM Enterprise,Partner,90500,Closed Lost,2024-04-09,2024-04-28,9,33.8,36,None,Pipeline
+DL-10169,Healthcare Corp #170,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Event,13500,Lead,2023-04-08,,29,70.1,26,Salesforce,Closed
+DL-10170,Healthcare Corp #171,Carlos Rivera,Mid-Market,LATAM,Healthcare,Analytics Add-on,Inbound,11500,Lead,2022-01-27,,24,93.0,15,HubSpot,Closed
+DL-10171,Technology Corp #172,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Outbound,22000,Lead,2024-01-22,,14,82.1,15,Salesforce,Commit
+DL-10172,Manufacturing Corp #173,Ethan Park,SMB,APAC,Manufacturing,CRM Pro,Inbound,12000,Lead,2022-11-15,,14,66.6,16,None,Best Case
+DL-10173,Real Estate Corp #174,Fiona Walsh,SMB,Europe,Real Estate,Analytics Add-on,Event,5000,Closed Won,2022-04-08,2022-06-03,43,85.0,10,HubSpot,Pipeline
+DL-10174,Retail Corp #175,George Kim,Enterprise,North America,Retail,Support Plus,Paid Search,7500,Lead,2024-03-08,,23,39.5,36,None,Best Case
+DL-10175,Technology Corp #176,Hannah Brooks,Mid-Market,APAC,Technology,Integration Suite,Inbound,24500,Closed Lost,2023-01-13,2023-02-21,24,22.0,38,Salesforce,Commit
+DL-10176,Real Estate Corp #177,Alice Morgan,Enterprise,North America,Real Estate,Analytics Add-on,Event,12500,Lead,2022-01-17,,28,82.2,13,Zoho,Pipeline
+DL-10177,Retail Corp #178,Brian Chen,Mid-Market,North America,Retail,Support Plus,Inbound,3000,Lead,2022-02-12,,17,25.6,11,None,Best Case
+DL-10178,Technology Corp #179,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Referral,40000,Closed Lost,2023-06-27,2023-08-02,26,79.6,4,Microsoft,Closed
+DL-10179,Manufacturing Corp #180,Diana Patel,Enterprise,Europe,Manufacturing,Support Plus,Partner,3000,Lead,2023-07-03,,4,70.2,33,Zoho,Best Case
+DL-10180,Finance Corp #181,Ethan Park,SMB,APAC,Finance,Integration Suite,Outbound,42000,Closed Lost,2022-05-06,2022-06-13,10,53.4,32,None,Commit
+DL-10181,Technology Corp #182,Fiona Walsh,SMB,Europe,Technology,Integration Suite,Outbound,24500,Lead,2023-08-20,,28,58.0,26,Salesforce,Pipeline
+DL-10182,Healthcare Corp #183,George Kim,Enterprise,North America,Healthcare,Integration Suite,Partner,31500,Lead,2022-08-07,,14,66.7,20,HubSpot,Best Case
+DL-10183,Finance Corp #184,Hannah Brooks,Mid-Market,APAC,Finance,Support Plus,Inbound,3000,Lead,2022-07-20,,2,80.2,24,Microsoft,Pipeline
+DL-10184,Education Corp #185,Alice Morgan,Enterprise,North America,Education,CRM Pro,Inbound,21500,Lead,2024-01-19,,16,22.2,27,Salesforce,Best Case
+DL-10185,Education Corp #186,Brian Chen,Mid-Market,North America,Education,Support Plus,Outbound,5500,Lead,2023-01-12,,27,43.2,33,Zoho,Closed
+DL-10186,Technology Corp #187,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Event,5000,Lead,2024-01-30,,2,69.9,32,None,Pipeline
+DL-10187,Finance Corp #188,Diana Patel,Enterprise,Europe,Finance,Integration Suite,Outbound,41500,Lead,2022-10-21,,22,68.5,35,Microsoft,Best Case
+DL-10188,Technology Corp #189,Ethan Park,SMB,APAC,Technology,CRM Pro,Partner,18000,Closed Lost,2023-10-25,2023-11-16,4,30.7,3,HubSpot,Pipeline
+DL-10189,Finance Corp #190,Fiona Walsh,SMB,Europe,Finance,Support Plus,Partner,5500,Lead,2024-01-10,,7,25.1,17,Zoho,Best Case
+DL-10190,Technology Corp #191,George Kim,Enterprise,North America,Technology,CRM Pro,Event,13000,Lead,2023-02-13,,24,88.7,18,HubSpot,Best Case
+DL-10191,Healthcare Corp #192,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Outbound,8000,Lead,2023-04-27,,15,23.4,31,Zoho,Pipeline
+DL-10192,Finance Corp #193,Alice Morgan,Enterprise,North America,Finance,CRM Enterprise,Outbound,141500,Lead,2022-03-07,,12,65.4,16,Salesforce,Closed
+DL-10193,Healthcare Corp #194,Brian Chen,Mid-Market,North America,Healthcare,Integration Suite,Paid Search,17500,Closed Lost,2022-07-29,2022-09-03,29,35.7,37,HubSpot,Best Case
+DL-10194,Healthcare Corp #195,Carlos Rivera,Mid-Market,LATAM,Healthcare,Support Plus,Inbound,6000,Lead,2024-04-03,,4,86.6,25,None,Closed
+DL-10195,Healthcare Corp #196,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Paid Search,13000,Lead,2023-12-09,,29,32.6,12,None,Best Case
+DL-10196,Manufacturing Corp #197,Ethan Park,SMB,APAC,Manufacturing,Support Plus,Inbound,4000,Lead,2022-11-10,,8,46.0,24,Salesforce,Best Case
+DL-10197,Finance Corp #198,Fiona Walsh,SMB,Europe,Finance,Analytics Add-on,Event,7000,Lead,2023-11-04,,9,54.6,30,Salesforce,Closed
+DL-10198,Retail Corp #199,George Kim,Enterprise,North America,Retail,Analytics Add-on,Referral,6000,Closed Lost,2023-07-03,2023-08-06,11,61.2,5,None,Best Case
+DL-10199,Technology Corp #200,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Outbound,24000,Lead,2022-03-27,,22,56.9,22,Microsoft,Best Case
+DL-10200,Finance Corp #201,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Event,14000,Lead,2024-03-29,,14,64.4,32,Microsoft,Closed
+DL-10201,Technology Corp #202,Brian Chen,Mid-Market,North America,Technology,Support Plus,Partner,6000,Lead,2024-03-28,,2,58.3,26,Zoho,Pipeline
+DL-10202,Finance Corp #203,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Partner,3000,Lead,2023-04-28,,19,45.0,30,Microsoft,Commit
+DL-10203,Real Estate Corp #204,Diana Patel,Enterprise,Europe,Real Estate,CRM Enterprise,Partner,148000,Lead,2022-09-27,,1,75.5,8,None,Commit
+DL-10204,Finance Corp #205,Ethan Park,SMB,APAC,Finance,CRM Pro,Referral,22000,Closed Won,2022-03-23,2022-04-25,26,80.6,38,Salesforce,Closed
+DL-10205,Finance Corp #206,Fiona Walsh,SMB,Europe,Finance,CRM Enterprise,Outbound,52000,Closed Won,2023-12-28,2024-02-05,27,80.3,37,HubSpot,Closed
+DL-10206,Healthcare Corp #207,George Kim,Enterprise,North America,Healthcare,Support Plus,Referral,8500,Lead,2022-07-20,,1,77.0,9,None,Closed
+DL-10207,Healthcare Corp #208,Hannah Brooks,Mid-Market,APAC,Healthcare,Integration Suite,Inbound,32500,Lead,2023-09-17,,8,80.3,23,Microsoft,Pipeline
+DL-10208,Retail Corp #209,Alice Morgan,Enterprise,North America,Retail,CRM Enterprise,Inbound,104000,Lead,2024-03-18,,24,50.2,6,Salesforce,Commit
+DL-10209,Retail Corp #210,Brian Chen,Mid-Market,North America,Retail,CRM Pro,Partner,9000,Lead,2022-01-04,,8,27.6,16,HubSpot,Closed
+DL-10210,Healthcare Corp #211,Carlos Rivera,Mid-Market,LATAM,Healthcare,Integration Suite,Paid Search,41500,Lead,2023-01-22,,11,28.7,4,Microsoft,Closed
+DL-10211,Manufacturing Corp #212,Diana Patel,Enterprise,Europe,Manufacturing,CRM Enterprise,Inbound,62000,Closed Lost,2024-03-12,2024-04-08,6,90.8,12,Microsoft,Commit
+DL-10212,Real Estate Corp #213,Ethan Park,SMB,APAC,Real Estate,CRM Pro,Paid Search,14000,Closed Lost,2023-04-03,2023-04-30,13,47.7,4,None,Best Case
+DL-10213,Manufacturing Corp #214,Fiona Walsh,SMB,Europe,Manufacturing,CRM Enterprise,Referral,73500,Lead,2023-03-09,,26,65.6,13,Salesforce,Commit
+DL-10214,Retail Corp #215,George Kim,Enterprise,North America,Retail,Integration Suite,Inbound,44000,Closed Lost,2023-09-17,2023-10-07,14,70.0,33,None,Best Case
+DL-10215,Technology Corp #216,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Outbound,42000,Lead,2022-11-05,,1,57.0,17,Microsoft,Best Case
+DL-10216,Technology Corp #217,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Inbound,13500,Lead,2022-12-30,,23,36.5,7,Zoho,Best Case
+DL-10217,Technology Corp #218,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Inbound,10000,Lead,2022-01-17,,9,46.1,16,Salesforce,Pipeline
+DL-10218,Finance Corp #219,Carlos Rivera,Mid-Market,LATAM,Finance,Integration Suite,Inbound,39500,Lead,2024-04-02,,23,49.9,14,Salesforce,Pipeline
+DL-10219,Technology Corp #220,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Inbound,27500,Closed Lost,2023-09-07,2023-10-12,17,68.8,26,Microsoft,Commit
+DL-10220,Technology Corp #221,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Inbound,71000,Closed Lost,2023-07-24,2023-09-10,23,67.7,17,None,Pipeline
+DL-10221,Healthcare Corp #222,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Event,23000,Lead,2023-05-09,,2,89.8,21,Salesforce,Pipeline
+DL-10222,Healthcare Corp #223,George Kim,Enterprise,North America,Healthcare,Analytics Add-on,Outbound,12500,Lead,2024-05-18,,28,77.1,23,Salesforce,Best Case
+DL-10223,Finance Corp #224,Hannah Brooks,Mid-Market,APAC,Finance,Support Plus,Partner,6000,Lead,2023-09-10,,4,49.4,27,Salesforce,Commit
+DL-10224,Finance Corp #225,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Referral,14500,Closed Lost,2022-08-26,2022-09-28,13,93.6,10,None,Closed
+DL-10225,Education Corp #226,Brian Chen,Mid-Market,North America,Education,Analytics Add-on,Paid Search,8500,Lead,2024-06-03,,12,43.2,11,Microsoft,Commit
+DL-10226,Real Estate Corp #227,Carlos Rivera,Mid-Market,LATAM,Real Estate,CRM Enterprise,Outbound,163000,Lead,2022-01-12,,1,37.2,26,Salesforce,Pipeline
+DL-10227,Manufacturing Corp #228,Diana Patel,Enterprise,Europe,Manufacturing,Analytics Add-on,Inbound,7500,Closed Won,2023-01-04,2023-03-30,68,67.7,6,Salesforce,Pipeline
+DL-10228,Healthcare Corp #229,Ethan Park,SMB,APAC,Healthcare,CRM Enterprise,Event,97000,Lead,2022-08-18,,17,38.0,10,Zoho,Pipeline
+DL-10229,Finance Corp #230,Fiona Walsh,SMB,Europe,Finance,Analytics Add-on,Inbound,12500,Closed Lost,2024-05-25,2024-06-14,5,73.9,23,HubSpot,Pipeline
+DL-10230,Manufacturing Corp #231,George Kim,Enterprise,North America,Manufacturing,Support Plus,Partner,5000,Lead,2024-05-16,,26,55.7,21,Salesforce,Best Case
+DL-10231,Technology Corp #232,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Inbound,10500,Lead,2023-08-05,,11,54.5,6,None,Pipeline
+DL-10232,Retail Corp #233,Alice Morgan,Enterprise,North America,Retail,Support Plus,Referral,8000,Lead,2022-05-19,,26,51.9,4,Salesforce,Commit
+DL-10233,Technology Corp #234,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Outbound,9000,Closed Lost,2023-10-24,2023-11-14,6,86.2,4,Salesforce,Pipeline
+DL-10234,Retail Corp #235,Carlos Rivera,Mid-Market,LATAM,Retail,Integration Suite,Partner,36000,Lead,2023-01-22,,9,81.3,9,HubSpot,Closed
+DL-10235,Manufacturing Corp #236,Diana Patel,Enterprise,Europe,Manufacturing,Support Plus,Inbound,6500,Closed Lost,2022-12-15,2023-01-08,13,58.8,12,Microsoft,Best Case
+DL-10236,Healthcare Corp #237,Ethan Park,SMB,APAC,Healthcare,Integration Suite,Inbound,32500,Closed Lost,2023-05-28,2023-07-19,23,53.7,8,Salesforce,Pipeline
+DL-10237,Manufacturing Corp #238,Fiona Walsh,SMB,Europe,Manufacturing,CRM Enterprise,Partner,156500,Lead,2022-09-08,,24,45.2,39,Zoho,Commit
+DL-10238,Retail Corp #239,George Kim,Enterprise,North America,Retail,Support Plus,Outbound,9500,Lead,2022-12-15,,5,48.8,3,None,Pipeline
+DL-10239,Retail Corp #240,Hannah Brooks,Mid-Market,APAC,Retail,CRM Enterprise,Inbound,110000,Lead,2023-10-07,,24,23.9,21,None,Closed
+DL-10240,Technology Corp #241,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Inbound,14500,Lead,2024-03-15,,24,43.7,33,Microsoft,Pipeline
+DL-10241,Healthcare Corp #242,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Paid Search,13500,Closed Lost,2023-07-29,2023-08-11,8,49.3,10,HubSpot,Closed
+DL-10242,Healthcare Corp #243,Carlos Rivera,Mid-Market,LATAM,Healthcare,Integration Suite,Inbound,25000,Lead,2023-12-19,,9,44.9,5,HubSpot,Closed
+DL-10243,Finance Corp #244,Diana Patel,Enterprise,Europe,Finance,Analytics Add-on,Referral,12500,Lead,2024-06-25,,10,20.9,19,Zoho,Pipeline
+DL-10244,Finance Corp #245,Ethan Park,SMB,APAC,Finance,Integration Suite,Event,25000,Lead,2023-10-07,,13,39.8,10,Microsoft,Pipeline
+DL-10245,Healthcare Corp #246,Fiona Walsh,SMB,Europe,Healthcare,CRM Enterprise,Inbound,150000,Closed Lost,2023-06-29,2023-07-19,5,72.2,19,Salesforce,Best Case
+DL-10246,Finance Corp #247,George Kim,Enterprise,North America,Finance,Analytics Add-on,Referral,8500,Lead,2023-02-17,,20,38.7,3,Salesforce,Pipeline
+DL-10247,Healthcare Corp #248,Hannah Brooks,Mid-Market,APAC,Healthcare,Support Plus,Event,9500,Lead,2024-03-18,,6,71.0,18,Salesforce,Best Case
+DL-10248,Technology Corp #249,Alice Morgan,Enterprise,North America,Technology,Integration Suite,Inbound,43000,Closed Lost,2023-10-27,2023-12-05,18,57.4,30,HubSpot,Closed
+DL-10249,Technology Corp #250,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Inbound,15000,Closed Lost,2023-02-02,2023-03-30,34,26.9,10,Zoho,Commit
+DL-10250,Technology Corp #251,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Inbound,11500,Lead,2022-08-15,,2,65.5,27,Salesforce,Closed
+DL-10251,Manufacturing Corp #252,Diana Patel,Enterprise,Europe,Manufacturing,Analytics Add-on,Inbound,9500,Lead,2023-12-21,,12,94.1,13,None,Best Case
+DL-10252,Technology Corp #253,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Inbound,10000,Lead,2022-12-04,,26,54.1,26,Salesforce,Commit
+DL-10253,Healthcare Corp #254,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Inbound,29500,Lead,2023-12-19,,13,64.9,10,Microsoft,Best Case
+DL-10254,Finance Corp #255,George Kim,Enterprise,North America,Finance,Integration Suite,Inbound,18500,Lead,2023-10-15,,1,28.4,22,None,Closed
+DL-10255,Retail Corp #256,Hannah Brooks,Mid-Market,APAC,Retail,Analytics Add-on,Referral,13000,Closed Lost,2022-04-12,2022-05-08,9,60.2,16,HubSpot,Closed
+DL-10256,Manufacturing Corp #257,Alice Morgan,Enterprise,North America,Manufacturing,Support Plus,Outbound,5000,Closed Lost,2023-04-08,2023-05-20,28,61.5,21,Salesforce,Closed
+DL-10257,Retail Corp #258,Brian Chen,Mid-Market,North America,Retail,CRM Pro,Outbound,13500,Lead,2023-01-15,,1,50.8,29,HubSpot,Best Case
+DL-10258,Healthcare Corp #259,Carlos Rivera,Mid-Market,LATAM,Healthcare,Support Plus,Event,8000,Closed Won,2023-04-17,2023-06-25,58,24.3,17,Salesforce,Pipeline
+DL-10259,Real Estate Corp #260,Diana Patel,Enterprise,Europe,Real Estate,Analytics Add-on,Outbound,10500,Lead,2023-01-28,,16,32.9,21,HubSpot,Closed
+DL-10260,Finance Corp #261,Ethan Park,SMB,APAC,Finance,Support Plus,Outbound,7500,Lead,2024-05-03,,13,28.6,31,None,Commit
+DL-10261,Real Estate Corp #262,Fiona Walsh,SMB,Europe,Real Estate,CRM Pro,Event,8000,Lead,2022-03-05,,14,71.6,12,Salesforce,Commit
+DL-10262,Finance Corp #263,George Kim,Enterprise,North America,Finance,CRM Pro,Partner,15500,Lead,2022-07-06,,4,58.3,33,HubSpot,Best Case
+DL-10263,Technology Corp #264,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Partner,21500,Lead,2022-07-06,,2,60.6,38,Salesforce,Commit
+DL-10264,Technology Corp #265,Alice Morgan,Enterprise,North America,Technology,CRM Enterprise,Paid Search,122000,Demo,2022-07-31,,59,47.7,4,HubSpot,Closed
+DL-10265,Healthcare Corp #266,Brian Chen,Mid-Market,North America,Healthcare,CRM Enterprise,Outbound,145500,Lead,2022-01-05,,24,25.0,31,Microsoft,Commit
+DL-10266,Retail Corp #267,Carlos Rivera,Mid-Market,LATAM,Retail,CRM Enterprise,Inbound,161000,Lead,2022-07-09,,21,46.0,17,Salesforce,Pipeline
+DL-10267,Finance Corp #268,Diana Patel,Enterprise,Europe,Finance,Support Plus,Partner,7500,Lead,2023-06-14,,19,73.7,13,Salesforce,Pipeline
+DL-10268,Technology Corp #269,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Partner,13500,Lead,2023-10-25,,22,30.0,19,Microsoft,Closed
+DL-10269,Healthcare Corp #270,Fiona Walsh,SMB,Europe,Healthcare,CRM Pro,Paid Search,12000,Closed Lost,2023-08-06,2023-09-07,10,36.4,25,HubSpot,Commit
+DL-10270,Manufacturing Corp #271,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Paid Search,27000,Closed Lost,2023-12-21,2024-01-23,23,54.8,12,HubSpot,Closed
+DL-10271,Manufacturing Corp #272,Hannah Brooks,Mid-Market,APAC,Manufacturing,Integration Suite,Referral,13000,Lead,2022-10-23,,27,87.6,39,None,Closed
+DL-10272,Technology Corp #273,Alice Morgan,Enterprise,North America,Technology,Support Plus,Inbound,3000,Lead,2024-07-02,,10,84.4,39,Salesforce,Pipeline
+DL-10273,Healthcare Corp #274,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Partner,24000,Closed Won,2024-02-16,2024-04-01,18,73.0,14,Salesforce,Best Case
+DL-10274,Technology Corp #275,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Partner,11000,Lead,2023-06-22,,17,53.2,29,HubSpot,Pipeline
+DL-10275,Finance Corp #276,Diana Patel,Enterprise,Europe,Finance,Analytics Add-on,Outbound,14000,Lead,2023-04-28,,7,68.7,32,None,Best Case
+DL-10276,Technology Corp #277,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Outbound,13000,Lead,2024-03-01,,4,24.1,26,Zoho,Pipeline
+DL-10277,Finance Corp #278,Fiona Walsh,SMB,Europe,Finance,CRM Pro,Referral,18500,Lead,2022-06-14,,21,82.8,9,Salesforce,Commit
+DL-10278,Finance Corp #279,George Kim,Enterprise,North America,Finance,Analytics Add-on,Outbound,9500,Lead,2023-09-20,,27,86.1,24,None,Commit
+DL-10279,Technology Corp #280,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Outbound,10500,Closed Lost,2022-02-17,2022-03-10,1,86.1,35,None,Pipeline
+DL-10280,Manufacturing Corp #281,Alice Morgan,Enterprise,North America,Manufacturing,Analytics Add-on,Inbound,12000,Qualified,2024-01-05,,47,83.6,5,HubSpot,Pipeline
+DL-10281,Real Estate Corp #282,Brian Chen,Mid-Market,North America,Real Estate,CRM Pro,Partner,19000,Lead,2022-10-08,,17,32.6,20,Salesforce,Closed
+DL-10282,Technology Corp #283,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Paid Search,6500,Closed Won,2022-06-01,2022-08-18,49,32.8,36,None,Pipeline
+DL-10283,Real Estate Corp #284,Diana Patel,Enterprise,Europe,Real Estate,CRM Enterprise,Event,172500,Lead,2023-07-19,,5,42.8,14,Salesforce,Pipeline
+DL-10284,Manufacturing Corp #285,Ethan Park,SMB,APAC,Manufacturing,CRM Pro,Outbound,15500,Lead,2024-01-23,,2,74.4,24,None,Commit
+DL-10285,Manufacturing Corp #286,Fiona Walsh,SMB,Europe,Manufacturing,Support Plus,Partner,9500,Lead,2022-12-06,,6,56.9,20,None,Best Case
+DL-10286,Manufacturing Corp #287,George Kim,Enterprise,North America,Manufacturing,CRM Enterprise,Referral,59500,Lead,2023-01-16,,15,81.3,21,None,Best Case
+DL-10287,Manufacturing Corp #288,Hannah Brooks,Mid-Market,APAC,Manufacturing,Integration Suite,Paid Search,44000,Lead,2023-11-10,,9,32.4,34,Microsoft,Best Case
+DL-10288,Education Corp #289,Alice Morgan,Enterprise,North America,Education,Support Plus,Referral,7000,Lead,2022-12-06,,23,87.0,15,None,Best Case
+DL-10289,Healthcare Corp #290,Brian Chen,Mid-Market,North America,Healthcare,Integration Suite,Inbound,34000,Lead,2022-07-19,,26,20.0,35,None,Commit
+DL-10290,Retail Corp #291,Carlos Rivera,Mid-Market,LATAM,Retail,Integration Suite,Outbound,27000,Closed Lost,2022-03-27,2022-04-23,15,35.6,11,Zoho,Best Case
+DL-10291,Finance Corp #292,Diana Patel,Enterprise,Europe,Finance,CRM Pro,Referral,19500,Lead,2023-11-27,,15,48.2,29,Microsoft,Commit
+DL-10292,Retail Corp #293,Ethan Park,SMB,APAC,Retail,CRM Pro,Referral,16500,Closed Lost,2024-04-13,2024-05-03,15,61.3,19,None,Pipeline
+DL-10293,Technology Corp #294,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Outbound,74000,Closed Lost,2023-03-03,2023-04-23,23,72.2,25,Salesforce,Pipeline
+DL-10294,Finance Corp #295,George Kim,Enterprise,North America,Finance,CRM Pro,Referral,11500,Lead,2024-02-23,,25,43.9,30,HubSpot,Pipeline
+DL-10295,Healthcare Corp #296,Hannah Brooks,Mid-Market,APAC,Healthcare,Analytics Add-on,Inbound,8000,Lead,2024-05-29,,20,65.9,28,HubSpot,Closed
+DL-10296,Education Corp #297,Alice Morgan,Enterprise,North America,Education,Analytics Add-on,Outbound,10000,Lead,2024-04-15,,10,60.7,15,HubSpot,Commit
+DL-10297,Technology Corp #298,Brian Chen,Mid-Market,North America,Technology,Analytics Add-on,Inbound,13000,Lead,2024-06-26,,16,54.0,10,Salesforce,Pipeline
+DL-10298,Retail Corp #299,Carlos Rivera,Mid-Market,LATAM,Retail,Support Plus,Outbound,6000,Lead,2022-08-14,,14,76.5,24,Zoho,Closed
+DL-10299,Retail Corp #300,Diana Patel,Enterprise,Europe,Retail,CRM Pro,Inbound,8000,Lead,2023-08-31,,12,87.2,36,HubSpot,Commit
+DL-10300,Technology Corp #301,Ethan Park,SMB,APAC,Technology,CRM Pro,Paid Search,20000,Closed Lost,2023-07-07,2023-08-19,26,28.8,28,Zoho,Pipeline
+DL-10301,Retail Corp #302,Fiona Walsh,SMB,Europe,Retail,CRM Pro,Inbound,10500,Lead,2023-05-16,,27,69.4,37,None,Best Case
+DL-10302,Finance Corp #303,George Kim,Enterprise,North America,Finance,Analytics Add-on,Referral,9000,Lead,2024-05-12,,3,27.4,5,HubSpot,Pipeline
+DL-10303,Finance Corp #304,Hannah Brooks,Mid-Market,APAC,Finance,Support Plus,Referral,3000,Lead,2023-11-08,,1,27.7,9,Microsoft,Pipeline
+DL-10304,Education Corp #305,Alice Morgan,Enterprise,North America,Education,Integration Suite,Inbound,44000,Closed Lost,2024-06-06,2024-06-25,13,71.9,19,Salesforce,Commit
+DL-10305,Technology Corp #306,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Partner,97000,Lead,2024-01-21,,14,80.4,15,Salesforce,Pipeline
+DL-10306,Finance Corp #307,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Inbound,8500,Lead,2022-12-15,,24,54.4,14,Zoho,Pipeline
+DL-10307,Education Corp #308,Diana Patel,Enterprise,Europe,Education,CRM Pro,Referral,15000,Lead,2024-05-07,,10,66.4,15,Zoho,Closed
+DL-10308,Technology Corp #309,Ethan Park,SMB,APAC,Technology,Integration Suite,Referral,15500,Closed Lost,2024-05-08,2024-07-02,30,65.9,16,HubSpot,Pipeline
+DL-10309,Healthcare Corp #310,Fiona Walsh,SMB,Europe,Healthcare,Support Plus,Referral,6500,Lead,2022-09-12,,7,22.2,36,Salesforce,Pipeline
+DL-10310,Finance Corp #311,George Kim,Enterprise,North America,Finance,CRM Enterprise,Inbound,129000,Closed Lost,2023-04-05,2023-05-24,22,90.1,36,None,Commit
+DL-10311,Healthcare Corp #312,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Inbound,90000,Lead,2023-12-16,,12,69.4,3,Zoho,Pipeline
+DL-10312,Technology Corp #313,Alice Morgan,Enterprise,North America,Technology,Support Plus,Inbound,9000,Lead,2024-02-12,,15,63.0,15,Salesforce,Pipeline
+DL-10313,Technology Corp #314,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Outbound,19500,Lead,2022-08-03,,7,53.0,7,HubSpot,Commit
+DL-10314,Healthcare Corp #315,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Enterprise,Referral,44000,Lead,2023-08-27,,20,33.6,26,Salesforce,Pipeline
+DL-10315,Finance Corp #316,Diana Patel,Enterprise,Europe,Finance,CRM Pro,Inbound,10500,Closed Lost,2023-01-18,2023-02-23,22,27.5,3,None,Commit
+DL-10316,Technology Corp #317,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Partner,7000,Lead,2024-05-17,,9,40.8,4,Zoho,Pipeline
+DL-10317,Healthcare Corp #318,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Inbound,8500,Lead,2023-06-18,,1,23.0,24,HubSpot,Closed
+DL-10318,Finance Corp #319,George Kim,Enterprise,North America,Finance,Analytics Add-on,Referral,10000,Closed Lost,2023-11-19,2023-11-30,4,50.8,9,Salesforce,Pipeline
+DL-10319,Technology Corp #320,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Inbound,3500,Lead,2022-02-16,,19,44.9,27,Zoho,Commit
+DL-10320,Retail Corp #321,Alice Morgan,Enterprise,North America,Retail,Integration Suite,Referral,34500,Lead,2022-07-17,,7,61.1,30,HubSpot,Best Case
+DL-10321,Technology Corp #322,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Inbound,49000,Lead,2022-12-25,,21,39.5,35,Zoho,Pipeline
+DL-10322,Technology Corp #323,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Partner,11000,Closed Lost,2023-12-25,2024-01-05,5,69.2,22,Salesforce,Pipeline
+DL-10323,Real Estate Corp #324,Diana Patel,Enterprise,Europe,Real Estate,Support Plus,Inbound,9500,Lead,2024-06-23,,29,63.3,35,HubSpot,Best Case
+DL-10324,Finance Corp #325,Ethan Park,SMB,APAC,Finance,Integration Suite,Referral,26500,Closed Lost,2023-09-01,2023-10-01,15,40.9,7,Salesforce,Commit
+DL-10325,Finance Corp #326,Fiona Walsh,SMB,Europe,Finance,Integration Suite,Partner,13000,Lead,2024-06-26,,9,39.0,35,Salesforce,Pipeline
+DL-10326,Real Estate Corp #327,George Kim,Enterprise,North America,Real Estate,Analytics Add-on,Inbound,14500,Lead,2022-05-19,,26,20.4,3,HubSpot,Pipeline
+DL-10327,Technology Corp #328,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Inbound,150500,Closed Lost,2023-07-27,2023-08-26,22,65.4,34,Salesforce,Commit
+DL-10328,Healthcare Corp #329,Alice Morgan,Enterprise,North America,Healthcare,CRM Enterprise,Outbound,135000,Lead,2022-04-26,,1,83.2,20,None,Commit
+DL-10329,Retail Corp #330,Brian Chen,Mid-Market,North America,Retail,Analytics Add-on,Event,11000,Closed Lost,2022-12-31,2023-01-29,24,47.2,23,None,Pipeline
+DL-10330,Manufacturing Corp #331,Carlos Rivera,Mid-Market,LATAM,Manufacturing,CRM Enterprise,Inbound,105000,Lead,2023-10-16,,9,87.5,32,None,Commit
+DL-10331,Education Corp #332,Diana Patel,Enterprise,Europe,Education,Analytics Add-on,Event,7500,Closed Lost,2022-03-16,2022-04-28,27,23.2,28,Zoho,Closed
+DL-10332,Technology Corp #333,Ethan Park,SMB,APAC,Technology,Integration Suite,Outbound,42500,Lead,2023-04-02,,10,41.6,14,Zoho,Pipeline
+DL-10333,Healthcare Corp #334,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Inbound,20000,Lead,2023-05-10,,25,58.6,6,Microsoft,Best Case
+DL-10334,Finance Corp #335,George Kim,Enterprise,North America,Finance,Integration Suite,Outbound,19000,Closed Won,2023-03-16,2023-04-13,22,86.8,20,HubSpot,Best Case
+DL-10335,Healthcare Corp #336,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Referral,147500,Closed Lost,2022-10-16,2022-11-08,4,72.0,28,None,Closed
+DL-10336,Finance Corp #337,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Inbound,11000,Lead,2022-01-24,,9,83.7,10,Salesforce,Closed
+DL-10337,Technology Corp #338,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Inbound,87500,Lead,2023-12-07,,19,55.6,5,Salesforce,Pipeline
+DL-10338,Education Corp #339,Carlos Rivera,Mid-Market,LATAM,Education,CRM Enterprise,Referral,119500,Lead,2022-08-19,,9,80.7,24,None,Best Case
+DL-10339,Finance Corp #340,Diana Patel,Enterprise,Europe,Finance,Support Plus,Event,9500,Lead,2023-12-06,,10,74.9,37,Zoho,Closed
+DL-10340,Healthcare Corp #341,Ethan Park,SMB,APAC,Healthcare,Integration Suite,Outbound,34000,Lead,2023-11-23,,14,38.8,7,Microsoft,Closed
+DL-10341,Healthcare Corp #342,Fiona Walsh,SMB,Europe,Healthcare,Support Plus,Outbound,5000,Lead,2022-05-29,,20,46.6,17,Salesforce,Closed
+DL-10342,Healthcare Corp #343,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Referral,138000,Lead,2023-02-23,,12,74.8,8,Salesforce,Pipeline
+DL-10343,Technology Corp #344,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Partner,3500,Closed Lost,2022-09-30,2022-10-25,5,72.4,10,Salesforce,Best Case
+DL-10344,Technology Corp #345,Alice Morgan,Enterprise,North America,Technology,Support Plus,Inbound,4500,Closed Lost,2023-04-30,2023-05-29,20,85.9,23,Zoho,Best Case
+DL-10345,Finance Corp #346,Brian Chen,Mid-Market,North America,Finance,CRM Enterprise,Outbound,115000,Lead,2022-07-03,,10,47.0,14,Salesforce,Commit
+DL-10346,Healthcare Corp #347,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Enterprise,Inbound,195000,Lead,2023-10-23,,2,63.5,37,None,Best Case
+DL-10347,Manufacturing Corp #348,Diana Patel,Enterprise,Europe,Manufacturing,Analytics Add-on,Partner,8000,Lead,2022-01-12,,7,65.8,3,Salesforce,Pipeline
+DL-10348,Technology Corp #349,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Inbound,101000,Lead,2023-02-09,,2,64.1,16,None,Best Case
+DL-10349,Manufacturing Corp #350,Fiona Walsh,SMB,Europe,Manufacturing,CRM Enterprise,Referral,165500,Lead,2023-01-14,,28,36.5,26,Microsoft,Pipeline
+DL-10350,Technology Corp #351,George Kim,Enterprise,North America,Technology,Support Plus,Referral,8000,Closed Won,2022-07-27,2022-10-17,68,82.9,8,Microsoft,Pipeline
+DL-10351,Technology Corp #352,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Inbound,9500,Lead,2022-08-25,,4,81.7,36,Microsoft,Best Case
+DL-10352,Healthcare Corp #353,Alice Morgan,Enterprise,North America,Healthcare,CRM Pro,Inbound,9000,Closed Lost,2022-04-27,2022-05-14,4,94.2,28,Zoho,Pipeline
+DL-10353,Healthcare Corp #354,Brian Chen,Mid-Market,North America,Healthcare,Integration Suite,Inbound,14500,Lead,2023-09-06,,19,51.2,3,HubSpot,Pipeline
+DL-10354,Technology Corp #355,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Referral,14500,Closed Lost,2024-05-31,2024-06-10,4,66.3,10,Microsoft,Pipeline
+DL-10355,Healthcare Corp #356,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Inbound,14000,Closed Lost,2022-11-17,2023-01-05,23,82.3,11,HubSpot,Best Case
+DL-10356,Real Estate Corp #357,Ethan Park,SMB,APAC,Real Estate,Analytics Add-on,Event,8000,Lead,2023-01-20,,17,85.0,5,None,Pipeline
+DL-10357,Healthcare Corp #358,Fiona Walsh,SMB,Europe,Healthcare,Support Plus,Referral,7000,Lead,2022-02-24,,19,20.8,30,Microsoft,Best Case
+DL-10358,Technology Corp #359,George Kim,Enterprise,North America,Technology,CRM Pro,Outbound,11500,Lead,2023-09-05,,15,64.5,24,Salesforce,Best Case
+DL-10359,Finance Corp #360,Hannah Brooks,Mid-Market,APAC,Finance,Support Plus,Inbound,4500,Closed Lost,2024-01-28,2024-02-27,8,44.8,30,HubSpot,Pipeline
+DL-10360,Finance Corp #361,Alice Morgan,Enterprise,North America,Finance,Support Plus,Inbound,6000,Lead,2022-08-28,,13,41.6,3,Microsoft,Pipeline
+DL-10361,Retail Corp #362,Brian Chen,Mid-Market,North America,Retail,Support Plus,Inbound,5000,Closed Won,2022-04-28,2022-05-31,22,68.2,13,Microsoft,Pipeline
+DL-10362,Finance Corp #363,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Enterprise,Event,140000,Lead,2023-07-14,,9,32.3,9,None,Best Case
+DL-10363,Healthcare Corp #364,Diana Patel,Enterprise,Europe,Healthcare,Support Plus,Outbound,7000,Closed Won,2023-07-18,2023-08-12,10,80.9,3,None,Commit
+DL-10364,Manufacturing Corp #365,Ethan Park,SMB,APAC,Manufacturing,Integration Suite,Outbound,20500,Lead,2023-05-26,,21,86.4,33,Salesforce,Commit
+DL-10365,Technology Corp #366,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Inbound,22500,Closed Lost,2022-07-31,2022-09-04,27,84.4,21,None,Pipeline
+DL-10366,Retail Corp #367,George Kim,Enterprise,North America,Retail,Integration Suite,Referral,28500,Closed Lost,2024-05-02,2024-06-03,18,48.0,35,Salesforce,Pipeline
+DL-10367,Healthcare Corp #368,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Paid Search,11000,Lead,2023-01-27,,19,31.0,10,HubSpot,Commit
+DL-10368,Healthcare Corp #369,Alice Morgan,Enterprise,North America,Healthcare,Integration Suite,Inbound,20500,Lead,2023-12-18,,27,87.3,34,Salesforce,Closed
+DL-10369,Healthcare Corp #370,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Partner,12500,Closed Lost,2022-09-02,2022-11-04,37,78.9,13,Zoho,Pipeline
+DL-10370,Manufacturing Corp #371,Carlos Rivera,Mid-Market,LATAM,Manufacturing,CRM Pro,Referral,8500,Closed Lost,2022-07-31,2022-08-17,8,20.4,19,Salesforce,Commit
+DL-10371,Technology Corp #372,Diana Patel,Enterprise,Europe,Technology,Analytics Add-on,Paid Search,13000,Lead,2022-10-14,,25,75.6,28,HubSpot,Closed
+DL-10372,Technology Corp #373,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Inbound,14500,Lead,2022-03-22,,6,67.7,17,Microsoft,Pipeline
+DL-10373,Finance Corp #374,Fiona Walsh,SMB,Europe,Finance,Support Plus,Paid Search,9500,Lead,2024-05-04,,12,89.2,8,HubSpot,Pipeline
+DL-10374,Finance Corp #375,George Kim,Enterprise,North America,Finance,CRM Enterprise,Paid Search,47500,Closed Lost,2023-09-14,2023-10-31,19,42.4,31,HubSpot,Pipeline
+DL-10375,Technology Corp #376,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Inbound,11500,Closed Lost,2022-08-22,2022-09-23,16,22.5,7,HubSpot,Pipeline
+DL-10376,Healthcare Corp #377,Alice Morgan,Enterprise,North America,Healthcare,CRM Enterprise,Referral,51500,Lead,2023-06-29,,13,34.7,33,None,Best Case
+DL-10377,Healthcare Corp #378,Brian Chen,Mid-Market,North America,Healthcare,CRM Enterprise,Paid Search,47000,Lead,2023-08-28,,22,39.5,3,HubSpot,Best Case
+DL-10378,Finance Corp #379,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Enterprise,Inbound,75000,Closed Lost,2024-04-17,2024-05-20,25,25.1,29,Zoho,Best Case
+DL-10379,Technology Corp #380,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Inbound,19500,Lead,2023-11-12,,21,88.8,6,Salesforce,Commit
+DL-10380,Technology Corp #381,Ethan Park,SMB,APAC,Technology,CRM Pro,Event,14500,Lead,2022-11-09,,13,84.6,35,Salesforce,Commit
+DL-10381,Finance Corp #382,Fiona Walsh,SMB,Europe,Finance,Analytics Add-on,Outbound,13000,Lead,2023-05-30,,9,49.9,34,HubSpot,Best Case
+DL-10382,Manufacturing Corp #383,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Inbound,43000,Closed Won,2022-01-17,2022-03-13,46,52.1,5,Salesforce,Best Case
+DL-10383,Healthcare Corp #384,Hannah Brooks,Mid-Market,APAC,Healthcare,Analytics Add-on,Outbound,14000,Closed Lost,2022-10-30,2022-11-15,4,42.4,14,Salesforce,Commit
+DL-10384,Technology Corp #385,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Inbound,8000,Closed Lost,2023-11-28,2023-12-09,2,55.7,30,Salesforce,Best Case
+DL-10385,Finance Corp #386,Brian Chen,Mid-Market,North America,Finance,CRM Enterprise,Event,121500,Lead,2024-05-05,,27,34.9,13,HubSpot,Best Case
+DL-10386,Healthcare Corp #387,Carlos Rivera,Mid-Market,LATAM,Healthcare,Analytics Add-on,Inbound,12000,Lead,2023-02-14,,25,69.8,7,HubSpot,Commit
+DL-10387,Technology Corp #388,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Inbound,8500,Closed Lost,2024-05-24,2024-06-30,28,49.4,38,Salesforce,Commit
+DL-10388,Technology Corp #389,Ethan Park,SMB,APAC,Technology,Support Plus,Referral,5000,Lead,2022-06-25,,5,86.6,26,None,Pipeline
+DL-10389,Healthcare Corp #390,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Outbound,32500,Lead,2022-05-16,,18,29.9,10,Salesforce,Pipeline
+DL-10390,Finance Corp #391,George Kim,Enterprise,North America,Finance,CRM Pro,Event,16500,Lead,2023-10-15,,6,48.4,22,HubSpot,Pipeline
+DL-10391,Healthcare Corp #392,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Inbound,90500,Closed Lost,2023-07-12,2023-07-27,7,42.3,6,Zoho,Pipeline
+DL-10392,Finance Corp #393,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Inbound,13500,Closed Lost,2023-06-06,2023-07-09,17,41.2,5,Zoho,Commit
+DL-10393,Healthcare Corp #394,Brian Chen,Mid-Market,North America,Healthcare,Support Plus,Outbound,5000,Lead,2023-11-27,,10,64.8,35,Salesforce,Pipeline
+DL-10394,Finance Corp #395,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Inbound,9000,Lead,2023-03-22,,21,82.2,10,Zoho,Best Case
+DL-10395,Healthcare Corp #396,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Outbound,38500,Lead,2023-02-01,,25,90.6,26,None,Closed
+DL-10396,Manufacturing Corp #397,Ethan Park,SMB,APAC,Manufacturing,CRM Pro,Outbound,8500,Lead,2023-09-09,,14,67.6,9,None,Best Case
+DL-10397,Technology Corp #398,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Outbound,20500,Lead,2022-07-17,,29,52.0,20,Zoho,Best Case
+DL-10398,Retail Corp #399,George Kim,Enterprise,North America,Retail,CRM Enterprise,Outbound,146500,Closed Won,2023-01-28,2023-03-04,12,84.3,37,Microsoft,Commit
+DL-10399,Manufacturing Corp #400,Hannah Brooks,Mid-Market,APAC,Manufacturing,Analytics Add-on,Referral,8000,Lead,2022-03-04,,27,81.2,25,HubSpot,Best Case
+DL-10400,Manufacturing Corp #401,Alice Morgan,Enterprise,North America,Manufacturing,Integration Suite,Inbound,40500,Lead,2023-12-12,,25,32.4,29,Microsoft,Commit
+DL-10401,Technology Corp #402,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Event,16500,Lead,2024-02-05,,21,43.0,12,None,Pipeline
+DL-10402,Technology Corp #403,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Enterprise,Event,48000,Lead,2022-04-21,,9,65.0,9,HubSpot,Commit
+DL-10403,Real Estate Corp #404,Diana Patel,Enterprise,Europe,Real Estate,Support Plus,Inbound,3500,Lead,2023-10-22,,6,21.9,12,HubSpot,Pipeline
+DL-10404,Technology Corp #405,Ethan Park,SMB,APAC,Technology,Integration Suite,Event,18500,Lead,2022-06-19,,3,52.8,13,Microsoft,Pipeline
+DL-10405,Education Corp #406,Fiona Walsh,SMB,Europe,Education,CRM Pro,Event,13500,Lead,2022-02-03,,14,20.9,23,None,Best Case
+DL-10406,Technology Corp #407,George Kim,Enterprise,North America,Technology,Support Plus,Referral,6500,Closed Lost,2022-08-05,2022-08-27,15,82.8,11,Salesforce,Best Case
+DL-10407,Retail Corp #408,Hannah Brooks,Mid-Market,APAC,Retail,CRM Enterprise,Inbound,132000,Closed Lost,2022-02-03,2022-02-11,2,52.8,34,HubSpot,Best Case
+DL-10408,Technology Corp #409,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Outbound,13500,Lead,2023-08-22,,11,37.4,17,Zoho,Closed
+DL-10409,Finance Corp #410,Brian Chen,Mid-Market,North America,Finance,CRM Pro,Event,18000,Lead,2022-09-18,,19,76.8,13,HubSpot,Closed
+DL-10410,Technology Corp #411,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Enterprise,Referral,186000,Lead,2023-05-15,,8,61.9,22,Salesforce,Pipeline
+DL-10411,Real Estate Corp #412,Diana Patel,Enterprise,Europe,Real Estate,Support Plus,Referral,9000,Lead,2022-01-10,,12,22.6,30,None,Pipeline
+DL-10412,Finance Corp #413,Ethan Park,SMB,APAC,Finance,Analytics Add-on,Referral,13500,Lead,2022-05-01,,9,77.0,28,HubSpot,Pipeline
+DL-10413,Retail Corp #414,Fiona Walsh,SMB,Europe,Retail,CRM Pro,Referral,11500,Lead,2024-05-13,,29,53.2,34,Salesforce,Closed
+DL-10414,Healthcare Corp #415,George Kim,Enterprise,North America,Healthcare,Integration Suite,Event,39500,Lead,2022-10-18,,1,22.8,21,HubSpot,Commit
+DL-10415,Finance Corp #416,Hannah Brooks,Mid-Market,APAC,Finance,Analytics Add-on,Paid Search,6000,Lead,2023-11-19,,28,90.4,13,HubSpot,Commit
+DL-10416,Retail Corp #417,Alice Morgan,Enterprise,North America,Retail,Analytics Add-on,Event,7000,Lead,2023-11-07,,2,42.8,39,None,Commit
+DL-10417,Real Estate Corp #418,Brian Chen,Mid-Market,North America,Real Estate,Integration Suite,Referral,19500,Lead,2023-08-09,,25,69.0,13,Microsoft,Best Case
+DL-10418,Technology Corp #419,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Enterprise,Inbound,158500,Closed Lost,2022-02-23,2022-03-17,9,50.0,5,Microsoft,Closed
+DL-10419,Technology Corp #420,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Event,13500,Lead,2022-03-12,,9,90.0,7,None,Best Case
+DL-10420,Retail Corp #421,Ethan Park,SMB,APAC,Retail,Analytics Add-on,Partner,10000,Lead,2023-03-04,,11,53.3,37,HubSpot,Best Case
+DL-10421,Retail Corp #422,Fiona Walsh,SMB,Europe,Retail,CRM Pro,Partner,9000,Lead,2023-03-16,,2,85.8,10,None,Best Case
+DL-10422,Technology Corp #423,George Kim,Enterprise,North America,Technology,Integration Suite,Outbound,22000,Lead,2023-04-06,,25,33.2,21,None,Closed
+DL-10423,Technology Corp #424,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Outbound,10500,Lead,2024-05-10,,10,33.4,35,Microsoft,Commit
+DL-10424,Real Estate Corp #425,Alice Morgan,Enterprise,North America,Real Estate,Analytics Add-on,Inbound,10000,Closed Lost,2024-05-29,2024-06-23,19,21.5,9,HubSpot,Closed
+DL-10425,Healthcare Corp #426,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Inbound,12500,Lead,2023-11-29,,26,55.8,17,Zoho,Closed
+DL-10426,Healthcare Corp #427,Carlos Rivera,Mid-Market,LATAM,Healthcare,Support Plus,Inbound,9500,Lead,2024-05-01,,2,39.7,20,HubSpot,Closed
+DL-10427,Manufacturing Corp #428,Diana Patel,Enterprise,Europe,Manufacturing,CRM Pro,Inbound,24500,Lead,2023-06-14,,3,58.3,12,HubSpot,Pipeline
+DL-10428,Healthcare Corp #429,Ethan Park,SMB,APAC,Healthcare,Analytics Add-on,Outbound,7500,Lead,2023-12-28,,19,62.8,25,Zoho,Commit
+DL-10429,Technology Corp #430,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Referral,111500,Lead,2023-11-02,,29,60.0,18,Salesforce,Closed
+DL-10430,Manufacturing Corp #431,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Inbound,39500,Closed Lost,2022-09-06,2022-10-01,4,30.0,34,None,Pipeline
+DL-10431,Education Corp #432,Hannah Brooks,Mid-Market,APAC,Education,Integration Suite,Inbound,19500,Lead,2022-11-04,,15,72.9,9,None,Pipeline
+DL-10432,Technology Corp #433,Alice Morgan,Enterprise,North America,Technology,Integration Suite,Partner,28500,Lead,2022-03-14,,21,38.3,19,Zoho,Commit
+DL-10433,Healthcare Corp #434,Brian Chen,Mid-Market,North America,Healthcare,Integration Suite,Outbound,27000,Lead,2024-03-04,,8,38.6,15,Zoho,Closed
+DL-10434,Healthcare Corp #435,Carlos Rivera,Mid-Market,LATAM,Healthcare,Integration Suite,Inbound,17000,Closed Lost,2022-09-02,2022-10-01,4,30.4,30,Salesforce,Closed
+DL-10435,Retail Corp #436,Diana Patel,Enterprise,Europe,Retail,CRM Enterprise,Paid Search,89500,Lead,2023-01-12,,13,38.1,28,None,Commit
+DL-10436,Technology Corp #437,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Referral,50000,Closed Lost,2023-11-08,2023-12-11,7,54.5,11,Salesforce,Closed
+DL-10437,Technology Corp #438,Fiona Walsh,SMB,Europe,Technology,Integration Suite,Inbound,27500,Qualified,2022-08-21,,41,20.6,21,Salesforce,Closed
+DL-10438,Manufacturing Corp #439,George Kim,Enterprise,North America,Manufacturing,Analytics Add-on,Inbound,13000,Lead,2022-03-04,,10,78.3,34,None,Best Case
+DL-10439,Retail Corp #440,Hannah Brooks,Mid-Market,APAC,Retail,CRM Pro,Event,9000,Lead,2022-01-09,,12,77.5,14,None,Pipeline
+DL-10440,Healthcare Corp #441,Alice Morgan,Enterprise,North America,Healthcare,Support Plus,Paid Search,7500,Lead,2022-07-26,,20,31.7,30,Microsoft,Pipeline
+DL-10441,Finance Corp #442,Brian Chen,Mid-Market,North America,Finance,Support Plus,Event,6500,Lead,2022-06-09,,16,22.0,19,HubSpot,Closed
+DL-10442,Technology Corp #443,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Inbound,22500,Lead,2023-03-01,,4,73.1,6,None,Closed
+DL-10443,Retail Corp #444,Diana Patel,Enterprise,Europe,Retail,CRM Pro,Inbound,15000,Lead,2023-04-03,,23,38.9,33,Salesforce,Closed
+DL-10444,Finance Corp #445,Ethan Park,SMB,APAC,Finance,CRM Enterprise,Outbound,82000,Lead,2024-07-03,,7,56.6,22,None,Pipeline
+DL-10445,Education Corp #446,Fiona Walsh,SMB,Europe,Education,Integration Suite,Partner,40500,Closed Lost,2023-07-27,2023-08-10,3,30.2,12,HubSpot,Closed
+DL-10446,Finance Corp #447,George Kim,Enterprise,North America,Finance,CRM Enterprise,Referral,121000,Lead,2024-05-03,,25,54.8,32,Microsoft,Commit
+DL-10447,Real Estate Corp #448,Hannah Brooks,Mid-Market,APAC,Real Estate,Analytics Add-on,Partner,12000,Closed Lost,2024-06-10,2024-08-16,46,93.7,36,HubSpot,Pipeline
+DL-10448,Healthcare Corp #449,Alice Morgan,Enterprise,North America,Healthcare,CRM Enterprise,Referral,50000,Lead,2024-01-25,,25,91.0,13,HubSpot,Closed
+DL-10449,Healthcare Corp #450,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Referral,24500,Lead,2024-01-18,,22,24.3,15,None,Pipeline
+DL-10450,Technology Corp #451,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Partner,13500,Closed Won,2023-02-15,2023-04-10,29,85.8,11,Microsoft,Pipeline
+DL-10451,Technology Corp #452,Diana Patel,Enterprise,Europe,Technology,Analytics Add-on,Inbound,11000,Lead,2023-10-22,,15,59.5,24,None,Commit
+DL-10452,Retail Corp #453,Ethan Park,SMB,APAC,Retail,Integration Suite,Inbound,18000,Closed Lost,2022-02-22,2022-03-18,18,63.0,33,HubSpot,Pipeline
+DL-10453,Finance Corp #454,Fiona Walsh,SMB,Europe,Finance,Support Plus,Event,3000,Lead,2023-07-27,,17,35.4,16,Salesforce,Pipeline
+DL-10454,Retail Corp #455,George Kim,Enterprise,North America,Retail,Support Plus,Inbound,7000,Lead,2023-04-15,,10,44.2,31,Salesforce,Commit
+DL-10455,Manufacturing Corp #456,Hannah Brooks,Mid-Market,APAC,Manufacturing,Support Plus,Paid Search,6000,Closed Lost,2022-10-02,2022-10-31,1,35.7,32,None,Pipeline
+DL-10456,Finance Corp #457,Alice Morgan,Enterprise,North America,Finance,Support Plus,Inbound,9000,Lead,2022-05-12,,23,31.0,26,Salesforce,Pipeline
+DL-10457,Retail Corp #458,Brian Chen,Mid-Market,North America,Retail,Analytics Add-on,Outbound,13000,Closed Lost,2024-04-14,2024-06-09,27,88.0,5,None,Best Case
+DL-10458,Technology Corp #459,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Inbound,23000,Lead,2023-08-24,,27,54.0,37,None,Pipeline
+DL-10459,Technology Corp #460,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Inbound,16500,Closed Lost,2023-01-22,2023-03-08,24,34.8,6,Salesforce,Closed
+DL-10460,Manufacturing Corp #461,Ethan Park,SMB,APAC,Manufacturing,CRM Enterprise,Outbound,59500,Closed Won,2022-07-29,2022-09-25,53,55.0,28,Salesforce,Pipeline
+DL-10461,Education Corp #462,Fiona Walsh,SMB,Europe,Education,CRM Enterprise,Event,57000,Lead,2024-04-12,,12,52.8,14,None,Closed
+DL-10462,Education Corp #463,George Kim,Enterprise,North America,Education,CRM Pro,Inbound,24000,Lead,2023-07-26,,14,20.3,9,HubSpot,Pipeline
+DL-10463,Manufacturing Corp #464,Hannah Brooks,Mid-Market,APAC,Manufacturing,Support Plus,Outbound,5000,Lead,2022-03-29,,27,85.1,9,Salesforce,Best Case
+DL-10464,Education Corp #465,Alice Morgan,Enterprise,North America,Education,Integration Suite,Paid Search,39000,Lead,2022-07-13,,8,88.7,21,None,Pipeline
+DL-10465,Real Estate Corp #466,Brian Chen,Mid-Market,North America,Real Estate,CRM Pro,Event,9000,Closed Lost,2023-04-23,2023-05-11,7,26.9,17,HubSpot,Best Case
+DL-10466,Retail Corp #467,Carlos Rivera,Mid-Market,LATAM,Retail,Integration Suite,Inbound,16500,Lead,2022-01-17,,5,79.0,12,HubSpot,Best Case
+DL-10467,Technology Corp #468,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Inbound,157000,Qualified,2022-11-27,,29,81.2,18,None,Best Case
+DL-10468,Education Corp #469,Ethan Park,SMB,APAC,Education,CRM Pro,Inbound,20000,Closed Lost,2024-04-12,2024-05-08,5,40.8,19,HubSpot,Pipeline
+DL-10469,Finance Corp #470,Fiona Walsh,SMB,Europe,Finance,CRM Enterprise,Paid Search,66000,Lead,2024-02-19,,26,30.8,3,Salesforce,Best Case
+DL-10470,Healthcare Corp #471,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Outbound,41000,Closed Lost,2023-10-20,2023-11-27,13,64.1,10,Salesforce,Commit
+DL-10471,Manufacturing Corp #472,Hannah Brooks,Mid-Market,APAC,Manufacturing,CRM Enterprise,Event,135500,Closed Won,2022-01-27,2022-03-30,54,41.8,35,Zoho,Pipeline
+DL-10472,Finance Corp #473,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Inbound,16000,Lead,2023-03-01,,8,91.4,22,None,Best Case
+DL-10473,Technology Corp #474,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Outbound,188500,Qualified,2022-06-16,,21,29.4,17,Salesforce,Closed
+DL-10474,Healthcare Corp #475,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Outbound,20000,Lead,2022-10-08,,28,56.0,38,Salesforce,Best Case
+DL-10475,Technology Corp #476,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Inbound,13500,Lead,2024-06-23,,12,35.9,11,HubSpot,Best Case
+DL-10476,Technology Corp #477,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Inbound,8500,Lead,2023-10-05,,9,84.4,18,Zoho,Commit
+DL-10477,Retail Corp #478,Fiona Walsh,SMB,Europe,Retail,CRM Pro,Referral,10000,Closed Lost,2024-04-02,2024-05-17,19,30.4,22,Salesforce,Pipeline
+DL-10478,Retail Corp #479,George Kim,Enterprise,North America,Retail,Analytics Add-on,Paid Search,5500,Lead,2024-01-26,,23,83.8,13,Zoho,Pipeline
+DL-10479,Technology Corp #480,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Outbound,12500,Lead,2024-06-18,,16,72.6,3,Salesforce,Best Case
+DL-10480,Healthcare Corp #481,Alice Morgan,Enterprise,North America,Healthcare,Integration Suite,Outbound,29500,Lead,2023-04-02,,3,77.4,20,Salesforce,Commit
+DL-10481,Technology Corp #482,Brian Chen,Mid-Market,North America,Technology,Support Plus,Referral,4000,Lead,2022-03-18,,19,40.0,4,Salesforce,Commit
+DL-10482,Education Corp #483,Carlos Rivera,Mid-Market,LATAM,Education,Support Plus,Event,6000,Closed Lost,2022-05-02,2022-06-02,16,84.0,34,Salesforce,Pipeline
+DL-10483,Technology Corp #484,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Event,16000,Lead,2022-04-03,,19,37.5,26,Salesforce,Commit
+DL-10484,Manufacturing Corp #485,Ethan Park,SMB,APAC,Manufacturing,CRM Pro,Outbound,14500,Closed Lost,2022-02-10,2022-03-07,9,84.0,24,Salesforce,Pipeline
+DL-10485,Finance Corp #486,Fiona Walsh,SMB,Europe,Finance,Analytics Add-on,Referral,14500,Lead,2022-12-27,,25,56.8,34,None,Best Case
+DL-10486,Healthcare Corp #487,George Kim,Enterprise,North America,Healthcare,Support Plus,Partner,8000,Lead,2024-04-11,,18,93.4,31,Salesforce,Commit
+DL-10487,Technology Corp #488,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Outbound,8500,Lead,2023-05-13,,16,92.4,16,HubSpot,Pipeline
+DL-10488,Healthcare Corp #489,Alice Morgan,Enterprise,North America,Healthcare,Integration Suite,Inbound,36000,Lead,2023-08-31,,7,74.2,37,Zoho,Best Case
+DL-10489,Finance Corp #490,Brian Chen,Mid-Market,North America,Finance,CRM Pro,Partner,11000,Lead,2022-11-19,,21,29.5,9,Microsoft,Pipeline
+DL-10490,Technology Corp #491,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Event,7000,Lead,2022-10-22,,2,57.0,19,Salesforce,Commit
+DL-10491,Finance Corp #492,Diana Patel,Enterprise,Europe,Finance,Support Plus,Outbound,3500,Lead,2024-02-06,,26,28.6,24,None,Pipeline
+DL-10492,Education Corp #493,Ethan Park,SMB,APAC,Education,Analytics Add-on,Inbound,5500,Lead,2022-04-04,,12,80.1,20,HubSpot,Pipeline
+DL-10493,Manufacturing Corp #494,Fiona Walsh,SMB,Europe,Manufacturing,Support Plus,Inbound,8000,Closed Lost,2022-01-26,2022-02-28,12,33.0,29,Microsoft,Commit
+DL-10494,Technology Corp #495,George Kim,Enterprise,North America,Technology,CRM Enterprise,Inbound,155500,Closed Lost,2024-02-05,2024-02-24,5,39.1,21,HubSpot,Closed
+DL-10495,Technology Corp #496,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Outbound,88000,Lead,2022-09-13,,11,20.8,35,Microsoft,Pipeline
+DL-10496,Retail Corp #497,Alice Morgan,Enterprise,North America,Retail,Support Plus,Inbound,4000,Lead,2024-06-06,,1,42.3,8,Salesforce,Commit
+DL-10497,Finance Corp #498,Brian Chen,Mid-Market,North America,Finance,CRM Enterprise,Inbound,199500,Closed Lost,2023-08-08,2023-09-10,5,65.8,3,Zoho,Best Case
+DL-10498,Technology Corp #499,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Inbound,43000,Closed Won,2022-11-05,2023-01-22,70,79.9,29,Salesforce,Best Case
+DL-10499,Technology Corp #500,Diana Patel,Enterprise,Europe,Technology,Support Plus,Paid Search,3500,Lead,2023-12-16,,12,61.6,9,HubSpot,Closed
+DL-10500,Finance Corp #501,Ethan Park,SMB,APAC,Finance,Analytics Add-on,Outbound,9000,Lead,2023-09-02,,7,57.5,18,Salesforce,Pipeline
+DL-10501,Technology Corp #502,Fiona Walsh,SMB,Europe,Technology,Integration Suite,Partner,30000,Lead,2022-09-20,,10,22.8,36,None,Closed
+DL-10502,Education Corp #503,George Kim,Enterprise,North America,Education,Analytics Add-on,Inbound,13500,Lead,2024-06-10,,25,27.3,14,None,Best Case
+DL-10503,Education Corp #504,Hannah Brooks,Mid-Market,APAC,Education,CRM Enterprise,Partner,112000,Lead,2024-05-29,,23,83.7,23,None,Best Case
+DL-10504,Technology Corp #505,Alice Morgan,Enterprise,North America,Technology,Integration Suite,Referral,18500,Lead,2024-03-04,,13,30.7,17,Zoho,Pipeline
+DL-10505,Manufacturing Corp #506,Brian Chen,Mid-Market,North America,Manufacturing,CRM Pro,Referral,12500,Closed Won,2023-10-05,2024-01-09,70,86.6,20,None,Pipeline
+DL-10506,Healthcare Corp #507,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Referral,20000,Lead,2023-08-16,,1,60.9,16,Salesforce,Pipeline
+DL-10507,Real Estate Corp #508,Diana Patel,Enterprise,Europe,Real Estate,Analytics Add-on,Partner,11500,Lead,2022-08-06,,29,51.6,6,Salesforce,Best Case
+DL-10508,Retail Corp #509,Ethan Park,SMB,APAC,Retail,Support Plus,Inbound,5000,Lead,2023-08-14,,19,25.5,13,Zoho,Best Case
+DL-10509,Retail Corp #510,Fiona Walsh,SMB,Europe,Retail,Analytics Add-on,Inbound,6500,Lead,2022-05-17,,23,91.6,37,HubSpot,Pipeline
+DL-10510,Manufacturing Corp #511,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Outbound,19500,Closed Lost,2023-02-21,2023-03-27,17,82.3,27,HubSpot,Closed
+DL-10511,Education Corp #512,Hannah Brooks,Mid-Market,APAC,Education,Analytics Add-on,Event,10000,Demo,2023-06-17,,53,58.1,39,HubSpot,Closed
+DL-10512,Healthcare Corp #513,Alice Morgan,Enterprise,North America,Healthcare,CRM Pro,Referral,20000,Lead,2022-05-09,,13,53.3,36,HubSpot,Best Case
+DL-10513,Manufacturing Corp #514,Brian Chen,Mid-Market,North America,Manufacturing,CRM Enterprise,Inbound,179500,Lead,2024-03-24,,10,90.6,4,HubSpot,Closed
+DL-10514,Healthcare Corp #515,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Partner,13000,Lead,2023-12-11,,22,86.6,8,HubSpot,Best Case
+DL-10515,Technology Corp #516,Diana Patel,Enterprise,Europe,Technology,Support Plus,Event,9500,Lead,2022-09-03,,18,86.1,22,None,Best Case
+DL-10516,Finance Corp #517,Ethan Park,SMB,APAC,Finance,CRM Pro,Partner,24000,Lead,2023-10-10,,21,34.9,8,Zoho,Commit
+DL-10517,Healthcare Corp #518,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Partner,10500,Lead,2024-07-01,,13,34.3,25,HubSpot,Pipeline
+DL-10518,Healthcare Corp #519,George Kim,Enterprise,North America,Healthcare,Integration Suite,Partner,34500,Lead,2024-05-17,,15,46.7,12,Zoho,Commit
+DL-10519,Technology Corp #520,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Paid Search,11000,Closed Lost,2023-10-16,2023-11-30,27,29.5,24,Microsoft,Commit
+DL-10520,Technology Corp #521,Alice Morgan,Enterprise,North America,Technology,CRM Enterprise,Partner,118500,Closed Lost,2022-05-30,2022-08-29,71,93.8,34,Salesforce,Commit
+DL-10521,Healthcare Corp #522,Brian Chen,Mid-Market,North America,Healthcare,Integration Suite,Partner,42000,Lead,2023-09-18,,2,79.9,21,Salesforce,Closed
+DL-10522,Retail Corp #523,Carlos Rivera,Mid-Market,LATAM,Retail,CRM Pro,Inbound,10500,Closed Lost,2022-07-13,2022-09-03,23,21.9,33,HubSpot,Closed
+DL-10523,Finance Corp #524,Diana Patel,Enterprise,Europe,Finance,Analytics Add-on,Inbound,14000,Lead,2022-03-11,,8,54.5,25,Salesforce,Closed
+DL-10524,Real Estate Corp #525,Ethan Park,SMB,APAC,Real Estate,Integration Suite,Paid Search,29000,Lead,2023-09-30,,20,76.3,14,Microsoft,Pipeline
+DL-10525,Technology Corp #526,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Outbound,20000,Closed Lost,2022-02-18,2022-03-25,22,33.8,24,Salesforce,Best Case
+DL-10526,Retail Corp #527,George Kim,Enterprise,North America,Retail,Support Plus,Outbound,7500,Closed Lost,2023-11-15,2023-12-21,16,93.1,33,Salesforce,Best Case
+DL-10527,Education Corp #528,Hannah Brooks,Mid-Market,APAC,Education,Analytics Add-on,Paid Search,13500,Lead,2023-11-08,,3,55.3,4,Salesforce,Commit
+DL-10528,Healthcare Corp #529,Alice Morgan,Enterprise,North America,Healthcare,Analytics Add-on,Partner,8500,Lead,2023-11-17,,8,89.1,24,Microsoft,Best Case
+DL-10529,Healthcare Corp #530,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Outbound,10000,Lead,2022-08-25,,24,34.7,6,Microsoft,Pipeline
+DL-10530,Retail Corp #531,Carlos Rivera,Mid-Market,LATAM,Retail,CRM Enterprise,Inbound,156500,Closed Lost,2022-12-06,2023-01-05,15,56.4,23,None,Pipeline
+DL-10531,Manufacturing Corp #532,Diana Patel,Enterprise,Europe,Manufacturing,Analytics Add-on,Event,8000,Lead,2023-02-05,,24,91.1,5,Microsoft,Commit
+DL-10532,Technology Corp #533,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Event,111500,Lead,2023-12-28,,15,50.8,36,Zoho,Commit
+DL-10533,Manufacturing Corp #534,Fiona Walsh,SMB,Europe,Manufacturing,CRM Enterprise,Outbound,110000,Closed Lost,2023-01-28,2023-02-20,17,74.7,23,HubSpot,Closed
+DL-10534,Healthcare Corp #535,George Kim,Enterprise,North America,Healthcare,Support Plus,Event,9000,Closed Lost,2022-10-31,2022-12-05,22,80.6,12,Salesforce,Pipeline
+DL-10535,Manufacturing Corp #536,Hannah Brooks,Mid-Market,APAC,Manufacturing,Support Plus,Referral,4500,Lead,2023-04-28,,20,43.2,28,Salesforce,Best Case
+DL-10536,Healthcare Corp #537,Alice Morgan,Enterprise,North America,Healthcare,Analytics Add-on,Event,7000,Lead,2024-01-05,,13,56.2,29,HubSpot,Commit
+DL-10537,Healthcare Corp #538,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Event,17500,Lead,2022-12-13,,9,89.7,23,None,Closed
+DL-10538,Technology Corp #539,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Inbound,15000,Lead,2022-04-30,,1,38.3,20,Microsoft,Closed
+DL-10539,Education Corp #540,Diana Patel,Enterprise,Europe,Education,Support Plus,Referral,3000,Lead,2023-12-21,,1,55.6,3,Salesforce,Best Case
+DL-10540,Technology Corp #541,Ethan Park,SMB,APAC,Technology,Support Plus,Paid Search,6500,Closed Lost,2022-01-04,2022-01-18,7,62.8,34,Microsoft,Closed
+DL-10541,Retail Corp #542,Fiona Walsh,SMB,Europe,Retail,Integration Suite,Paid Search,36500,Lead,2023-10-26,,4,33.1,38,Salesforce,Pipeline
+DL-10542,Education Corp #543,George Kim,Enterprise,North America,Education,CRM Pro,Inbound,12500,Lead,2022-05-27,,5,87.9,39,Salesforce,Closed
+DL-10543,Healthcare Corp #544,Hannah Brooks,Mid-Market,APAC,Healthcare,Support Plus,Referral,9000,Lead,2022-05-31,,13,54.0,39,Salesforce,Best Case
+DL-10544,Finance Corp #545,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Inbound,18000,Lead,2023-01-02,,23,62.3,18,HubSpot,Pipeline
+DL-10545,Technology Corp #546,Brian Chen,Mid-Market,North America,Technology,Support Plus,Inbound,6000,Lead,2024-05-29,,10,24.3,7,Salesforce,Best Case
+DL-10546,Healthcare Corp #547,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Outbound,20500,Closed Lost,2022-11-02,2022-11-17,10,79.7,20,Salesforce,Pipeline
+DL-10547,Education Corp #548,Diana Patel,Enterprise,Europe,Education,CRM Pro,Event,18000,Lead,2024-01-03,,28,37.6,5,Microsoft,Pipeline
+DL-10548,Real Estate Corp #549,Ethan Park,SMB,APAC,Real Estate,CRM Enterprise,Outbound,54000,Lead,2024-04-20,,27,66.4,8,Zoho,Closed
+DL-10549,Technology Corp #550,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Outbound,159000,Lead,2022-10-30,,25,50.1,34,HubSpot,Best Case
+DL-10550,Retail Corp #551,George Kim,Enterprise,North America,Retail,Analytics Add-on,Outbound,5000,Lead,2023-07-29,,8,25.4,36,Zoho,Pipeline
+DL-10551,Finance Corp #552,Hannah Brooks,Mid-Market,APAC,Finance,Support Plus,Outbound,5000,Lead,2022-05-20,,8,45.2,15,HubSpot,Best Case
+DL-10552,Technology Corp #553,Alice Morgan,Enterprise,North America,Technology,CRM Enterprise,Event,82000,Lead,2022-07-08,,10,89.9,10,HubSpot,Pipeline
+DL-10553,Finance Corp #554,Brian Chen,Mid-Market,North America,Finance,Support Plus,Outbound,6500,Closed Lost,2024-02-03,2024-03-03,22,80.1,22,Microsoft,Commit
+DL-10554,Manufacturing Corp #555,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Analytics Add-on,Inbound,7500,Lead,2022-07-31,,24,51.2,39,Salesforce,Pipeline
+DL-10555,Healthcare Corp #556,Diana Patel,Enterprise,Europe,Healthcare,Analytics Add-on,Referral,12500,Lead,2023-05-02,,3,32.9,34,Zoho,Best Case
+DL-10556,Finance Corp #557,Ethan Park,SMB,APAC,Finance,Integration Suite,Referral,33000,Lead,2023-08-07,,10,29.7,38,Microsoft,Pipeline
+DL-10557,Retail Corp #558,Fiona Walsh,SMB,Europe,Retail,CRM Enterprise,Outbound,161000,Closed Lost,2023-06-27,2023-08-10,22,93.0,32,Salesforce,Closed
+DL-10558,Technology Corp #559,George Kim,Enterprise,North America,Technology,Support Plus,Outbound,8500,Lead,2023-05-10,,20,59.9,17,Zoho,Commit
+DL-10559,Healthcare Corp #560,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Outbound,22000,Lead,2022-04-13,,3,83.7,13,Salesforce,Best Case
+DL-10560,Healthcare Corp #561,Alice Morgan,Enterprise,North America,Healthcare,CRM Pro,Outbound,19000,Lead,2023-10-22,,11,85.8,4,None,Best Case
+DL-10561,Manufacturing Corp #562,Brian Chen,Mid-Market,North America,Manufacturing,Support Plus,Inbound,4500,Lead,2022-03-18,,27,88.4,15,Microsoft,Pipeline
+DL-10562,Technology Corp #563,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Referral,14000,Closed Lost,2022-12-21,2023-01-22,11,38.7,3,Salesforce,Commit
+DL-10563,Retail Corp #564,Diana Patel,Enterprise,Europe,Retail,Analytics Add-on,Inbound,13500,Lead,2022-03-13,,11,81.3,38,None,Commit
+DL-10564,Finance Corp #565,Ethan Park,SMB,APAC,Finance,Analytics Add-on,Referral,12000,Lead,2022-01-03,,1,67.7,19,Zoho,Closed
+DL-10565,Real Estate Corp #566,Fiona Walsh,SMB,Europe,Real Estate,Support Plus,Inbound,9000,Closed Lost,2023-06-25,2023-09-01,52,82.2,14,Microsoft,Pipeline
+DL-10566,Finance Corp #567,George Kim,Enterprise,North America,Finance,CRM Pro,Referral,15500,Qualified,2023-01-05,,23,45.3,17,Salesforce,Closed
+DL-10567,Finance Corp #568,Hannah Brooks,Mid-Market,APAC,Finance,Integration Suite,Paid Search,12500,Closed Lost,2022-07-22,2022-09-13,42,50.5,20,HubSpot,Pipeline
+DL-10568,Finance Corp #569,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Outbound,11000,Lead,2022-03-20,,3,29.5,16,Microsoft,Closed
+DL-10569,Technology Corp #570,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Outbound,24000,Lead,2024-07-02,,29,56.5,27,Microsoft,Closed
+DL-10570,Retail Corp #571,Carlos Rivera,Mid-Market,LATAM,Retail,Support Plus,Outbound,9000,Lead,2022-06-25,,15,24.9,28,Microsoft,Closed
+DL-10571,Technology Corp #572,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Referral,37500,Demo,2022-03-17,,55,77.3,3,Zoho,Pipeline
+DL-10572,Real Estate Corp #573,Ethan Park,SMB,APAC,Real Estate,CRM Pro,Paid Search,10000,Lead,2022-05-02,,23,74.0,30,Salesforce,Best Case
+DL-10573,Finance Corp #574,Fiona Walsh,SMB,Europe,Finance,Integration Suite,Inbound,33500,Lead,2022-09-14,,24,43.9,30,HubSpot,Commit
+DL-10574,Technology Corp #575,George Kim,Enterprise,North America,Technology,CRM Enterprise,Referral,140500,Lead,2023-10-13,,2,39.7,11,Microsoft,Closed
+DL-10575,Healthcare Corp #576,Hannah Brooks,Mid-Market,APAC,Healthcare,Analytics Add-on,Inbound,8500,Lead,2024-05-30,,19,44.4,39,Salesforce,Pipeline
+DL-10576,Finance Corp #577,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Referral,23500,Lead,2022-12-14,,15,56.5,21,Salesforce,Closed
+DL-10577,Finance Corp #578,Brian Chen,Mid-Market,North America,Finance,CRM Pro,Outbound,11500,Lead,2022-08-31,,22,26.2,36,HubSpot,Best Case
+DL-10578,Healthcare Corp #579,Carlos Rivera,Mid-Market,LATAM,Healthcare,Analytics Add-on,Event,8500,Lead,2023-02-22,,5,31.1,25,Microsoft,Commit
+DL-10579,Education Corp #580,Diana Patel,Enterprise,Europe,Education,Analytics Add-on,Paid Search,10000,Lead,2023-02-06,,16,84.4,23,Microsoft,Pipeline
+DL-10580,Finance Corp #581,Ethan Park,SMB,APAC,Finance,CRM Pro,Inbound,15500,Lead,2023-05-13,,10,85.2,27,HubSpot,Closed
+DL-10581,Education Corp #582,Fiona Walsh,SMB,Europe,Education,Integration Suite,Inbound,29500,Closed Lost,2022-02-13,2022-03-30,20,84.0,36,HubSpot,Closed
+DL-10582,Healthcare Corp #583,George Kim,Enterprise,North America,Healthcare,CRM Pro,Inbound,8500,Closed Lost,2023-10-22,2023-11-25,13,20.0,32,Salesforce,Pipeline
+DL-10583,Healthcare Corp #584,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Paid Search,91000,Lead,2023-08-11,,1,42.6,6,None,Commit
+DL-10584,Finance Corp #585,Alice Morgan,Enterprise,North America,Finance,CRM Enterprise,Partner,56500,Lead,2023-04-28,,24,91.2,23,HubSpot,Closed
+DL-10585,Finance Corp #586,Brian Chen,Mid-Market,North America,Finance,CRM Pro,Inbound,16000,Lead,2024-06-14,,5,68.0,7,HubSpot,Pipeline
+DL-10586,Education Corp #587,Carlos Rivera,Mid-Market,LATAM,Education,Integration Suite,Inbound,14000,Closed Lost,2023-10-16,2023-11-15,14,77.8,12,Salesforce,Commit
+DL-10587,Real Estate Corp #588,Diana Patel,Enterprise,Europe,Real Estate,CRM Enterprise,Paid Search,110500,Lead,2022-08-14,,16,25.1,10,Salesforce,Commit
+DL-10588,Technology Corp #589,Ethan Park,SMB,APAC,Technology,CRM Pro,Inbound,11000,Lead,2022-03-15,,29,34.6,38,Salesforce,Best Case
+DL-10589,Manufacturing Corp #590,Fiona Walsh,SMB,Europe,Manufacturing,CRM Pro,Inbound,16500,Lead,2023-02-21,,14,44.7,4,Microsoft,Best Case
+DL-10590,Technology Corp #591,George Kim,Enterprise,North America,Technology,Integration Suite,Inbound,34000,Lead,2023-10-18,,21,69.1,17,Salesforce,Commit
+DL-10591,Technology Corp #592,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Inbound,17500,Closed Lost,2024-04-04,2024-05-14,20,29.1,5,Microsoft,Best Case
+DL-10592,Finance Corp #593,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Outbound,19500,Lead,2023-12-13,,25,41.2,36,Salesforce,Pipeline
+DL-10593,Retail Corp #594,Brian Chen,Mid-Market,North America,Retail,Support Plus,Referral,4000,Closed Lost,2023-05-28,2023-06-24,22,71.7,14,Microsoft,Pipeline
+DL-10594,Finance Corp #595,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Outbound,7000,Closed Won,2023-03-30,2023-04-27,16,71.6,34,HubSpot,Pipeline
+DL-10595,Technology Corp #596,Diana Patel,Enterprise,Europe,Technology,Support Plus,Referral,4000,Lead,2022-05-16,,17,24.1,35,None,Pipeline
+DL-10596,Technology Corp #597,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Inbound,73500,Lead,2024-03-31,,7,29.6,26,Salesforce,Pipeline
+DL-10597,Finance Corp #598,Fiona Walsh,SMB,Europe,Finance,Analytics Add-on,Event,13000,Lead,2022-06-03,,25,54.4,28,Microsoft,Pipeline
+DL-10598,Healthcare Corp #599,George Kim,Enterprise,North America,Healthcare,Analytics Add-on,Inbound,9000,Lead,2022-08-24,,14,47.6,16,HubSpot,Closed
+DL-10599,Finance Corp #600,Hannah Brooks,Mid-Market,APAC,Finance,CRM Pro,Outbound,12500,Lead,2022-10-10,,1,84.0,8,Microsoft,Pipeline
+DL-10600,Technology Corp #601,Alice Morgan,Enterprise,North America,Technology,Integration Suite,Outbound,16500,Lead,2023-03-31,,12,92.1,25,None,Pipeline
+DL-10601,Healthcare Corp #602,Brian Chen,Mid-Market,North America,Healthcare,Support Plus,Inbound,4000,Lead,2022-07-14,,18,91.5,17,Microsoft,Closed
+DL-10602,Technology Corp #603,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Enterprise,Referral,76000,Closed Lost,2022-08-21,2022-09-26,26,57.0,38,None,Best Case
+DL-10603,Healthcare Corp #604,Diana Patel,Enterprise,Europe,Healthcare,CRM Enterprise,Event,78000,Lead,2022-02-21,,11,74.6,16,Microsoft,Best Case
+DL-10604,Finance Corp #605,Ethan Park,SMB,APAC,Finance,Support Plus,Inbound,5500,Lead,2022-12-18,,25,56.9,4,Salesforce,Closed
+DL-10605,Manufacturing Corp #606,Fiona Walsh,SMB,Europe,Manufacturing,CRM Pro,Inbound,11000,Closed Lost,2023-06-25,2023-08-17,29,38.9,33,None,Closed
+DL-10606,Healthcare Corp #607,George Kim,Enterprise,North America,Healthcare,Integration Suite,Referral,40000,Closed Lost,2022-08-22,2022-09-30,20,81.6,4,None,Pipeline
+DL-10607,Healthcare Corp #608,Hannah Brooks,Mid-Market,APAC,Healthcare,Support Plus,Partner,9000,Closed Lost,2022-02-20,2022-03-31,34,32.6,24,None,Closed
+DL-10608,Retail Corp #609,Alice Morgan,Enterprise,North America,Retail,Analytics Add-on,Inbound,8500,Lead,2022-04-20,,16,74.8,22,Salesforce,Pipeline
+DL-10609,Manufacturing Corp #610,Brian Chen,Mid-Market,North America,Manufacturing,Analytics Add-on,Paid Search,13500,Closed Lost,2024-03-22,2024-05-08,24,42.8,9,None,Pipeline
+DL-10610,Education Corp #611,Carlos Rivera,Mid-Market,LATAM,Education,Support Plus,Inbound,7500,Lead,2023-07-26,,10,33.4,36,HubSpot,Pipeline
+DL-10611,Healthcare Corp #612,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Paid Search,36500,Closed Lost,2023-02-05,2023-03-24,25,58.5,27,Zoho,Best Case
+DL-10612,Education Corp #613,Ethan Park,SMB,APAC,Education,Analytics Add-on,Referral,9500,Closed Lost,2022-10-25,2022-12-06,29,66.7,5,Salesforce,Best Case
+DL-10613,Healthcare Corp #614,Fiona Walsh,SMB,Europe,Healthcare,CRM Enterprise,Inbound,96500,Lead,2023-11-23,,19,71.4,31,Salesforce,Closed
+DL-10614,Finance Corp #615,George Kim,Enterprise,North America,Finance,Analytics Add-on,Inbound,13000,Lead,2022-04-11,,21,74.5,34,HubSpot,Pipeline
+DL-10615,Retail Corp #616,Hannah Brooks,Mid-Market,APAC,Retail,Analytics Add-on,Referral,11000,Lead,2024-03-07,,10,86.2,22,Microsoft,Best Case
+DL-10616,Retail Corp #617,Alice Morgan,Enterprise,North America,Retail,Support Plus,Inbound,5000,Lead,2024-04-30,,6,75.5,21,HubSpot,Pipeline
+DL-10617,Finance Corp #618,Brian Chen,Mid-Market,North America,Finance,CRM Pro,Event,17500,Closed Lost,2022-05-10,2022-06-21,26,83.4,36,HubSpot,Commit
+DL-10618,Technology Corp #619,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Referral,10500,Closed Won,2023-12-30,2024-03-22,61,30.7,26,Salesforce,Best Case
+DL-10619,Technology Corp #620,Diana Patel,Enterprise,Europe,Technology,Support Plus,Inbound,9000,Lead,2023-01-21,,21,33.5,38,HubSpot,Pipeline
+DL-10620,Manufacturing Corp #621,Ethan Park,SMB,APAC,Manufacturing,Support Plus,Inbound,9000,Closed Lost,2023-09-01,2023-09-27,3,42.6,20,Microsoft,Pipeline
+DL-10621,Retail Corp #622,Fiona Walsh,SMB,Europe,Retail,CRM Enterprise,Inbound,187000,Lead,2023-02-12,,24,62.4,27,Zoho,Commit
+DL-10622,Finance Corp #623,George Kim,Enterprise,North America,Finance,Support Plus,Event,5500,Lead,2023-08-27,,19,27.7,29,Microsoft,Commit
+DL-10623,Technology Corp #624,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Inbound,5000,Lead,2022-11-09,,24,54.2,4,Zoho,Pipeline
+DL-10624,Education Corp #625,Alice Morgan,Enterprise,North America,Education,Analytics Add-on,Outbound,13500,Lead,2023-09-14,,12,65.3,37,Salesforce,Pipeline
+DL-10625,Manufacturing Corp #626,Brian Chen,Mid-Market,North America,Manufacturing,CRM Pro,Inbound,11500,Lead,2022-02-04,,4,28.6,6,None,Closed
+DL-10626,Technology Corp #627,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Outbound,7000,Lead,2023-07-17,,14,64.0,26,None,Pipeline
+DL-10627,Finance Corp #628,Diana Patel,Enterprise,Europe,Finance,CRM Enterprise,Outbound,100500,Lead,2023-10-28,,14,45.2,23,Salesforce,Pipeline
+DL-10628,Healthcare Corp #629,Ethan Park,SMB,APAC,Healthcare,Integration Suite,Referral,13000,Lead,2023-08-29,,7,55.3,18,Salesforce,Commit
+DL-10629,Technology Corp #630,Fiona Walsh,SMB,Europe,Technology,Support Plus,Partner,7000,Qualified,2023-03-29,,13,57.2,18,HubSpot,Pipeline
+DL-10630,Technology Corp #631,George Kim,Enterprise,North America,Technology,Analytics Add-on,Inbound,9000,Lead,2022-01-14,,17,33.7,18,Zoho,Pipeline
+DL-10631,Finance Corp #632,Hannah Brooks,Mid-Market,APAC,Finance,Analytics Add-on,Outbound,12000,Closed Won,2023-07-13,2023-10-30,86,48.8,37,Microsoft,Best Case
+DL-10632,Manufacturing Corp #633,Alice Morgan,Enterprise,North America,Manufacturing,Analytics Add-on,Outbound,13000,Lead,2023-03-25,,25,39.3,35,Microsoft,Pipeline
+DL-10633,Technology Corp #634,Brian Chen,Mid-Market,North America,Technology,Support Plus,Inbound,6000,Closed Lost,2022-10-11,2022-11-14,9,70.2,30,HubSpot,Commit
+DL-10634,Finance Corp #635,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Pro,Inbound,19500,Lead,2022-04-15,,12,33.4,5,Zoho,Pipeline
+DL-10635,Manufacturing Corp #636,Diana Patel,Enterprise,Europe,Manufacturing,Analytics Add-on,Inbound,11000,Lead,2022-03-28,,22,22.8,19,Salesforce,Best Case
+DL-10636,Real Estate Corp #637,Ethan Park,SMB,APAC,Real Estate,CRM Enterprise,Inbound,143500,Lead,2022-05-13,,27,79.2,27,HubSpot,Pipeline
+DL-10637,Technology Corp #638,Fiona Walsh,SMB,Europe,Technology,Analytics Add-on,Partner,13000,Lead,2024-03-16,,29,64.0,12,Zoho,Closed
+DL-10638,Technology Corp #639,George Kim,Enterprise,North America,Technology,Support Plus,Referral,7500,Closed Won,2024-05-06,2024-06-02,22,40.3,32,Microsoft,Commit
+DL-10639,Healthcare Corp #640,Hannah Brooks,Mid-Market,APAC,Healthcare,Integration Suite,Outbound,27500,Closed Lost,2024-02-07,2024-03-09,9,88.5,25,Microsoft,Closed
+DL-10640,Finance Corp #641,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Partner,9500,Closed Lost,2022-04-06,2022-05-25,21,62.6,16,None,Pipeline
+DL-10641,Retail Corp #642,Brian Chen,Mid-Market,North America,Retail,Analytics Add-on,Referral,5500,Lead,2024-02-11,,12,42.5,32,HubSpot,Commit
+DL-10642,Technology Corp #643,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Referral,8000,Closed Lost,2023-02-20,2023-04-07,22,81.6,5,Microsoft,Best Case
+DL-10643,Manufacturing Corp #644,Diana Patel,Enterprise,Europe,Manufacturing,CRM Pro,Inbound,21500,Lead,2022-09-06,,25,93.5,12,Salesforce,Commit
+DL-10644,Healthcare Corp #645,Ethan Park,SMB,APAC,Healthcare,Support Plus,Inbound,7500,Closed Lost,2024-03-07,2024-04-10,5,72.0,32,HubSpot,Pipeline
+DL-10645,Technology Corp #646,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Partner,13500,Lead,2022-04-23,,13,31.5,3,Salesforce,Closed
+DL-10646,Technology Corp #647,George Kim,Enterprise,North America,Technology,CRM Enterprise,Event,60500,Lead,2022-03-05,,10,74.8,22,Zoho,Closed
+DL-10647,Healthcare Corp #648,Hannah Brooks,Mid-Market,APAC,Healthcare,Integration Suite,Inbound,19000,Lead,2023-09-18,,20,23.9,35,Zoho,Best Case
+DL-10648,Finance Corp #649,Alice Morgan,Enterprise,North America,Finance,CRM Enterprise,Partner,125000,Lead,2022-03-17,,6,81.2,39,HubSpot,Pipeline
+DL-10649,Manufacturing Corp #650,Brian Chen,Mid-Market,North America,Manufacturing,CRM Enterprise,Outbound,71500,Lead,2023-11-11,,23,93.0,27,HubSpot,Pipeline
+DL-10650,Retail Corp #651,Carlos Rivera,Mid-Market,LATAM,Retail,Integration Suite,Referral,39000,Lead,2023-12-28,,29,22.2,15,Salesforce,Pipeline
+DL-10651,Manufacturing Corp #652,Diana Patel,Enterprise,Europe,Manufacturing,Integration Suite,Event,19500,Lead,2023-07-11,,29,24.8,17,Zoho,Best Case
+DL-10652,Healthcare Corp #653,Ethan Park,SMB,APAC,Healthcare,CRM Enterprise,Outbound,106000,Closed Lost,2022-02-03,2022-03-03,16,78.6,16,Salesforce,Commit
+DL-10653,Technology Corp #654,Fiona Walsh,SMB,Europe,Technology,Analytics Add-on,Event,14000,Lead,2022-06-15,,21,78.7,38,Salesforce,Best Case
+DL-10654,Finance Corp #655,George Kim,Enterprise,North America,Finance,Analytics Add-on,Paid Search,6000,Closed Lost,2023-07-21,2023-08-30,19,88.2,39,Salesforce,Pipeline
+DL-10655,Technology Corp #656,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Inbound,8000,Closed Lost,2022-11-08,2022-12-20,29,44.8,3,Salesforce,Commit
+DL-10656,Technology Corp #657,Alice Morgan,Enterprise,North America,Technology,CRM Enterprise,Outbound,100000,Closed Lost,2023-09-12,2023-09-30,9,50.6,37,HubSpot,Commit
+DL-10657,Technology Corp #658,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Outbound,8500,Closed Lost,2022-05-25,2022-06-18,6,48.5,21,Microsoft,Pipeline
+DL-10658,Healthcare Corp #659,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Enterprise,Event,188500,Closed Lost,2022-05-30,2022-06-26,8,93.2,31,HubSpot,Pipeline
+DL-10659,Healthcare Corp #660,Diana Patel,Enterprise,Europe,Healthcare,CRM Pro,Inbound,13500,Closed Lost,2023-02-10,2023-02-24,8,20.4,15,None,Commit
+DL-10660,Healthcare Corp #661,Ethan Park,SMB,APAC,Healthcare,Support Plus,Referral,5500,Lead,2022-02-07,,12,73.7,10,Salesforce,Closed
+DL-10661,Technology Corp #662,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Referral,24500,Lead,2023-12-28,,3,21.6,33,Salesforce,Commit
+DL-10662,Healthcare Corp #663,George Kim,Enterprise,North America,Healthcare,CRM Pro,Outbound,19500,Lead,2022-04-09,,3,75.7,21,HubSpot,Best Case
+DL-10663,Technology Corp #664,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Inbound,4500,Closed Lost,2023-10-24,2023-12-14,24,70.4,36,HubSpot,Best Case
+DL-10664,Manufacturing Corp #665,Alice Morgan,Enterprise,North America,Manufacturing,Support Plus,Partner,6500,Closed Lost,2024-01-30,2024-03-03,28,56.0,22,Salesforce,Pipeline
+DL-10665,Finance Corp #666,Brian Chen,Mid-Market,North America,Finance,Analytics Add-on,Outbound,8000,Closed Lost,2023-04-11,2023-05-15,14,49.7,14,Zoho,Commit
+DL-10666,Manufacturing Corp #667,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Analytics Add-on,Inbound,6000,Closed Lost,2022-11-09,2022-12-16,16,72.8,23,Zoho,Pipeline
+DL-10667,Technology Corp #668,Diana Patel,Enterprise,Europe,Technology,Support Plus,Outbound,8500,Lead,2023-12-21,,14,54.7,32,None,Best Case
+DL-10668,Technology Corp #669,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Event,194500,Lead,2024-01-13,,1,82.3,4,Zoho,Best Case
+DL-10669,Technology Corp #670,Fiona Walsh,SMB,Europe,Technology,Analytics Add-on,Referral,7500,Closed Lost,2022-02-17,2022-03-04,5,54.0,22,None,Best Case
+DL-10670,Manufacturing Corp #671,George Kim,Enterprise,North America,Manufacturing,Analytics Add-on,Outbound,6500,Lead,2022-12-30,,22,32.8,11,Microsoft,Best Case
+DL-10671,Finance Corp #672,Hannah Brooks,Mid-Market,APAC,Finance,Support Plus,Inbound,7000,Lead,2024-01-30,,17,41.9,20,Zoho,Commit
+DL-10672,Real Estate Corp #673,Alice Morgan,Enterprise,North America,Real Estate,Analytics Add-on,Event,12000,Lead,2023-10-07,,18,91.8,21,Zoho,Best Case
+DL-10673,Finance Corp #674,Brian Chen,Mid-Market,North America,Finance,Support Plus,Inbound,4000,Lead,2022-08-09,,15,93.5,15,Microsoft,Pipeline
+DL-10674,Technology Corp #675,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Inbound,22500,Lead,2023-11-14,,11,88.1,18,None,Pipeline
+DL-10675,Retail Corp #676,Diana Patel,Enterprise,Europe,Retail,Support Plus,Inbound,5000,Closed Won,2022-07-02,2022-08-11,35,68.1,18,HubSpot,Pipeline
+DL-10676,Finance Corp #677,Ethan Park,SMB,APAC,Finance,CRM Pro,Referral,12000,Closed Lost,2022-08-28,2022-10-07,29,87.2,26,None,Closed
+DL-10677,Education Corp #678,Fiona Walsh,SMB,Europe,Education,CRM Pro,Partner,11000,Lead,2022-07-06,,22,60.0,26,Zoho,Pipeline
+DL-10678,Healthcare Corp #679,George Kim,Enterprise,North America,Healthcare,Analytics Add-on,Inbound,5000,Lead,2022-09-15,,13,72.9,6,None,Commit
+DL-10679,Real Estate Corp #680,Hannah Brooks,Mid-Market,APAC,Real Estate,Support Plus,Paid Search,4500,Closed Lost,2024-05-02,2024-06-09,21,37.4,9,None,Pipeline
+DL-10680,Finance Corp #681,Alice Morgan,Enterprise,North America,Finance,Support Plus,Inbound,9000,Closed Lost,2022-11-01,2022-12-10,13,61.6,25,Zoho,Commit
+DL-10681,Retail Corp #682,Brian Chen,Mid-Market,North America,Retail,Support Plus,Outbound,3500,Lead,2024-06-04,,27,84.3,4,Salesforce,Best Case
+DL-10682,Finance Corp #683,Carlos Rivera,Mid-Market,LATAM,Finance,Analytics Add-on,Partner,9500,Lead,2023-02-18,,13,60.3,3,HubSpot,Commit
+DL-10683,Retail Corp #684,Diana Patel,Enterprise,Europe,Retail,CRM Pro,Inbound,23000,Lead,2023-05-25,,23,30.2,35,Microsoft,Closed
+DL-10684,Finance Corp #685,Ethan Park,SMB,APAC,Finance,Support Plus,Partner,3500,Lead,2023-06-29,,10,83.4,7,Zoho,Closed
+DL-10685,Healthcare Corp #686,Fiona Walsh,SMB,Europe,Healthcare,CRM Pro,Outbound,15000,Lead,2023-09-14,,2,82.1,9,Zoho,Commit
+DL-10686,Education Corp #687,George Kim,Enterprise,North America,Education,Analytics Add-on,Inbound,7500,Lead,2023-03-23,,10,53.3,9,Salesforce,Pipeline
+DL-10687,Real Estate Corp #688,Hannah Brooks,Mid-Market,APAC,Real Estate,Analytics Add-on,Referral,8000,Lead,2022-09-26,,7,27.9,3,None,Pipeline
+DL-10688,Retail Corp #689,Alice Morgan,Enterprise,North America,Retail,CRM Pro,Referral,16500,Lead,2024-02-15,,1,75.5,23,Microsoft,Pipeline
+DL-10689,Finance Corp #690,Brian Chen,Mid-Market,North America,Finance,Analytics Add-on,Outbound,5000,Lead,2023-11-20,,24,67.3,5,Microsoft,Pipeline
+DL-10690,Healthcare Corp #691,Carlos Rivera,Mid-Market,LATAM,Healthcare,Support Plus,Referral,5500,Lead,2024-04-06,,12,58.4,26,Salesforce,Closed
+DL-10691,Finance Corp #692,Diana Patel,Enterprise,Europe,Finance,Analytics Add-on,Inbound,13000,Lead,2023-07-08,,9,71.5,27,Salesforce,Pipeline
+DL-10692,Healthcare Corp #693,Ethan Park,SMB,APAC,Healthcare,Analytics Add-on,Event,13000,Lead,2023-02-23,,18,51.9,13,HubSpot,Best Case
+DL-10693,Healthcare Corp #694,Fiona Walsh,SMB,Europe,Healthcare,Support Plus,Referral,9000,Lead,2023-01-09,,19,57.5,7,HubSpot,Best Case
+DL-10694,Education Corp #695,George Kim,Enterprise,North America,Education,CRM Enterprise,Partner,64500,Qualified,2023-02-01,,24,33.3,12,None,Closed
+DL-10695,Technology Corp #696,Hannah Brooks,Mid-Market,APAC,Technology,Integration Suite,Inbound,30000,Closed Lost,2022-06-05,2022-07-04,15,87.8,39,Zoho,Closed
+DL-10696,Healthcare Corp #697,Alice Morgan,Enterprise,North America,Healthcare,CRM Enterprise,Outbound,133500,Lead,2022-03-21,,7,69.4,12,Salesforce,Best Case
+DL-10697,Finance Corp #698,Brian Chen,Mid-Market,North America,Finance,Analytics Add-on,Partner,5500,Lead,2023-01-16,,14,78.8,26,None,Closed
+DL-10698,Manufacturing Corp #699,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Analytics Add-on,Event,12000,Lead,2022-09-22,,20,83.4,22,None,Closed
+DL-10699,Finance Corp #700,Diana Patel,Enterprise,Europe,Finance,CRM Pro,Event,19500,Lead,2023-10-27,,28,69.9,10,None,Best Case
+DL-10700,Technology Corp #701,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Outbound,80000,Closed Lost,2022-12-20,2023-01-25,29,64.3,25,HubSpot,Best Case
+DL-10701,Technology Corp #702,Fiona Walsh,SMB,Europe,Technology,Analytics Add-on,Referral,5000,Lead,2023-11-28,,14,76.1,10,None,Closed
+DL-10702,Healthcare Corp #703,George Kim,Enterprise,North America,Healthcare,Analytics Add-on,Outbound,7000,Closed Lost,2022-07-12,2022-09-05,30,79.4,7,HubSpot,Pipeline
+DL-10703,Technology Corp #704,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Outbound,10500,Closed Lost,2024-05-17,2024-06-14,4,45.4,8,Zoho,Pipeline
+DL-10704,Finance Corp #705,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Inbound,9500,Lead,2022-04-18,,6,92.3,21,Microsoft,Best Case
+DL-10705,Healthcare Corp #706,Brian Chen,Mid-Market,North America,Healthcare,CRM Enterprise,Outbound,120000,Lead,2022-05-25,,23,31.0,23,None,Pipeline
+DL-10706,Technology Corp #707,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Inbound,8500,Lead,2022-07-05,,12,69.1,29,Microsoft,Best Case
+DL-10707,Finance Corp #708,Diana Patel,Enterprise,Europe,Finance,Analytics Add-on,Referral,7000,Closed Lost,2022-10-03,2022-11-16,29,48.9,22,None,Best Case
+DL-10708,Technology Corp #709,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Event,5000,Lead,2023-09-02,,9,78.8,16,HubSpot,Best Case
+DL-10709,Technology Corp #710,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Event,43000,Closed Lost,2024-05-03,2024-06-20,20,55.3,4,None,Best Case
+DL-10710,Technology Corp #711,George Kim,Enterprise,North America,Technology,Support Plus,Referral,3000,Lead,2023-07-24,,15,66.2,3,None,Best Case
+DL-10711,Finance Corp #712,Hannah Brooks,Mid-Market,APAC,Finance,Support Plus,Referral,7500,Lead,2023-10-18,,7,62.0,8,None,Closed
+DL-10712,Technology Corp #713,Alice Morgan,Enterprise,North America,Technology,CRM Pro,Paid Search,23500,Closed Lost,2024-04-16,2024-05-08,16,52.2,17,Salesforce,Best Case
+DL-10713,Technology Corp #714,Brian Chen,Mid-Market,North America,Technology,Integration Suite,Inbound,12000,Qualified,2022-10-22,,36,76.7,25,Microsoft,Commit
+DL-10714,Finance Corp #715,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Pro,Outbound,10500,Closed Lost,2022-06-29,2022-07-25,1,30.8,39,Microsoft,Commit
+DL-10715,Technology Corp #716,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Referral,8500,Lead,2024-01-28,,5,32.3,7,Zoho,Best Case
+DL-10716,Technology Corp #717,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Inbound,57000,Qualified,2022-05-16,,39,28.6,14,None,Pipeline
+DL-10717,Technology Corp #718,Fiona Walsh,SMB,Europe,Technology,Support Plus,Inbound,9500,Closed Lost,2023-06-12,2023-07-09,8,45.4,14,None,Closed
+DL-10718,Finance Corp #719,George Kim,Enterprise,North America,Finance,Integration Suite,Referral,18000,Lead,2023-08-22,,28,59.9,9,HubSpot,Best Case
+DL-10719,Retail Corp #720,Hannah Brooks,Mid-Market,APAC,Retail,CRM Pro,Inbound,14500,Lead,2022-06-03,,21,47.9,12,None,Commit
+DL-10720,Healthcare Corp #721,Alice Morgan,Enterprise,North America,Healthcare,Integration Suite,Outbound,34500,Lead,2024-05-12,,24,35.3,15,Microsoft,Pipeline
+DL-10721,Finance Corp #722,Brian Chen,Mid-Market,North America,Finance,Support Plus,Outbound,8500,Qualified,2023-05-30,,10,59.9,17,Salesforce,Pipeline
+DL-10722,Retail Corp #723,Carlos Rivera,Mid-Market,LATAM,Retail,CRM Pro,Inbound,9000,Lead,2022-08-20,,3,22.9,27,HubSpot,Closed
+DL-10723,Finance Corp #724,Diana Patel,Enterprise,Europe,Finance,Integration Suite,Partner,15000,Closed Lost,2023-04-10,2023-05-10,24,41.1,12,Microsoft,Pipeline
+DL-10724,Finance Corp #725,Ethan Park,SMB,APAC,Finance,CRM Enterprise,Partner,57000,Lead,2023-11-05,,7,93.2,12,Microsoft,Pipeline
+DL-10725,Healthcare Corp #726,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Outbound,43000,Qualified,2024-01-20,,25,37.1,11,Salesforce,Closed
+DL-10726,Manufacturing Corp #727,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Inbound,36000,Lead,2024-01-25,,9,84.3,12,Microsoft,Pipeline
+DL-10727,Retail Corp #728,Hannah Brooks,Mid-Market,APAC,Retail,CRM Enterprise,Event,165000,Lead,2023-10-24,,6,44.8,30,HubSpot,Pipeline
+DL-10728,Healthcare Corp #729,Alice Morgan,Enterprise,North America,Healthcare,Support Plus,Inbound,8500,Lead,2022-12-13,,2,85.5,7,Microsoft,Closed
+DL-10729,Manufacturing Corp #730,Brian Chen,Mid-Market,North America,Manufacturing,Integration Suite,Referral,37000,Lead,2022-05-25,,4,89.8,32,HubSpot,Best Case
+DL-10730,Technology Corp #731,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Enterprise,Referral,124000,Lead,2023-02-26,,10,93.9,37,Zoho,Closed
+DL-10731,Finance Corp #732,Diana Patel,Enterprise,Europe,Finance,CRM Pro,Paid Search,22500,Lead,2024-03-28,,21,90.4,12,Microsoft,Commit
+DL-10732,Retail Corp #733,Ethan Park,SMB,APAC,Retail,CRM Enterprise,Referral,164000,Lead,2023-08-28,,10,50.4,10,Zoho,Best Case
+DL-10733,Retail Corp #734,Fiona Walsh,SMB,Europe,Retail,Analytics Add-on,Outbound,9000,Closed Lost,2022-02-27,2022-04-13,25,81.4,26,HubSpot,Commit
+DL-10734,Technology Corp #735,George Kim,Enterprise,North America,Technology,CRM Pro,Outbound,19000,Lead,2024-04-11,,19,92.0,33,Zoho,Pipeline
+DL-10735,Technology Corp #736,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Outbound,4500,Lead,2022-01-28,,23,61.0,24,Zoho,Pipeline
+DL-10736,Technology Corp #737,Alice Morgan,Enterprise,North America,Technology,CRM Pro,Inbound,14500,Lead,2023-09-11,,21,20.0,38,None,Closed
+DL-10737,Technology Corp #738,Brian Chen,Mid-Market,North America,Technology,Integration Suite,Outbound,39500,Closed Lost,2022-07-08,2022-08-19,25,51.0,35,Salesforce,Closed
+DL-10738,Finance Corp #739,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Pro,Outbound,9000,Lead,2023-09-21,,23,90.6,5,HubSpot,Pipeline
+DL-10739,Healthcare Corp #740,Diana Patel,Enterprise,Europe,Healthcare,Analytics Add-on,Partner,14000,Lead,2022-04-27,,3,40.0,36,Zoho,Best Case
+DL-10740,Education Corp #741,Ethan Park,SMB,APAC,Education,Integration Suite,Inbound,20000,Closed Lost,2022-04-01,2022-05-17,22,31.6,26,HubSpot,Pipeline
+DL-10741,Healthcare Corp #742,Fiona Walsh,SMB,Europe,Healthcare,CRM Enterprise,Referral,151000,Lead,2023-10-07,,15,53.8,10,HubSpot,Pipeline
+DL-10742,Finance Corp #743,George Kim,Enterprise,North America,Finance,Integration Suite,Event,19000,Lead,2023-11-25,,11,39.1,31,HubSpot,Pipeline
+DL-10743,Technology Corp #744,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Inbound,8500,Lead,2022-09-14,,5,59.1,27,HubSpot,Commit
+DL-10744,Healthcare Corp #745,Alice Morgan,Enterprise,North America,Healthcare,Integration Suite,Inbound,33000,Lead,2024-06-30,,26,81.2,37,None,Commit
+DL-10745,Finance Corp #746,Brian Chen,Mid-Market,North America,Finance,CRM Enterprise,Event,140000,Lead,2024-06-05,,14,70.1,26,Salesforce,Best Case
+DL-10746,Technology Corp #747,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Outbound,12500,Closed Lost,2024-02-14,2024-03-11,15,74.9,9,HubSpot,Pipeline
+DL-10747,Healthcare Corp #748,Diana Patel,Enterprise,Europe,Healthcare,Analytics Add-on,Partner,10500,Lead,2023-07-05,,15,46.7,12,Microsoft,Best Case
+DL-10748,Real Estate Corp #749,Ethan Park,SMB,APAC,Real Estate,Analytics Add-on,Paid Search,6500,Lead,2023-11-22,,7,72.2,31,HubSpot,Commit
+DL-10749,Healthcare Corp #750,Fiona Walsh,SMB,Europe,Healthcare,Support Plus,Inbound,8000,Lead,2023-06-25,,21,86.3,20,HubSpot,Pipeline
+DL-10750,Finance Corp #751,George Kim,Enterprise,North America,Finance,CRM Pro,Outbound,13500,Lead,2023-01-08,,17,42.2,29,Microsoft,Best Case
+DL-10751,Technology Corp #752,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Referral,149500,Lead,2024-01-30,,13,57.9,22,None,Commit
+DL-10752,Finance Corp #753,Alice Morgan,Enterprise,North America,Finance,CRM Enterprise,Partner,48000,Lead,2022-03-11,,8,85.7,14,Salesforce,Pipeline
+DL-10753,Finance Corp #754,Brian Chen,Mid-Market,North America,Finance,CRM Pro,Inbound,18000,Lead,2024-03-15,,24,25.3,24,None,Pipeline
+DL-10754,Finance Corp #755,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Pro,Referral,20500,Closed Lost,2022-04-29,2022-06-10,16,20.8,14,Salesforce,Pipeline
+DL-10755,Healthcare Corp #756,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Outbound,18500,Closed Lost,2022-05-25,2022-06-30,20,25.3,25,HubSpot,Best Case
+DL-10756,Finance Corp #757,Ethan Park,SMB,APAC,Finance,Support Plus,Referral,4000,Closed Lost,2022-12-10,2023-02-07,48,89.3,16,None,Closed
+DL-10757,Technology Corp #758,Fiona Walsh,SMB,Europe,Technology,Support Plus,Inbound,7500,Lead,2022-05-17,,14,25.2,38,Salesforce,Commit
+DL-10758,Finance Corp #759,George Kim,Enterprise,North America,Finance,CRM Enterprise,Outbound,91500,Closed Lost,2023-02-15,2023-04-01,19,39.2,17,Zoho,Commit
+DL-10759,Healthcare Corp #760,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Outbound,145500,Lead,2023-02-13,,14,74.1,13,None,Pipeline
+DL-10760,Retail Corp #761,Alice Morgan,Enterprise,North America,Retail,CRM Pro,Partner,11500,Lead,2024-01-16,,29,27.9,7,HubSpot,Commit
+DL-10761,Manufacturing Corp #762,Brian Chen,Mid-Market,North America,Manufacturing,Analytics Add-on,Inbound,6000,Lead,2022-01-03,,13,42.2,29,Salesforce,Closed
+DL-10762,Finance Corp #763,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Pro,Outbound,16000,Lead,2024-05-24,,7,61.8,37,HubSpot,Best Case
+DL-10763,Technology Corp #764,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Referral,46000,Lead,2022-02-26,,28,81.7,11,Salesforce,Commit
+DL-10764,Technology Corp #765,Ethan Park,SMB,APAC,Technology,Integration Suite,Referral,22500,Closed Lost,2024-05-09,2024-07-07,31,25.9,37,HubSpot,Closed
+DL-10765,Healthcare Corp #766,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Referral,11000,Closed Lost,2023-07-06,2023-07-23,11,49.5,18,Microsoft,Closed
+DL-10766,Technology Corp #767,George Kim,Enterprise,North America,Technology,CRM Pro,Event,24000,Closed Lost,2023-08-07,2023-09-12,19,72.3,24,None,Pipeline
+DL-10767,Retail Corp #768,Hannah Brooks,Mid-Market,APAC,Retail,Support Plus,Event,7500,Lead,2022-01-10,,13,43.4,35,Salesforce,Pipeline
+DL-10768,Retail Corp #769,Alice Morgan,Enterprise,North America,Retail,CRM Enterprise,Event,154500,Lead,2022-02-16,,7,30.8,7,Zoho,Closed
+DL-10769,Technology Corp #770,Brian Chen,Mid-Market,North America,Technology,Integration Suite,Event,23500,Lead,2023-04-12,,4,39.7,16,Microsoft,Pipeline
+DL-10770,Technology Corp #771,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Outbound,9000,Lead,2023-12-22,,7,82.1,3,Salesforce,Pipeline
+DL-10771,Manufacturing Corp #772,Diana Patel,Enterprise,Europe,Manufacturing,Support Plus,Partner,4500,Lead,2022-04-06,,29,90.4,29,Salesforce,Best Case
+DL-10772,Technology Corp #773,Ethan Park,SMB,APAC,Technology,CRM Pro,Outbound,20500,Closed Lost,2022-10-30,2022-12-01,18,31.9,28,Salesforce,Commit
+DL-10773,Healthcare Corp #774,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Partner,13000,Closed Lost,2023-07-06,2023-08-20,24,27.0,21,Salesforce,Best Case
+DL-10774,Manufacturing Corp #775,George Kim,Enterprise,North America,Manufacturing,Support Plus,Inbound,7000,Closed Lost,2022-09-20,2022-10-12,5,62.2,37,Salesforce,Commit
+DL-10775,Manufacturing Corp #776,Hannah Brooks,Mid-Market,APAC,Manufacturing,Support Plus,Partner,5500,Closed Lost,2022-11-25,2022-12-28,18,63.4,17,Microsoft,Best Case
+DL-10776,Retail Corp #777,Alice Morgan,Enterprise,North America,Retail,Analytics Add-on,Outbound,6500,Closed Won,2023-06-15,2023-08-06,40,81.5,23,Microsoft,Pipeline
+DL-10777,Healthcare Corp #778,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Inbound,5000,Lead,2022-04-11,,20,35.5,36,Microsoft,Pipeline
+DL-10778,Healthcare Corp #779,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Outbound,11000,Lead,2023-09-07,,27,90.6,35,Microsoft,Pipeline
+DL-10779,Technology Corp #780,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Inbound,12000,Lead,2023-03-16,,15,32.7,29,None,Best Case
+DL-10780,Retail Corp #781,Ethan Park,SMB,APAC,Retail,Support Plus,Inbound,4500,Closed Lost,2022-11-05,2022-12-08,17,40.1,34,HubSpot,Closed
+DL-10781,Healthcare Corp #782,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Outbound,5000,Closed Lost,2023-08-07,2023-09-18,18,43.0,4,Zoho,Pipeline
+DL-10782,Technology Corp #783,George Kim,Enterprise,North America,Technology,Analytics Add-on,Referral,12500,Closed Lost,2024-06-20,2024-07-27,14,69.3,30,HubSpot,Closed
+DL-10783,Technology Corp #784,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Inbound,9500,Lead,2023-12-02,,10,79.5,20,Microsoft,Closed
+DL-10784,Healthcare Corp #785,Alice Morgan,Enterprise,North America,Healthcare,Analytics Add-on,Partner,6000,Closed Lost,2022-02-07,2022-03-03,19,25.9,31,Microsoft,Pipeline
+DL-10785,Finance Corp #786,Brian Chen,Mid-Market,North America,Finance,Integration Suite,Paid Search,30500,Lead,2023-08-14,,13,35.0,7,None,Best Case
+DL-10786,Manufacturing Corp #787,Carlos Rivera,Mid-Market,LATAM,Manufacturing,CRM Enterprise,Inbound,135000,Qualified,2022-08-26,,26,21.7,21,HubSpot,Commit
+DL-10787,Retail Corp #788,Diana Patel,Enterprise,Europe,Retail,Support Plus,Inbound,7500,Lead,2023-03-28,,23,77.8,27,HubSpot,Closed
+DL-10788,Technology Corp #789,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Inbound,186500,Closed Lost,2022-05-23,2022-07-14,23,79.0,18,None,Commit
+DL-10789,Manufacturing Corp #790,Fiona Walsh,SMB,Europe,Manufacturing,Support Plus,Outbound,8500,Lead,2023-06-25,,15,24.2,24,Zoho,Best Case
+DL-10790,Technology Corp #791,George Kim,Enterprise,North America,Technology,Support Plus,Outbound,4000,Lead,2022-12-02,,17,74.6,26,HubSpot,Pipeline
+DL-10791,Healthcare Corp #792,Hannah Brooks,Mid-Market,APAC,Healthcare,Analytics Add-on,Outbound,7500,Closed Lost,2022-08-29,2022-09-11,7,47.9,29,Microsoft,Best Case
+DL-10792,Finance Corp #793,Alice Morgan,Enterprise,North America,Finance,Support Plus,Event,4500,Lead,2022-12-05,,9,36.2,10,Zoho,Closed
+DL-10793,Retail Corp #794,Brian Chen,Mid-Market,North America,Retail,Integration Suite,Event,15000,Closed Won,2023-09-15,2023-11-11,30,49.4,34,Salesforce,Pipeline
+DL-10794,Technology Corp #795,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Event,10000,Lead,2023-03-08,,5,47.5,36,HubSpot,Best Case
+DL-10795,Technology Corp #796,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Referral,18000,Lead,2022-03-26,,13,87.0,33,Salesforce,Pipeline
+DL-10796,Technology Corp #797,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Referral,115500,Closed Lost,2024-03-11,2024-04-07,22,69.6,13,HubSpot,Pipeline
+DL-10797,Technology Corp #798,Fiona Walsh,SMB,Europe,Technology,Integration Suite,Referral,27500,Lead,2024-04-29,,16,53.2,14,None,Closed
+DL-10798,Manufacturing Corp #799,George Kim,Enterprise,North America,Manufacturing,Analytics Add-on,Referral,10500,Lead,2023-03-20,,16,73.7,7,None,Pipeline
+DL-10799,Technology Corp #800,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Paid Search,13000,Lead,2023-11-18,,25,49.5,25,Salesforce,Best Case
+DL-10800,Retail Corp #801,Alice Morgan,Enterprise,North America,Retail,CRM Pro,Referral,22500,Closed Won,2022-10-25,2022-12-15,26,29.3,34,Zoho,Closed
+DL-10801,Healthcare Corp #802,Brian Chen,Mid-Market,North America,Healthcare,Integration Suite,Partner,17500,Lead,2023-11-19,,28,47.6,4,None,Commit
+DL-10802,Finance Corp #803,Carlos Rivera,Mid-Market,LATAM,Finance,Analytics Add-on,Referral,5000,Lead,2023-01-17,,17,65.3,30,Zoho,Best Case
+DL-10803,Technology Corp #804,Diana Patel,Enterprise,Europe,Technology,Analytics Add-on,Partner,6500,Closed Lost,2024-03-27,2024-05-14,19,85.8,36,None,Pipeline
+DL-10804,Education Corp #805,Ethan Park,SMB,APAC,Education,CRM Pro,Partner,21000,Closed Won,2023-04-21,2023-06-12,38,21.9,26,Zoho,Closed
+DL-10805,Retail Corp #806,Fiona Walsh,SMB,Europe,Retail,Support Plus,Inbound,6500,Lead,2022-11-09,,6,60.3,29,Salesforce,Commit
+DL-10806,Retail Corp #807,George Kim,Enterprise,North America,Retail,Support Plus,Referral,7500,Lead,2023-11-20,,15,80.6,26,HubSpot,Closed
+DL-10807,Technology Corp #808,Hannah Brooks,Mid-Market,APAC,Technology,Integration Suite,Referral,32500,Qualified,2022-08-26,,37,21.3,25,Salesforce,Pipeline
+DL-10808,Finance Corp #809,Alice Morgan,Enterprise,North America,Finance,Integration Suite,Outbound,23000,Lead,2024-06-14,,28,42.7,12,Microsoft,Commit
+DL-10809,Finance Corp #810,Brian Chen,Mid-Market,North America,Finance,CRM Pro,Outbound,11500,Lead,2022-11-09,,16,54.7,23,HubSpot,Pipeline
+DL-10810,Finance Corp #811,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Enterprise,Inbound,67000,Closed Lost,2023-07-15,2023-07-29,3,86.8,29,Salesforce,Closed
+DL-10811,Finance Corp #812,Diana Patel,Enterprise,Europe,Finance,CRM Pro,Paid Search,19500,Closed Lost,2022-08-01,2022-08-25,19,28.9,27,Microsoft,Best Case
+DL-10812,Technology Corp #813,Ethan Park,SMB,APAC,Technology,Support Plus,Referral,5500,Lead,2023-12-15,,23,49.4,35,Salesforce,Pipeline
+DL-10813,Technology Corp #814,Fiona Walsh,SMB,Europe,Technology,Integration Suite,Inbound,25500,Lead,2022-08-01,,27,66.2,20,HubSpot,Closed
+DL-10814,Technology Corp #815,George Kim,Enterprise,North America,Technology,Integration Suite,Outbound,25000,Closed Lost,2024-03-10,2024-04-19,22,71.7,20,HubSpot,Best Case
+DL-10815,Healthcare Corp #816,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Outbound,102000,Lead,2023-08-09,,15,32.8,8,None,Pipeline
+DL-10816,Technology Corp #817,Alice Morgan,Enterprise,North America,Technology,Integration Suite,Paid Search,19000,Closed Lost,2023-10-19,2023-11-29,23,32.9,14,HubSpot,Pipeline
+DL-10817,Technology Corp #818,Brian Chen,Mid-Market,North America,Technology,Analytics Add-on,Event,11000,Lead,2023-03-14,,15,87.3,35,Zoho,Commit
+DL-10818,Finance Corp #819,Carlos Rivera,Mid-Market,LATAM,Finance,Integration Suite,Inbound,29500,Lead,2023-09-14,,22,21.4,23,None,Commit
+DL-10819,Technology Corp #820,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Outbound,24500,Lead,2023-06-24,,19,26.3,15,HubSpot,Pipeline
+DL-10820,Healthcare Corp #821,Ethan Park,SMB,APAC,Healthcare,CRM Enterprise,Outbound,74000,Closed Lost,2022-10-19,2022-11-20,8,93.8,3,None,Pipeline
+DL-10821,Technology Corp #822,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Referral,187500,Closed Lost,2022-08-04,2022-09-10,26,42.8,22,None,Closed
+DL-10822,Technology Corp #823,George Kim,Enterprise,North America,Technology,Integration Suite,Outbound,27500,Lead,2022-10-11,,14,93.4,6,Zoho,Best Case
+DL-10823,Finance Corp #824,Hannah Brooks,Mid-Market,APAC,Finance,CRM Enterprise,Event,136500,Lead,2023-06-20,,29,70.0,39,None,Pipeline
+DL-10824,Real Estate Corp #825,Alice Morgan,Enterprise,North America,Real Estate,Analytics Add-on,Partner,11500,Lead,2023-06-12,,11,60.8,8,HubSpot,Commit
+DL-10825,Manufacturing Corp #826,Brian Chen,Mid-Market,North America,Manufacturing,Analytics Add-on,Inbound,8500,Closed Won,2023-10-15,2023-11-17,6,34.5,17,Zoho,Best Case
+DL-10826,Finance Corp #827,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Inbound,7500,Closed Lost,2023-05-21,2023-06-07,8,38.2,18,Salesforce,Best Case
+DL-10827,Manufacturing Corp #828,Diana Patel,Enterprise,Europe,Manufacturing,Integration Suite,Inbound,31000,Lead,2023-09-28,,5,51.3,15,Zoho,Pipeline
+DL-10828,Finance Corp #829,Ethan Park,SMB,APAC,Finance,CRM Pro,Partner,19500,Lead,2023-02-02,,15,56.6,24,None,Pipeline
+DL-10829,Manufacturing Corp #830,Fiona Walsh,SMB,Europe,Manufacturing,Integration Suite,Referral,22000,Lead,2023-08-21,,23,65.0,5,None,Best Case
+DL-10830,Healthcare Corp #831,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Outbound,170500,Lead,2023-07-05,,18,57.7,20,Zoho,Best Case
+DL-10831,Technology Corp #832,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Event,4500,Lead,2022-02-15,,25,46.0,3,None,Pipeline
+DL-10832,Healthcare Corp #833,Alice Morgan,Enterprise,North America,Healthcare,Integration Suite,Partner,41000,Closed Lost,2023-05-11,2023-06-22,19,57.9,26,Microsoft,Best Case
+DL-10833,Technology Corp #834,Brian Chen,Mid-Market,North America,Technology,Integration Suite,Outbound,32000,Lead,2023-08-14,,12,23.1,9,Zoho,Best Case
+DL-10834,Real Estate Corp #835,Carlos Rivera,Mid-Market,LATAM,Real Estate,CRM Pro,Paid Search,12500,Closed Won,2024-01-26,2024-03-18,32,44.6,31,None,Pipeline
+DL-10835,Manufacturing Corp #836,Diana Patel,Enterprise,Europe,Manufacturing,CRM Enterprise,Inbound,100000,Lead,2024-03-24,,29,69.5,30,HubSpot,Best Case
+DL-10836,Technology Corp #837,Ethan Park,SMB,APAC,Technology,Support Plus,Event,7500,Lead,2024-02-20,,29,49.6,28,Microsoft,Closed
+DL-10837,Retail Corp #838,Fiona Walsh,SMB,Europe,Retail,Analytics Add-on,Partner,13000,Lead,2024-01-16,,14,21.5,22,Microsoft,Best Case
+DL-10838,Real Estate Corp #839,George Kim,Enterprise,North America,Real Estate,Analytics Add-on,Outbound,8500,Lead,2022-11-26,,24,84.0,32,Salesforce,Commit
+DL-10839,Healthcare Corp #840,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Outbound,13500,Lead,2024-05-27,,22,51.1,6,Microsoft,Pipeline
+DL-10840,Manufacturing Corp #841,Alice Morgan,Enterprise,North America,Manufacturing,Integration Suite,Outbound,32500,Closed Lost,2022-08-14,2022-09-04,1,32.5,22,Microsoft,Pipeline
+DL-10841,Technology Corp #842,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Inbound,11500,Lead,2023-05-02,,2,86.1,26,Salesforce,Pipeline
+DL-10842,Manufacturing Corp #843,Carlos Rivera,Mid-Market,LATAM,Manufacturing,CRM Pro,Outbound,13500,Lead,2023-08-15,,15,75.5,29,Microsoft,Commit
+DL-10843,Manufacturing Corp #844,Diana Patel,Enterprise,Europe,Manufacturing,Analytics Add-on,Partner,6000,Lead,2024-03-02,,13,23.2,24,Zoho,Best Case
+DL-10844,Healthcare Corp #845,Ethan Park,SMB,APAC,Healthcare,Integration Suite,Inbound,23000,Lead,2024-05-28,,18,25.0,9,HubSpot,Pipeline
+DL-10845,Finance Corp #846,Fiona Walsh,SMB,Europe,Finance,Support Plus,Inbound,9000,Lead,2022-05-26,,13,63.8,30,Microsoft,Pipeline
+DL-10846,Manufacturing Corp #847,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Outbound,30500,Lead,2022-01-09,,6,94.8,22,Microsoft,Best Case
+DL-10847,Healthcare Corp #848,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Enterprise,Outbound,94500,Lead,2022-06-25,,7,69.0,34,HubSpot,Pipeline
+DL-10848,Healthcare Corp #849,Alice Morgan,Enterprise,North America,Healthcare,CRM Pro,Referral,8000,Closed Lost,2023-03-13,2023-04-13,5,56.1,23,Microsoft,Commit
+DL-10849,Finance Corp #850,Brian Chen,Mid-Market,North America,Finance,Support Plus,Referral,7500,Closed Lost,2023-07-12,2023-07-25,3,69.6,36,HubSpot,Pipeline
+DL-10850,Finance Corp #851,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Inbound,9000,Lead,2024-05-01,,18,35.9,36,Zoho,Best Case
+DL-10851,Technology Corp #852,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Partner,138000,Lead,2024-05-30,,19,35.6,22,Microsoft,Commit
+DL-10852,Technology Corp #853,Ethan Park,SMB,APAC,Technology,Support Plus,Partner,7500,Lead,2023-09-27,,28,32.6,18,Microsoft,Pipeline
+DL-10853,Finance Corp #854,Fiona Walsh,SMB,Europe,Finance,CRM Enterprise,Outbound,150000,Lead,2023-02-24,,29,43.9,36,Microsoft,Commit
+DL-10854,Technology Corp #855,George Kim,Enterprise,North America,Technology,CRM Enterprise,Event,83500,Lead,2024-02-01,,21,73.4,18,None,Pipeline
+DL-10855,Technology Corp #856,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Inbound,11500,Lead,2022-06-16,,1,66.1,9,HubSpot,Best Case
+DL-10856,Real Estate Corp #857,Alice Morgan,Enterprise,North America,Real Estate,CRM Pro,Inbound,15000,Closed Lost,2023-02-22,2023-03-20,3,25.1,38,Salesforce,Closed
+DL-10857,Manufacturing Corp #858,Brian Chen,Mid-Market,North America,Manufacturing,Integration Suite,Event,13000,Closed Lost,2022-05-03,2022-07-12,58,76.2,8,Zoho,Pipeline
+DL-10858,Healthcare Corp #859,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Inbound,11000,Lead,2022-08-10,,20,86.6,28,HubSpot,Best Case
+DL-10859,Healthcare Corp #860,Diana Patel,Enterprise,Europe,Healthcare,CRM Pro,Outbound,18500,Lead,2024-02-19,,22,35.7,31,Microsoft,Pipeline
+DL-10860,Technology Corp #861,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Inbound,12500,Lead,2023-04-27,,14,85.1,19,Salesforce,Best Case
+DL-10861,Finance Corp #862,Fiona Walsh,SMB,Europe,Finance,CRM Enterprise,Inbound,155500,Lead,2023-11-20,,1,23.4,9,Zoho,Closed
+DL-10862,Retail Corp #863,George Kim,Enterprise,North America,Retail,CRM Pro,Referral,21500,Lead,2023-06-22,,11,55.4,28,HubSpot,Pipeline
+DL-10863,Technology Corp #864,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Event,8000,Lead,2022-07-05,,28,73.0,29,Salesforce,Pipeline
+DL-10864,Technology Corp #865,Alice Morgan,Enterprise,North America,Technology,Support Plus,Outbound,9000,Lead,2023-02-01,,11,34.7,27,HubSpot,Pipeline
+DL-10865,Retail Corp #866,Brian Chen,Mid-Market,North America,Retail,CRM Enterprise,Referral,105500,Closed Lost,2024-05-16,2024-06-12,18,42.6,22,None,Pipeline
+DL-10866,Healthcare Corp #867,Carlos Rivera,Mid-Market,LATAM,Healthcare,Analytics Add-on,Event,13000,Closed Lost,2023-06-13,2023-07-24,26,57.1,5,Zoho,Pipeline
+DL-10867,Retail Corp #868,Diana Patel,Enterprise,Europe,Retail,CRM Pro,Paid Search,8000,Closed Lost,2024-02-19,2024-03-20,16,39.2,21,Zoho,Best Case
+DL-10868,Education Corp #869,Ethan Park,SMB,APAC,Education,Support Plus,Inbound,8000,Lead,2023-01-03,,24,27.3,7,None,Commit
+DL-10869,Real Estate Corp #870,Fiona Walsh,SMB,Europe,Real Estate,CRM Enterprise,Partner,118500,Closed Lost,2022-04-06,2022-05-14,14,58.3,23,HubSpot,Best Case
+DL-10870,Technology Corp #871,George Kim,Enterprise,North America,Technology,CRM Pro,Event,15000,Lead,2022-06-29,,6,55.4,29,Zoho,Closed
+DL-10871,Retail Corp #872,Hannah Brooks,Mid-Market,APAC,Retail,Support Plus,Outbound,5000,Lead,2023-05-13,,3,26.1,17,Microsoft,Best Case
+DL-10872,Retail Corp #873,Alice Morgan,Enterprise,North America,Retail,Analytics Add-on,Inbound,11000,Lead,2023-11-01,,8,83.2,20,Microsoft,Pipeline
+DL-10873,Finance Corp #874,Brian Chen,Mid-Market,North America,Finance,CRM Enterprise,Outbound,60000,Lead,2023-04-16,,18,65.7,18,Microsoft,Best Case
+DL-10874,Manufacturing Corp #875,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Analytics Add-on,Outbound,6500,Lead,2024-01-09,,9,60.2,5,Salesforce,Commit
+DL-10875,Finance Corp #876,Diana Patel,Enterprise,Europe,Finance,CRM Enterprise,Outbound,135000,Lead,2022-01-24,,22,51.5,24,Zoho,Closed
+DL-10876,Healthcare Corp #877,Ethan Park,SMB,APAC,Healthcare,Analytics Add-on,Paid Search,9000,Lead,2022-02-21,,18,20.2,11,HubSpot,Closed
+DL-10877,Education Corp #878,Fiona Walsh,SMB,Europe,Education,CRM Enterprise,Inbound,148500,Closed Lost,2024-04-30,2024-05-31,7,36.8,5,Zoho,Closed
+DL-10878,Healthcare Corp #879,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Partner,105000,Lead,2023-08-28,,12,89.5,17,Salesforce,Closed
+DL-10879,Technology Corp #880,Hannah Brooks,Mid-Market,APAC,Technology,Integration Suite,Outbound,18000,Lead,2024-05-16,,8,53.6,37,None,Best Case
+DL-10880,Finance Corp #881,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Outbound,17500,Closed Lost,2023-01-02,2023-02-11,21,39.0,32,Salesforce,Commit
+DL-10881,Technology Corp #882,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Outbound,22500,Lead,2024-04-27,,21,60.0,8,Microsoft,Pipeline
+DL-10882,Technology Corp #883,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Enterprise,Partner,142500,Lead,2023-09-11,,11,92.0,12,Zoho,Closed
+DL-10883,Retail Corp #884,Diana Patel,Enterprise,Europe,Retail,CRM Enterprise,Partner,44500,Closed Won,2022-02-16,2022-05-22,80,26.4,6,HubSpot,Commit
+DL-10884,Finance Corp #885,Ethan Park,SMB,APAC,Finance,Integration Suite,Referral,37500,Lead,2023-09-29,,27,73.5,4,HubSpot,Best Case
+DL-10885,Technology Corp #886,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Referral,159500,Lead,2024-03-03,,4,51.7,12,HubSpot,Pipeline
+DL-10886,Technology Corp #887,George Kim,Enterprise,North America,Technology,Integration Suite,Event,40000,Closed Won,2022-01-31,2022-03-12,13,47.6,4,HubSpot,Best Case
+DL-10887,Healthcare Corp #888,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Inbound,20500,Lead,2022-02-25,,5,48.6,19,Microsoft,Commit
+DL-10888,Technology Corp #889,Alice Morgan,Enterprise,North America,Technology,CRM Pro,Event,24000,Lead,2022-02-06,,10,72.5,33,None,Closed
+DL-10889,Technology Corp #890,Brian Chen,Mid-Market,North America,Technology,Integration Suite,Outbound,13500,Lead,2024-06-05,,10,21.8,36,Microsoft,Best Case
+DL-10890,Manufacturing Corp #891,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Analytics Add-on,Referral,9000,Lead,2024-03-13,,27,52.9,30,Salesforce,Best Case
+DL-10891,Finance Corp #892,Diana Patel,Enterprise,Europe,Finance,Support Plus,Referral,9000,Lead,2023-08-12,,27,85.0,30,Zoho,Closed
+DL-10892,Healthcare Corp #893,Ethan Park,SMB,APAC,Healthcare,Support Plus,Partner,5000,Lead,2023-09-22,,29,36.2,31,Salesforce,Commit
+DL-10893,Finance Corp #894,Fiona Walsh,SMB,Europe,Finance,Integration Suite,Event,12000,Lead,2024-01-14,,5,38.0,25,Salesforce,Commit
+DL-10894,Technology Corp #895,George Kim,Enterprise,North America,Technology,Integration Suite,Inbound,34000,Lead,2022-10-25,,25,60.0,5,Salesforce,Best Case
+DL-10895,Technology Corp #896,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Paid Search,20000,Lead,2023-09-27,,28,93.3,26,Salesforce,Commit
+DL-10896,Education Corp #897,Alice Morgan,Enterprise,North America,Education,Support Plus,Outbound,6500,Lead,2022-10-26,,7,71.4,30,None,Best Case
+DL-10897,Technology Corp #898,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Referral,11000,Lead,2023-11-08,,23,66.6,33,None,Closed
+DL-10898,Technology Corp #899,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Inbound,7500,Closed Lost,2024-04-14,2024-05-24,29,82.6,13,Salesforce,Pipeline
+DL-10899,Healthcare Corp #900,Diana Patel,Enterprise,Europe,Healthcare,Analytics Add-on,Outbound,5500,Lead,2023-12-01,,27,72.7,37,HubSpot,Best Case
+DL-10900,Manufacturing Corp #901,Ethan Park,SMB,APAC,Manufacturing,CRM Pro,Partner,19000,Lead,2023-05-26,,1,60.8,27,Salesforce,Best Case
+DL-10901,Finance Corp #902,Fiona Walsh,SMB,Europe,Finance,Analytics Add-on,Inbound,11500,Lead,2022-10-18,,28,64.7,38,Zoho,Best Case
+DL-10902,Technology Corp #903,George Kim,Enterprise,North America,Technology,Support Plus,Outbound,3000,Lead,2024-03-30,,8,65.9,19,None,Closed
+DL-10903,Retail Corp #904,Hannah Brooks,Mid-Market,APAC,Retail,Support Plus,Inbound,9500,Closed Lost,2022-05-18,2022-05-29,3,42.5,13,Microsoft,Closed
+DL-10904,Retail Corp #905,Alice Morgan,Enterprise,North America,Retail,CRM Enterprise,Paid Search,79000,Lead,2022-01-08,,26,45.7,19,None,Best Case
+DL-10905,Healthcare Corp #906,Brian Chen,Mid-Market,North America,Healthcare,Support Plus,Inbound,8000,Lead,2022-01-11,,14,36.1,19,Salesforce,Best Case
+DL-10906,Technology Corp #907,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Paid Search,21500,Lead,2024-06-22,,14,42.3,5,Salesforce,Closed
+DL-10907,Retail Corp #908,Diana Patel,Enterprise,Europe,Retail,Integration Suite,Outbound,27000,Closed Lost,2024-05-16,2024-06-09,18,90.9,14,HubSpot,Pipeline
+DL-10908,Manufacturing Corp #909,Ethan Park,SMB,APAC,Manufacturing,Analytics Add-on,Referral,7500,Lead,2024-04-25,,10,31.8,24,None,Closed
+DL-10909,Manufacturing Corp #910,Fiona Walsh,SMB,Europe,Manufacturing,Integration Suite,Partner,24500,Closed Lost,2022-11-29,2023-01-05,28,84.7,17,Salesforce,Pipeline
+DL-10910,Finance Corp #911,George Kim,Enterprise,North America,Finance,Integration Suite,Inbound,16000,Lead,2024-04-23,,22,52.2,31,HubSpot,Pipeline
+DL-10911,Retail Corp #912,Hannah Brooks,Mid-Market,APAC,Retail,CRM Pro,Inbound,17000,Closed Lost,2022-05-08,2022-05-30,7,30.1,13,Salesforce,Closed
+DL-10912,Retail Corp #913,Alice Morgan,Enterprise,North America,Retail,CRM Enterprise,Outbound,71500,Lead,2023-11-23,,18,56.1,4,None,Closed
+DL-10913,Healthcare Corp #914,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Outbound,11000,Closed Lost,2024-06-25,2024-07-31,13,40.2,19,Zoho,Closed
+DL-10914,Healthcare Corp #915,Carlos Rivera,Mid-Market,LATAM,Healthcare,CRM Pro,Partner,15000,Lead,2023-06-25,,6,49.9,7,HubSpot,Pipeline
+DL-10915,Technology Corp #916,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Referral,9000,Lead,2023-06-16,,18,77.2,12,HubSpot,Commit
+DL-10916,Technology Corp #917,Ethan Park,SMB,APAC,Technology,CRM Pro,Referral,18000,Lead,2022-12-05,,14,29.8,38,None,Closed
+DL-10917,Healthcare Corp #918,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Inbound,41500,Lead,2022-04-18,,9,61.6,29,HubSpot,Commit
+DL-10918,Healthcare Corp #919,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Referral,67500,Closed Lost,2022-01-23,2022-02-19,12,43.0,36,Zoho,Pipeline
+DL-10919,Technology Corp #920,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Inbound,14500,Lead,2024-05-02,,20,83.6,17,None,Pipeline
+DL-10920,Manufacturing Corp #921,Alice Morgan,Enterprise,North America,Manufacturing,Integration Suite,Inbound,35000,Lead,2023-07-13,,22,65.3,17,Microsoft,Best Case
+DL-10921,Technology Corp #922,Brian Chen,Mid-Market,North America,Technology,Analytics Add-on,Inbound,11500,Lead,2023-06-09,,28,92.6,32,Salesforce,Pipeline
+DL-10922,Real Estate Corp #923,Carlos Rivera,Mid-Market,LATAM,Real Estate,Analytics Add-on,Inbound,8500,Lead,2024-07-03,,9,45.6,23,None,Closed
+DL-10923,Technology Corp #924,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Referral,16500,Lead,2022-01-04,,28,33.1,16,None,Commit
+DL-10924,Education Corp #925,Ethan Park,SMB,APAC,Education,CRM Enterprise,Inbound,149500,Lead,2022-07-17,,3,28.3,34,Microsoft,Commit
+DL-10925,Real Estate Corp #926,Fiona Walsh,SMB,Europe,Real Estate,Integration Suite,Event,15500,Lead,2022-11-17,,7,61.0,30,HubSpot,Best Case
+DL-10926,Technology Corp #927,George Kim,Enterprise,North America,Technology,CRM Enterprise,Outbound,117000,Lead,2023-01-23,,15,91.5,9,None,Closed
+DL-10927,Retail Corp #928,Hannah Brooks,Mid-Market,APAC,Retail,CRM Pro,Partner,17500,Lead,2024-01-22,,4,39.0,35,HubSpot,Closed
+DL-10928,Technology Corp #929,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Inbound,10500,Lead,2024-03-23,,24,47.5,4,Zoho,Pipeline
+DL-10929,Education Corp #930,Brian Chen,Mid-Market,North America,Education,Integration Suite,Outbound,22000,Lead,2023-04-04,,1,58.3,12,HubSpot,Closed
+DL-10930,Finance Corp #931,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Outbound,9500,Lead,2023-03-15,,24,31.3,28,HubSpot,Closed
+DL-10931,Technology Corp #932,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Event,24000,Closed Lost,2022-12-12,2023-01-09,23,48.9,36,Salesforce,Pipeline
+DL-10932,Real Estate Corp #933,Ethan Park,SMB,APAC,Real Estate,Analytics Add-on,Paid Search,7000,Lead,2022-10-08,,12,81.4,5,None,Commit
+DL-10933,Finance Corp #934,Fiona Walsh,SMB,Europe,Finance,CRM Enterprise,Outbound,161500,Lead,2022-11-10,,13,73.7,35,HubSpot,Best Case
+DL-10934,Finance Corp #935,George Kim,Enterprise,North America,Finance,Integration Suite,Outbound,27500,Lead,2024-06-21,,24,40.2,6,HubSpot,Best Case
+DL-10935,Technology Corp #936,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Outbound,7500,Lead,2023-04-04,,28,24.1,9,Microsoft,Closed
+DL-10936,Healthcare Corp #937,Alice Morgan,Enterprise,North America,Healthcare,Support Plus,Partner,9000,Lead,2022-07-17,,2,91.3,5,Salesforce,Closed
+DL-10937,Retail Corp #938,Brian Chen,Mid-Market,North America,Retail,CRM Pro,Inbound,23000,Lead,2022-07-21,,9,36.4,9,Salesforce,Best Case
+DL-10938,Technology Corp #939,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Inbound,8500,Lead,2023-11-23,,3,33.0,13,Zoho,Closed
+DL-10939,Technology Corp #940,Diana Patel,Enterprise,Europe,Technology,Support Plus,Paid Search,6000,Lead,2024-04-04,,3,28.0,15,Salesforce,Commit
+DL-10940,Education Corp #941,Ethan Park,SMB,APAC,Education,CRM Enterprise,Inbound,51000,Lead,2022-06-30,,1,48.8,12,None,Pipeline
+DL-10941,Finance Corp #942,Fiona Walsh,SMB,Europe,Finance,Support Plus,Inbound,5000,Lead,2024-03-02,,15,50.8,10,None,Pipeline
+DL-10942,Technology Corp #943,George Kim,Enterprise,North America,Technology,CRM Enterprise,Outbound,119000,Lead,2023-10-02,,27,85.9,33,Zoho,Best Case
+DL-10943,Retail Corp #944,Hannah Brooks,Mid-Market,APAC,Retail,CRM Pro,Paid Search,13000,Closed Won,2024-01-15,2024-04-03,54,82.9,36,Microsoft,Commit
+DL-10944,Technology Corp #945,Alice Morgan,Enterprise,North America,Technology,Support Plus,Referral,9000,Lead,2023-02-14,,20,91.7,22,None,Closed
+DL-10945,Technology Corp #946,Brian Chen,Mid-Market,North America,Technology,Analytics Add-on,Outbound,14500,Lead,2022-04-27,,16,42.2,23,None,Commit
+DL-10946,Retail Corp #947,Carlos Rivera,Mid-Market,LATAM,Retail,Integration Suite,Referral,40500,Closed Lost,2023-01-29,2023-03-18,19,33.7,20,Zoho,Pipeline
+DL-10947,Finance Corp #948,Diana Patel,Enterprise,Europe,Finance,CRM Enterprise,Event,199500,Lead,2022-09-23,,9,63.3,22,Salesforce,Commit
+DL-10948,Retail Corp #949,Ethan Park,SMB,APAC,Retail,Analytics Add-on,Event,8000,Closed Lost,2023-02-02,2023-03-04,17,78.0,24,Salesforce,Best Case
+DL-10949,Finance Corp #950,Fiona Walsh,SMB,Europe,Finance,Support Plus,Inbound,8500,Closed Lost,2022-08-10,2022-09-11,8,54.6,39,None,Commit
+DL-10950,Manufacturing Corp #951,George Kim,Enterprise,North America,Manufacturing,Support Plus,Inbound,8000,Lead,2022-06-07,,1,70.3,39,Salesforce,Closed
+DL-10951,Manufacturing Corp #952,Hannah Brooks,Mid-Market,APAC,Manufacturing,CRM Pro,Inbound,24500,Lead,2024-03-24,,26,29.0,22,HubSpot,Commit
+DL-10952,Retail Corp #953,Alice Morgan,Enterprise,North America,Retail,Support Plus,Event,8500,Lead,2023-03-15,,17,78.9,29,None,Commit
+DL-10953,Healthcare Corp #954,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Referral,13500,Lead,2024-01-26,,28,67.6,34,Microsoft,Pipeline
+DL-10954,Technology Corp #955,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Paid Search,13000,Lead,2024-05-27,,13,46.3,19,Salesforce,Commit
+DL-10955,Technology Corp #956,Diana Patel,Enterprise,Europe,Technology,Support Plus,Partner,3000,Closed Lost,2023-09-26,2023-11-11,23,78.5,20,HubSpot,Pipeline
+DL-10956,Education Corp #957,Ethan Park,SMB,APAC,Education,Support Plus,Partner,8000,Closed Lost,2023-07-18,2023-08-10,4,38.2,30,None,Pipeline
+DL-10957,Technology Corp #958,Fiona Walsh,SMB,Europe,Technology,Support Plus,Inbound,9000,Lead,2022-01-20,,14,62.4,5,Salesforce,Best Case
+DL-10958,Technology Corp #959,George Kim,Enterprise,North America,Technology,Integration Suite,Event,29000,Closed Lost,2024-03-25,2024-05-02,27,76.4,16,Salesforce,Pipeline
+DL-10959,Healthcare Corp #960,Hannah Brooks,Mid-Market,APAC,Healthcare,Support Plus,Referral,4000,Lead,2022-01-19,,4,44.7,6,None,Best Case
+DL-10960,Technology Corp #961,Alice Morgan,Enterprise,North America,Technology,Support Plus,Outbound,8500,Lead,2022-06-29,,16,27.5,12,None,Pipeline
+DL-10961,Healthcare Corp #962,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Inbound,18500,Lead,2024-02-27,,13,40.6,8,Salesforce,Best Case
+DL-10962,Technology Corp #963,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Paid Search,6000,Qualified,2023-10-25,,17,50.4,4,Zoho,Closed
+DL-10963,Finance Corp #964,Diana Patel,Enterprise,Europe,Finance,CRM Pro,Partner,17000,Closed Won,2023-09-15,2024-01-12,93,39.8,10,HubSpot,Closed
+DL-10964,Education Corp #965,Ethan Park,SMB,APAC,Education,CRM Enterprise,Event,148000,Closed Lost,2022-09-29,2022-10-28,15,72.2,12,Zoho,Pipeline
+DL-10965,Real Estate Corp #966,Fiona Walsh,SMB,Europe,Real Estate,Support Plus,Referral,9000,Closed Lost,2022-08-07,2022-09-21,25,46.8,34,Microsoft,Commit
+DL-10966,Technology Corp #967,George Kim,Enterprise,North America,Technology,Integration Suite,Referral,44500,Lead,2022-08-01,,4,87.4,29,Microsoft,Best Case
+DL-10967,Healthcare Corp #968,Hannah Brooks,Mid-Market,APAC,Healthcare,Integration Suite,Referral,16000,Lead,2024-05-21,,23,89.8,18,HubSpot,Closed
+DL-10968,Manufacturing Corp #969,Alice Morgan,Enterprise,North America,Manufacturing,CRM Pro,Inbound,24500,Lead,2023-01-18,,8,74.3,27,HubSpot,Commit
+DL-10969,Technology Corp #970,Brian Chen,Mid-Market,North America,Technology,CRM Pro,Inbound,18500,Lead,2022-07-13,,3,62.5,25,Microsoft,Pipeline
+DL-10970,Technology Corp #971,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Event,5000,Lead,2024-02-29,,11,23.7,15,Salesforce,Pipeline
+DL-10971,Technology Corp #972,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Partner,88000,Closed Lost,2023-11-26,2023-12-12,9,74.2,12,None,Closed
+DL-10972,Technology Corp #973,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Partner,9000,Closed Lost,2024-03-14,2024-04-05,9,58.8,11,Microsoft,Best Case
+DL-10973,Technology Corp #974,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Outbound,141000,Closed Lost,2022-08-01,2022-09-01,26,80.3,25,Salesforce,Best Case
+DL-10974,Healthcare Corp #975,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Outbound,68000,Closed Won,2023-08-17,2023-10-08,46,49.4,8,HubSpot,Commit
+DL-10975,Finance Corp #976,Hannah Brooks,Mid-Market,APAC,Finance,Integration Suite,Referral,38500,Lead,2022-12-11,,1,27.8,5,HubSpot,Commit
+DL-10976,Manufacturing Corp #977,Alice Morgan,Enterprise,North America,Manufacturing,Analytics Add-on,Inbound,11500,Lead,2023-07-09,,15,86.8,23,HubSpot,Pipeline
+DL-10977,Retail Corp #978,Brian Chen,Mid-Market,North America,Retail,Support Plus,Partner,7000,Lead,2022-02-23,,27,24.0,38,Zoho,Closed
+DL-10978,Manufacturing Corp #979,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Support Plus,Referral,5000,Lead,2022-10-16,,23,25.1,3,Zoho,Best Case
+DL-10979,Healthcare Corp #980,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Inbound,35500,Lead,2023-07-23,,16,29.6,3,None,Best Case
+DL-10980,Healthcare Corp #981,Ethan Park,SMB,APAC,Healthcare,CRM Pro,Inbound,15500,Lead,2022-11-04,,11,39.3,34,HubSpot,Pipeline
+DL-10981,Technology Corp #982,Fiona Walsh,SMB,Europe,Technology,Support Plus,Outbound,4000,Lead,2024-06-05,,23,94.4,6,Salesforce,Closed
+DL-10982,Education Corp #983,George Kim,Enterprise,North America,Education,Integration Suite,Outbound,41000,Closed Won,2022-03-17,2022-04-25,34,72.0,14,Microsoft,Closed
+DL-10983,Healthcare Corp #984,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Outbound,24500,Lead,2023-11-30,,3,23.0,16,Microsoft,Pipeline
+DL-10984,Education Corp #985,Alice Morgan,Enterprise,North America,Education,CRM Enterprise,Paid Search,174000,Lead,2022-02-07,,3,66.3,37,None,Pipeline
+DL-10985,Retail Corp #986,Brian Chen,Mid-Market,North America,Retail,Integration Suite,Inbound,25500,Closed Lost,2023-12-02,2023-12-30,23,52.1,18,Zoho,Best Case
+DL-10986,Technology Corp #987,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Enterprise,Outbound,152000,Lead,2023-01-30,,28,43.1,13,Microsoft,Closed
+DL-10987,Education Corp #988,Diana Patel,Enterprise,Europe,Education,CRM Pro,Referral,15000,Lead,2022-01-16,,24,48.1,20,Salesforce,Best Case
+DL-10988,Finance Corp #989,Ethan Park,SMB,APAC,Finance,CRM Enterprise,Paid Search,109000,Lead,2022-05-09,,18,78.8,7,Zoho,Pipeline
+DL-10989,Finance Corp #990,Fiona Walsh,SMB,Europe,Finance,Integration Suite,Inbound,16000,Lead,2022-06-13,,20,72.0,10,Zoho,Pipeline
+DL-10990,Manufacturing Corp #991,George Kim,Enterprise,North America,Manufacturing,CRM Pro,Outbound,19000,Closed Lost,2024-01-14,2024-01-28,5,69.2,34,HubSpot,Pipeline
+DL-10991,Finance Corp #992,Hannah Brooks,Mid-Market,APAC,Finance,Integration Suite,Outbound,24500,Lead,2023-12-25,,14,38.9,15,Salesforce,Best Case
+DL-10992,Technology Corp #993,Alice Morgan,Enterprise,North America,Technology,CRM Pro,Inbound,14000,Lead,2024-02-09,,2,41.4,36,None,Pipeline
+DL-10993,Retail Corp #994,Brian Chen,Mid-Market,North America,Retail,CRM Pro,Inbound,18500,Lead,2023-11-16,,3,53.9,3,None,Closed
+DL-10994,Retail Corp #995,Carlos Rivera,Mid-Market,LATAM,Retail,CRM Pro,Paid Search,19500,Lead,2023-08-31,,26,65.0,8,Microsoft,Pipeline
+DL-10995,Retail Corp #996,Diana Patel,Enterprise,Europe,Retail,Analytics Add-on,Outbound,11000,Lead,2023-05-10,,6,71.4,7,Salesforce,Best Case
+DL-10996,Technology Corp #997,Ethan Park,SMB,APAC,Technology,Integration Suite,Inbound,16500,Lead,2022-04-13,,17,93.3,19,Salesforce,Best Case
+DL-10997,Retail Corp #998,Fiona Walsh,SMB,Europe,Retail,CRM Pro,Referral,15500,Closed Lost,2023-04-19,2023-05-20,25,51.8,3,HubSpot,Best Case
+DL-10998,Healthcare Corp #999,George Kim,Enterprise,North America,Healthcare,CRM Enterprise,Inbound,88500,Lead,2022-04-29,,15,31.6,24,None,Pipeline
+DL-10999,Healthcare Corp #1000,Hannah Brooks,Mid-Market,APAC,Healthcare,Integration Suite,Event,40500,Closed Lost,2022-01-15,2022-02-18,24,55.1,18,HubSpot,Pipeline
+DL-11000,Retail Corp #1001,Alice Morgan,Enterprise,North America,Retail,Analytics Add-on,Inbound,7500,Lead,2022-07-19,,4,72.9,28,HubSpot,Pipeline
+DL-11001,Retail Corp #1002,Brian Chen,Mid-Market,North America,Retail,Integration Suite,Outbound,25000,Lead,2022-02-22,,14,48.8,3,Microsoft,Pipeline
+DL-11002,Finance Corp #1003,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Enterprise,Inbound,50000,Lead,2023-12-27,,24,30.1,5,Zoho,Commit
+DL-11003,Finance Corp #1004,Diana Patel,Enterprise,Europe,Finance,Integration Suite,Event,28500,Lead,2022-10-12,,9,90.3,11,Microsoft,Pipeline
+DL-11004,Technology Corp #1005,Ethan Park,SMB,APAC,Technology,CRM Enterprise,Paid Search,91000,Lead,2022-05-25,,15,55.1,39,HubSpot,Commit
+DL-11005,Technology Corp #1006,Fiona Walsh,SMB,Europe,Technology,Analytics Add-on,Inbound,13500,Lead,2024-04-17,,25,37.7,15,Zoho,Pipeline
+DL-11006,Finance Corp #1007,George Kim,Enterprise,North America,Finance,Support Plus,Inbound,5500,Qualified,2023-05-07,,43,42.2,18,None,Pipeline
+DL-11007,Finance Corp #1008,Hannah Brooks,Mid-Market,APAC,Finance,Integration Suite,Outbound,36000,Lead,2023-04-26,,4,67.6,24,None,Pipeline
+DL-11008,Retail Corp #1009,Alice Morgan,Enterprise,North America,Retail,Support Plus,Referral,5500,Lead,2023-12-19,,20,87.5,7,None,Best Case
+DL-11009,Finance Corp #1010,Brian Chen,Mid-Market,North America,Finance,Analytics Add-on,Inbound,10000,Closed Lost,2022-12-04,2022-12-16,3,26.4,17,None,Closed
+DL-11010,Technology Corp #1011,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Event,4000,Lead,2024-05-17,,21,49.1,18,Salesforce,Pipeline
+DL-11011,Retail Corp #1012,Diana Patel,Enterprise,Europe,Retail,Integration Suite,Outbound,33000,Lead,2023-06-11,,12,59.8,25,Zoho,Commit
+DL-11012,Technology Corp #1013,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Inbound,5000,Closed Lost,2022-09-13,2022-10-18,27,31.7,26,None,Closed
+DL-11013,Education Corp #1014,Fiona Walsh,SMB,Europe,Education,Analytics Add-on,Inbound,9000,Closed Lost,2022-02-06,2022-03-04,14,44.2,23,HubSpot,Pipeline
+DL-11014,Technology Corp #1015,George Kim,Enterprise,North America,Technology,CRM Enterprise,Event,155500,Lead,2023-01-12,,22,77.3,39,HubSpot,Best Case
+DL-11015,Technology Corp #1016,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Partner,79000,Qualified,2023-06-18,,8,89.3,21,Salesforce,Best Case
+DL-11016,Retail Corp #1017,Alice Morgan,Enterprise,North America,Retail,Support Plus,Outbound,7500,Lead,2022-11-14,,25,27.7,5,Salesforce,Best Case
+DL-11017,Technology Corp #1018,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Inbound,160500,Lead,2023-11-30,,22,76.1,17,Salesforce,Best Case
+DL-11018,Education Corp #1019,Carlos Rivera,Mid-Market,LATAM,Education,Analytics Add-on,Referral,6500,Lead,2023-01-26,,18,81.0,29,Microsoft,Pipeline
+DL-11019,Manufacturing Corp #1020,Diana Patel,Enterprise,Europe,Manufacturing,CRM Enterprise,Event,85000,Qualified,2022-04-10,,30,23.7,25,HubSpot,Pipeline
+DL-11020,Finance Corp #1021,Ethan Park,SMB,APAC,Finance,Support Plus,Inbound,3500,Closed Lost,2022-03-08,2022-04-18,22,26.4,36,Zoho,Commit
+DL-11021,Education Corp #1022,Fiona Walsh,SMB,Europe,Education,Analytics Add-on,Inbound,6000,Lead,2022-10-27,,7,71.4,38,Zoho,Best Case
+DL-11022,Retail Corp #1023,George Kim,Enterprise,North America,Retail,Support Plus,Event,9000,Closed Lost,2023-09-02,2023-10-16,17,38.6,6,None,Pipeline
+DL-11023,Healthcare Corp #1024,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Inbound,10000,Lead,2022-02-19,,20,85.6,10,HubSpot,Pipeline
+DL-11024,Finance Corp #1025,Alice Morgan,Enterprise,North America,Finance,Support Plus,Outbound,6500,Lead,2022-09-11,,29,32.1,33,Microsoft,Commit
+DL-11025,Manufacturing Corp #1026,Brian Chen,Mid-Market,North America,Manufacturing,Analytics Add-on,Inbound,6500,Closed Lost,2023-11-02,2023-11-28,18,67.1,3,Salesforce,Best Case
+DL-11026,Retail Corp #1027,Carlos Rivera,Mid-Market,LATAM,Retail,Analytics Add-on,Outbound,9500,Lead,2022-09-25,,6,51.0,38,None,Best Case
+DL-11027,Retail Corp #1028,Diana Patel,Enterprise,Europe,Retail,Analytics Add-on,Outbound,7000,Closed Lost,2023-03-10,2023-04-20,22,87.2,7,Microsoft,Commit
+DL-11028,Finance Corp #1029,Ethan Park,SMB,APAC,Finance,Integration Suite,Inbound,13500,Lead,2022-04-03,,23,58.5,8,Microsoft,Pipeline
+DL-11029,Finance Corp #1030,Fiona Walsh,SMB,Europe,Finance,CRM Pro,Outbound,24500,Closed Lost,2022-05-17,2022-07-08,24,25.9,26,HubSpot,Best Case
+DL-11030,Technology Corp #1031,George Kim,Enterprise,North America,Technology,CRM Enterprise,Outbound,193500,Lead,2023-04-24,,7,79.0,23,Zoho,Pipeline
+DL-11031,Finance Corp #1032,Hannah Brooks,Mid-Market,APAC,Finance,Integration Suite,Inbound,29000,Lead,2023-01-11,,26,35.6,32,Microsoft,Best Case
+DL-11032,Technology Corp #1033,Alice Morgan,Enterprise,North America,Technology,Support Plus,Referral,9500,Lead,2023-01-02,,16,33.4,24,None,Commit
+DL-11033,Education Corp #1034,Brian Chen,Mid-Market,North America,Education,CRM Pro,Paid Search,10500,Lead,2023-04-28,,17,42.7,13,Microsoft,Closed
+DL-11034,Manufacturing Corp #1035,Carlos Rivera,Mid-Market,LATAM,Manufacturing,CRM Pro,Inbound,9500,Lead,2022-11-07,,10,69.5,22,Salesforce,Closed
+DL-11035,Healthcare Corp #1036,Diana Patel,Enterprise,Europe,Healthcare,CRM Enterprise,Partner,108000,Closed Lost,2022-12-28,2023-02-02,10,31.0,36,HubSpot,Closed
+DL-11036,Manufacturing Corp #1037,Ethan Park,SMB,APAC,Manufacturing,CRM Enterprise,Partner,165500,Closed Lost,2023-05-21,2023-07-15,29,57.5,17,Microsoft,Pipeline
+DL-11037,Finance Corp #1038,Fiona Walsh,SMB,Europe,Finance,Support Plus,Outbound,4000,Lead,2024-05-09,,13,59.0,26,None,Best Case
+DL-11038,Manufacturing Corp #1039,George Kim,Enterprise,North America,Manufacturing,Integration Suite,Referral,23000,Closed Lost,2023-10-19,2023-11-17,24,76.7,12,HubSpot,Best Case
+DL-11039,Technology Corp #1040,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Referral,4000,Lead,2022-01-29,,4,29.0,7,None,Best Case
+DL-11040,Finance Corp #1041,Alice Morgan,Enterprise,North America,Finance,Support Plus,Partner,3000,Lead,2022-07-02,,2,74.8,26,Salesforce,Best Case
+DL-11041,Education Corp #1042,Brian Chen,Mid-Market,North America,Education,Integration Suite,Event,32500,Closed Won,2022-05-28,2022-07-11,28,83.8,5,HubSpot,Closed
+DL-11042,Technology Corp #1043,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Partner,12500,Lead,2023-04-20,,3,90.5,28,Zoho,Best Case
+DL-11043,Technology Corp #1044,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Event,166000,Lead,2022-06-27,,7,66.3,39,None,Pipeline
+DL-11044,Manufacturing Corp #1045,Ethan Park,SMB,APAC,Manufacturing,Support Plus,Outbound,3000,Closed Lost,2023-11-30,2024-01-16,28,80.9,30,Microsoft,Commit
+DL-11045,Technology Corp #1046,Fiona Walsh,SMB,Europe,Technology,Analytics Add-on,Inbound,5000,Lead,2022-06-20,,8,51.5,6,Salesforce,Commit
+DL-11046,Finance Corp #1047,George Kim,Enterprise,North America,Finance,Integration Suite,Outbound,35500,Lead,2023-05-16,,16,35.6,36,Salesforce,Closed
+DL-11047,Technology Corp #1048,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Outbound,9000,Closed Lost,2024-07-02,2024-08-12,30,79.7,13,Salesforce,Closed
+DL-11048,Healthcare Corp #1049,Alice Morgan,Enterprise,North America,Healthcare,CRM Enterprise,Inbound,163500,Lead,2022-12-16,,15,86.2,37,Salesforce,Pipeline
+DL-11049,Real Estate Corp #1050,Brian Chen,Mid-Market,North America,Real Estate,CRM Enterprise,Partner,144500,Lead,2024-05-14,,8,72.6,11,Salesforce,Pipeline
+DL-11050,Real Estate Corp #1051,Carlos Rivera,Mid-Market,LATAM,Real Estate,CRM Pro,Inbound,12500,Closed Lost,2024-06-11,2024-07-30,26,36.1,39,Salesforce,Best Case
+DL-11051,Healthcare Corp #1052,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Event,18500,Lead,2023-10-15,,19,92.7,9,Salesforce,Best Case
+DL-11052,Technology Corp #1053,Ethan Park,SMB,APAC,Technology,CRM Pro,Referral,17500,Closed Lost,2022-10-30,2022-12-06,16,23.3,5,Microsoft,Pipeline
+DL-11053,Technology Corp #1054,Fiona Walsh,SMB,Europe,Technology,CRM Enterprise,Outbound,178500,Lead,2024-04-26,,25,22.0,12,None,Commit
+DL-11054,Healthcare Corp #1055,George Kim,Enterprise,North America,Healthcare,Analytics Add-on,Inbound,13500,Closed Lost,2024-05-22,2024-06-07,9,74.5,37,Microsoft,Commit
+DL-11055,Retail Corp #1056,Hannah Brooks,Mid-Market,APAC,Retail,Analytics Add-on,Inbound,5000,Closed Won,2022-11-17,2023-02-02,71,49.7,9,Microsoft,Commit
+DL-11056,Finance Corp #1057,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Event,13000,Lead,2023-12-25,,9,61.5,38,Salesforce,Best Case
+DL-11057,Finance Corp #1058,Brian Chen,Mid-Market,North America,Finance,CRM Enterprise,Outbound,188500,Lead,2022-03-03,,13,52.3,14,HubSpot,Best Case
+DL-11058,Manufacturing Corp #1059,Carlos Rivera,Mid-Market,LATAM,Manufacturing,CRM Pro,Paid Search,22000,Closed Lost,2023-04-10,2023-05-08,11,61.7,33,Microsoft,Closed
+DL-11059,Finance Corp #1060,Diana Patel,Enterprise,Europe,Finance,Analytics Add-on,Partner,6000,Lead,2023-09-10,,5,22.4,20,HubSpot,Commit
+DL-11060,Manufacturing Corp #1061,Ethan Park,SMB,APAC,Manufacturing,CRM Pro,Inbound,19500,Qualified,2022-04-19,,36,43.3,34,Microsoft,Pipeline
+DL-11061,Retail Corp #1062,Fiona Walsh,SMB,Europe,Retail,Analytics Add-on,Paid Search,11500,Lead,2022-08-05,,21,37.6,6,Salesforce,Commit
+DL-11062,Retail Corp #1063,George Kim,Enterprise,North America,Retail,Analytics Add-on,Referral,9000,Lead,2022-04-21,,8,94.3,18,Zoho,Closed
+DL-11063,Manufacturing Corp #1064,Hannah Brooks,Mid-Market,APAC,Manufacturing,CRM Enterprise,Inbound,45500,Lead,2023-11-15,,10,63.6,38,Salesforce,Commit
+DL-11064,Real Estate Corp #1065,Alice Morgan,Enterprise,North America,Real Estate,Integration Suite,Paid Search,33000,Lead,2022-05-06,,13,65.1,8,Zoho,Pipeline
+DL-11065,Healthcare Corp #1066,Brian Chen,Mid-Market,North America,Healthcare,CRM Pro,Inbound,18500,Lead,2023-05-26,,28,41.9,11,Microsoft,Pipeline
+DL-11066,Finance Corp #1067,Carlos Rivera,Mid-Market,LATAM,Finance,CRM Enterprise,Referral,49500,Lead,2024-04-14,,12,62.8,26,None,Closed
+DL-11067,Technology Corp #1068,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Paid Search,29500,Lead,2024-05-02,,15,34.0,26,Microsoft,Pipeline
+DL-11068,Technology Corp #1069,Ethan Park,SMB,APAC,Technology,CRM Pro,Referral,23000,Lead,2023-09-16,,10,69.4,4,Microsoft,Pipeline
+DL-11069,Healthcare Corp #1070,Fiona Walsh,SMB,Europe,Healthcare,Support Plus,Outbound,5000,Lead,2024-02-29,,13,43.3,17,HubSpot,Closed
+DL-11070,Technology Corp #1071,George Kim,Enterprise,North America,Technology,CRM Pro,Paid Search,21500,Closed Lost,2024-01-24,2024-02-24,17,70.0,19,Zoho,Closed
+DL-11071,Technology Corp #1072,Hannah Brooks,Mid-Market,APAC,Technology,CRM Pro,Inbound,19000,Lead,2023-12-25,,18,50.5,35,Salesforce,Closed
+DL-11072,Finance Corp #1073,Alice Morgan,Enterprise,North America,Finance,CRM Enterprise,Outbound,169500,Qualified,2024-02-20,,22,92.7,26,None,Pipeline
+DL-11073,Technology Corp #1074,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Outbound,52500,Lead,2022-11-26,,26,69.2,30,HubSpot,Best Case
+DL-11074,Finance Corp #1075,Carlos Rivera,Mid-Market,LATAM,Finance,Integration Suite,Inbound,13500,Qualified,2023-05-18,,19,55.3,12,HubSpot,Commit
+DL-11075,Education Corp #1076,Diana Patel,Enterprise,Europe,Education,Integration Suite,Paid Search,23500,Closed Lost,2023-08-07,2023-09-05,23,74.5,21,None,Best Case
+DL-11076,Healthcare Corp #1077,Ethan Park,SMB,APAC,Healthcare,Support Plus,Partner,4500,Lead,2023-09-24,,26,78.1,12,HubSpot,Pipeline
+DL-11077,Education Corp #1078,Fiona Walsh,SMB,Europe,Education,Support Plus,Outbound,4500,Lead,2022-07-05,,12,77.7,17,None,Pipeline
+DL-11078,Healthcare Corp #1079,George Kim,Enterprise,North America,Healthcare,Support Plus,Outbound,8500,Closed Lost,2024-01-02,2024-02-20,27,60.8,22,HubSpot,Best Case
+DL-11079,Technology Corp #1080,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Outbound,12000,Closed Lost,2022-11-14,2022-12-03,7,59.5,20,Zoho,Best Case
+DL-11080,Healthcare Corp #1081,Alice Morgan,Enterprise,North America,Healthcare,CRM Pro,Inbound,8000,Lead,2023-09-20,,13,20.6,25,Salesforce,Commit
+DL-11081,Real Estate Corp #1082,Brian Chen,Mid-Market,North America,Real Estate,Analytics Add-on,Outbound,7000,Lead,2024-02-23,,5,73.4,16,Zoho,Pipeline
+DL-11082,Healthcare Corp #1083,Carlos Rivera,Mid-Market,LATAM,Healthcare,Analytics Add-on,Referral,7000,Lead,2022-05-31,,2,61.4,32,HubSpot,Best Case
+DL-11083,Finance Corp #1084,Diana Patel,Enterprise,Europe,Finance,Analytics Add-on,Inbound,6500,Lead,2022-07-09,,15,92.5,39,Salesforce,Closed
+DL-11084,Real Estate Corp #1085,Ethan Park,SMB,APAC,Real Estate,CRM Enterprise,Event,147000,Closed Won,2022-04-22,2022-06-25,35,93.8,9,Zoho,Best Case
+DL-11085,Healthcare Corp #1086,Fiona Walsh,SMB,Europe,Healthcare,CRM Enterprise,Inbound,47000,Lead,2022-02-19,,27,73.8,7,Zoho,Closed
+DL-11086,Healthcare Corp #1087,George Kim,Enterprise,North America,Healthcare,Support Plus,Event,6500,Closed Lost,2022-07-18,2022-09-03,24,26.8,22,Salesforce,Best Case
+DL-11087,Finance Corp #1088,Hannah Brooks,Mid-Market,APAC,Finance,CRM Enterprise,Event,117000,Lead,2024-05-22,,7,49.7,29,Microsoft,Pipeline
+DL-11088,Finance Corp #1089,Alice Morgan,Enterprise,North America,Finance,Integration Suite,Outbound,37500,Closed Lost,2023-03-17,2023-04-23,29,35.3,31,HubSpot,Pipeline
+DL-11089,Education Corp #1090,Brian Chen,Mid-Market,North America,Education,CRM Pro,Inbound,10500,Closed Lost,2024-04-11,2024-05-13,24,27.9,28,Microsoft,Best Case
+DL-11090,Technology Corp #1091,Carlos Rivera,Mid-Market,LATAM,Technology,Support Plus,Inbound,4000,Closed Lost,2023-03-09,2023-04-15,22,61.8,35,HubSpot,Pipeline
+DL-11091,Finance Corp #1092,Diana Patel,Enterprise,Europe,Finance,Integration Suite,Paid Search,39000,Closed Lost,2022-12-09,2023-01-12,8,64.2,35,None,Commit
+DL-11092,Finance Corp #1093,Ethan Park,SMB,APAC,Finance,Integration Suite,Inbound,44500,Lead,2022-04-21,,5,83.6,30,HubSpot,Commit
+DL-11093,Retail Corp #1094,Fiona Walsh,SMB,Europe,Retail,Support Plus,Outbound,3500,Lead,2023-03-27,,12,45.3,21,None,Closed
+DL-11094,Technology Corp #1095,George Kim,Enterprise,North America,Technology,Support Plus,Referral,3000,Lead,2023-06-25,,29,35.1,5,None,Pipeline
+DL-11095,Finance Corp #1096,Hannah Brooks,Mid-Market,APAC,Finance,CRM Enterprise,Partner,115000,Lead,2023-02-11,,9,32.3,3,Salesforce,Pipeline
+DL-11096,Real Estate Corp #1097,Alice Morgan,Enterprise,North America,Real Estate,CRM Enterprise,Partner,99500,Lead,2023-02-19,,10,83.3,21,None,Pipeline
+DL-11097,Finance Corp #1098,Brian Chen,Mid-Market,North America,Finance,Support Plus,Outbound,6000,Lead,2024-02-29,,14,62.8,20,Microsoft,Closed
+DL-11098,Healthcare Corp #1099,Carlos Rivera,Mid-Market,LATAM,Healthcare,Support Plus,Paid Search,3500,Lead,2023-10-14,,22,28.3,23,Salesforce,Closed
+DL-11099,Manufacturing Corp #1100,Diana Patel,Enterprise,Europe,Manufacturing,Analytics Add-on,Event,6500,Lead,2022-04-22,,6,79.0,14,Salesforce,Best Case
+DL-11100,Retail Corp #1101,Ethan Park,SMB,APAC,Retail,Support Plus,Paid Search,4500,Closed Lost,2024-05-23,2024-07-01,29,45.5,14,Zoho,Commit
+DL-11101,Retail Corp #1102,Fiona Walsh,SMB,Europe,Retail,Support Plus,Inbound,5500,Lead,2023-01-16,,5,61.2,28,Zoho,Commit
+DL-11102,Healthcare Corp #1103,George Kim,Enterprise,North America,Healthcare,Integration Suite,Event,34000,Closed Lost,2022-07-14,2022-07-27,3,34.5,24,HubSpot,Closed
+DL-11103,Technology Corp #1104,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Paid Search,8000,Lead,2022-05-10,,11,56.6,3,None,Best Case
+DL-11104,Finance Corp #1105,Alice Morgan,Enterprise,North America,Finance,CRM Enterprise,Event,162500,Lead,2024-03-15,,28,79.3,28,Zoho,Pipeline
+DL-11105,Healthcare Corp #1106,Brian Chen,Mid-Market,North America,Healthcare,CRM Enterprise,Outbound,162500,Lead,2024-01-20,,23,23.9,33,Zoho,Closed
+DL-11106,Technology Corp #1107,Carlos Rivera,Mid-Market,LATAM,Technology,Integration Suite,Inbound,18500,Lead,2023-11-14,,29,20.7,4,Microsoft,Best Case
+DL-11107,Education Corp #1108,Diana Patel,Enterprise,Europe,Education,Support Plus,Inbound,4500,Closed Won,2022-04-23,2022-07-22,79,93.0,17,Microsoft,Pipeline
+DL-11108,Finance Corp #1109,Ethan Park,SMB,APAC,Finance,Analytics Add-on,Outbound,5000,Lead,2022-12-31,,4,49.7,26,Zoho,Closed
+DL-11109,Finance Corp #1110,Fiona Walsh,SMB,Europe,Finance,CRM Pro,Paid Search,8000,Closed Won,2024-06-16,2024-08-06,26,89.1,32,Salesforce,Best Case
+DL-11110,Finance Corp #1111,George Kim,Enterprise,North America,Finance,CRM Pro,Inbound,22500,Lead,2024-03-12,,16,42.3,14,Zoho,Commit
+DL-11111,Retail Corp #1112,Hannah Brooks,Mid-Market,APAC,Retail,Support Plus,Partner,3000,Lead,2022-02-10,,10,69.1,22,Salesforce,Pipeline
+DL-11112,Education Corp #1113,Alice Morgan,Enterprise,North America,Education,Analytics Add-on,Paid Search,11500,Closed Lost,2023-03-21,2023-04-15,14,88.9,27,Salesforce,Pipeline
+DL-11113,Retail Corp #1114,Brian Chen,Mid-Market,North America,Retail,CRM Enterprise,Referral,80000,Closed Lost,2023-10-25,2023-12-04,26,40.5,17,Salesforce,Pipeline
+DL-11114,Finance Corp #1115,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Outbound,7500,Closed Lost,2023-04-23,2023-05-30,15,63.7,10,Salesforce,Pipeline
+DL-11115,Finance Corp #1116,Diana Patel,Enterprise,Europe,Finance,Integration Suite,Outbound,23000,Lead,2024-05-04,,7,75.9,26,HubSpot,Closed
+DL-11116,Retail Corp #1117,Ethan Park,SMB,APAC,Retail,Integration Suite,Referral,39000,Closed Lost,2022-11-24,2023-02-01,45,52.2,34,Salesforce,Pipeline
+DL-11117,Technology Corp #1118,Fiona Walsh,SMB,Europe,Technology,Support Plus,Event,7500,Closed Lost,2022-01-21,2022-03-16,28,72.7,6,Salesforce,Commit
+DL-11118,Technology Corp #1119,George Kim,Enterprise,North America,Technology,CRM Pro,Outbound,20500,Lead,2022-11-29,,15,93.1,24,HubSpot,Pipeline
+DL-11119,Finance Corp #1120,Hannah Brooks,Mid-Market,APAC,Finance,Analytics Add-on,Inbound,11500,Lead,2024-04-02,,10,68.8,17,Microsoft,Pipeline
+DL-11120,Retail Corp #1121,Alice Morgan,Enterprise,North America,Retail,CRM Enterprise,Inbound,103000,Lead,2024-02-05,,16,83.1,7,None,Best Case
+DL-11121,Technology Corp #1122,Brian Chen,Mid-Market,North America,Technology,Analytics Add-on,Inbound,7500,Closed Lost,2022-11-21,2022-12-04,1,88.3,21,HubSpot,Best Case
+DL-11122,Technology Corp #1123,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Outbound,23500,Lead,2023-06-30,,15,88.4,12,None,Pipeline
+DL-11123,Technology Corp #1124,Diana Patel,Enterprise,Europe,Technology,Analytics Add-on,Paid Search,5000,Lead,2022-05-17,,24,36.3,24,HubSpot,Commit
+DL-11124,Technology Corp #1125,Ethan Park,SMB,APAC,Technology,Analytics Add-on,Outbound,11000,Lead,2023-03-24,,3,51.5,24,Zoho,Pipeline
+DL-11125,Technology Corp #1126,Fiona Walsh,SMB,Europe,Technology,CRM Pro,Inbound,8000,Lead,2023-07-28,,3,25.8,10,Zoho,Pipeline
+DL-11126,Finance Corp #1127,George Kim,Enterprise,North America,Finance,Support Plus,Referral,5000,Lead,2022-07-02,,1,69.3,8,None,Pipeline
+DL-11127,Education Corp #1128,Hannah Brooks,Mid-Market,APAC,Education,Analytics Add-on,Event,9500,Lead,2024-03-16,,28,35.8,23,Salesforce,Pipeline
+DL-11128,Education Corp #1129,Alice Morgan,Enterprise,North America,Education,CRM Enterprise,Outbound,168500,Lead,2022-10-20,,12,67.1,8,Zoho,Commit
+DL-11129,Technology Corp #1130,Brian Chen,Mid-Market,North America,Technology,Support Plus,Inbound,7000,Lead,2022-06-13,,2,43.8,7,Microsoft,Best Case
+DL-11130,Retail Corp #1131,Carlos Rivera,Mid-Market,LATAM,Retail,CRM Pro,Outbound,15000,Lead,2022-12-05,,24,74.4,3,HubSpot,Commit
+DL-11131,Technology Corp #1132,Diana Patel,Enterprise,Europe,Technology,Support Plus,Referral,8500,Lead,2022-06-21,,16,46.4,5,Zoho,Pipeline
+DL-11132,Retail Corp #1133,Ethan Park,SMB,APAC,Retail,Analytics Add-on,Outbound,11000,Closed Lost,2023-09-09,2023-10-22,22,41.0,4,HubSpot,Best Case
+DL-11133,Finance Corp #1134,Fiona Walsh,SMB,Europe,Finance,CRM Enterprise,Outbound,58500,Lead,2022-05-19,,8,74.9,23,Salesforce,Best Case
+DL-11134,Finance Corp #1135,George Kim,Enterprise,North America,Finance,Analytics Add-on,Paid Search,5500,Closed Lost,2023-03-02,2023-06-27,96,49.0,28,Zoho,Pipeline
+DL-11135,Education Corp #1136,Hannah Brooks,Mid-Market,APAC,Education,CRM Pro,Inbound,22500,Qualified,2022-11-19,,38,44.0,24,Salesforce,Pipeline
+DL-11136,Technology Corp #1137,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Outbound,14500,Closed Lost,2023-02-24,2023-04-15,22,85.1,3,Salesforce,Best Case
+DL-11137,Finance Corp #1138,Brian Chen,Mid-Market,North America,Finance,Analytics Add-on,Referral,5500,Closed Lost,2023-07-18,2023-08-02,7,63.0,39,Salesforce,Best Case
+DL-11138,Technology Corp #1139,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Paid Search,13500,Lead,2022-01-22,,2,85.5,17,Salesforce,Pipeline
+DL-11139,Technology Corp #1140,Diana Patel,Enterprise,Europe,Technology,CRM Pro,Referral,22500,Lead,2023-01-11,,25,85.6,25,None,Commit
+DL-11140,Retail Corp #1141,Ethan Park,SMB,APAC,Retail,Analytics Add-on,Referral,10500,Lead,2022-10-16,,11,31.2,33,Zoho,Best Case
+DL-11141,Technology Corp #1142,Fiona Walsh,SMB,Europe,Technology,Integration Suite,Outbound,40000,Closed Lost,2023-11-26,2024-01-10,19,56.0,33,None,Closed
+DL-11142,Healthcare Corp #1143,George Kim,Enterprise,North America,Healthcare,Integration Suite,Partner,21000,Lead,2022-03-29,,4,73.9,11,Salesforce,Closed
+DL-11143,Healthcare Corp #1144,Hannah Brooks,Mid-Market,APAC,Healthcare,CRM Pro,Outbound,13000,Closed Lost,2023-01-22,2023-02-06,5,34.0,21,None,Best Case
+DL-11144,Education Corp #1145,Alice Morgan,Enterprise,North America,Education,Analytics Add-on,Inbound,5000,Lead,2023-06-06,,22,93.3,29,None,Pipeline
+DL-11145,Technology Corp #1146,Brian Chen,Mid-Market,North America,Technology,CRM Enterprise,Inbound,69000,Lead,2022-07-25,,16,23.2,18,Salesforce,Best Case
+DL-11146,Healthcare Corp #1147,Carlos Rivera,Mid-Market,LATAM,Healthcare,Support Plus,Inbound,7500,Closed Lost,2022-06-19,2022-07-09,6,69.0,19,None,Commit
+DL-11147,Technology Corp #1148,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Inbound,35500,Lead,2022-12-12,,24,83.1,34,Salesforce,Closed
+DL-11148,Healthcare Corp #1149,Ethan Park,SMB,APAC,Healthcare,CRM Enterprise,Inbound,62000,Lead,2022-04-15,,7,63.4,39,HubSpot,Best Case
+DL-11149,Healthcare Corp #1150,Fiona Walsh,SMB,Europe,Healthcare,Integration Suite,Event,44000,Lead,2023-10-12,,20,51.6,34,None,Commit
+DL-11150,Manufacturing Corp #1151,George Kim,Enterprise,North America,Manufacturing,Analytics Add-on,Event,5500,Closed Lost,2022-08-26,2022-09-18,17,82.0,25,Microsoft,Closed
+DL-11151,Technology Corp #1152,Hannah Brooks,Mid-Market,APAC,Technology,Analytics Add-on,Event,14500,Lead,2024-05-30,,23,77.0,22,Zoho,Closed
+DL-11152,Manufacturing Corp #1153,Alice Morgan,Enterprise,North America,Manufacturing,Analytics Add-on,Outbound,9500,Closed Lost,2022-06-20,2022-07-23,20,64.8,37,Zoho,Pipeline
+DL-11153,Retail Corp #1154,Brian Chen,Mid-Market,North America,Retail,Analytics Add-on,Referral,13000,Closed Lost,2022-01-10,2022-02-22,23,93.8,11,None,Pipeline
+DL-11154,Education Corp #1155,Carlos Rivera,Mid-Market,LATAM,Education,CRM Enterprise,Referral,166000,Lead,2022-01-27,,2,52.8,23,None,Commit
+DL-11155,Technology Corp #1156,Diana Patel,Enterprise,Europe,Technology,Support Plus,Event,7000,Lead,2023-07-23,,29,60.4,27,Salesforce,Best Case
+DL-11156,Retail Corp #1157,Ethan Park,SMB,APAC,Retail,Integration Suite,Outbound,23000,Lead,2022-06-18,,15,46.1,26,Salesforce,Pipeline
+DL-11157,Healthcare Corp #1158,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Outbound,11500,Lead,2022-10-23,,13,46.2,17,Zoho,Best Case
+DL-11158,Finance Corp #1159,George Kim,Enterprise,North America,Finance,CRM Pro,Outbound,10500,Closed Lost,2024-06-07,2024-06-25,11,75.5,31,Zoho,Commit
+DL-11159,Technology Corp #1160,Hannah Brooks,Mid-Market,APAC,Technology,Support Plus,Event,9500,Closed Lost,2024-02-19,2024-04-02,19,70.3,4,Microsoft,Best Case
+DL-11160,Retail Corp #1161,Alice Morgan,Enterprise,North America,Retail,Support Plus,Paid Search,9000,Closed Won,2022-08-28,2022-12-01,69,76.0,11,Salesforce,Commit
+DL-11161,Healthcare Corp #1162,Brian Chen,Mid-Market,North America,Healthcare,CRM Enterprise,Referral,191500,Closed Lost,2023-11-19,2023-12-17,22,41.2,28,Zoho,Closed
+DL-11162,Technology Corp #1163,Carlos Rivera,Mid-Market,LATAM,Technology,CRM Pro,Paid Search,18500,Lead,2023-11-24,,3,32.8,21,Microsoft,Closed
+DL-11163,Healthcare Corp #1164,Diana Patel,Enterprise,Europe,Healthcare,Support Plus,Outbound,5000,Lead,2023-03-06,,13,54.9,28,None,Best Case
+DL-11164,Technology Corp #1165,Ethan Park,SMB,APAC,Technology,CRM Pro,Referral,18500,Lead,2022-07-29,,19,69.0,13,Microsoft,Closed
+DL-11165,Healthcare Corp #1166,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Referral,10000,Closed Lost,2023-06-03,2023-07-16,19,83.8,12,HubSpot,Best Case
+DL-11166,Finance Corp #1167,George Kim,Enterprise,North America,Finance,CRM Pro,Partner,15500,Closed Lost,2023-11-26,2023-12-27,18,71.0,12,HubSpot,Best Case
+DL-11167,Retail Corp #1168,Hannah Brooks,Mid-Market,APAC,Retail,Integration Suite,Outbound,35000,Closed Lost,2023-02-01,2023-02-14,5,33.5,10,Salesforce,Commit
+DL-11168,Real Estate Corp #1169,Alice Morgan,Enterprise,North America,Real Estate,Integration Suite,Paid Search,23500,Qualified,2022-06-15,,34,56.4,33,Zoho,Closed
+DL-11169,Healthcare Corp #1170,Brian Chen,Mid-Market,North America,Healthcare,Analytics Add-on,Partner,8000,Lead,2022-01-16,,9,33.6,38,Microsoft,Best Case
+DL-11170,Technology Corp #1171,Carlos Rivera,Mid-Market,LATAM,Technology,Analytics Add-on,Referral,11500,Lead,2023-05-06,,26,78.3,21,Zoho,Pipeline
+DL-11171,Healthcare Corp #1172,Diana Patel,Enterprise,Europe,Healthcare,Integration Suite,Outbound,26500,Closed Lost,2022-02-21,2022-04-20,39,43.6,21,Salesforce,Closed
+DL-11172,Healthcare Corp #1173,Ethan Park,SMB,APAC,Healthcare,Integration Suite,Referral,33000,Lead,2023-12-05,,22,45.1,35,Microsoft,Closed
+DL-11173,Finance Corp #1174,Fiona Walsh,SMB,Europe,Finance,CRM Pro,Referral,14000,Lead,2023-03-12,,25,36.3,39,None,Commit
+DL-11174,Healthcare Corp #1175,George Kim,Enterprise,North America,Healthcare,Support Plus,Outbound,6000,Lead,2022-06-05,,6,34.9,35,Salesforce,Commit
+DL-11175,Technology Corp #1176,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Inbound,45500,Lead,2023-12-02,,12,21.7,29,Salesforce,Commit
+DL-11176,Technology Corp #1177,Alice Morgan,Enterprise,North America,Technology,Analytics Add-on,Referral,5000,Lead,2023-12-21,,28,83.3,32,Microsoft,Pipeline
+DL-11177,Healthcare Corp #1178,Brian Chen,Mid-Market,North America,Healthcare,CRM Enterprise,Inbound,187000,Lead,2023-06-09,,17,70.1,17,HubSpot,Best Case
+DL-11178,Manufacturing Corp #1179,Carlos Rivera,Mid-Market,LATAM,Manufacturing,Analytics Add-on,Referral,5500,Lead,2022-10-09,,16,87.1,10,HubSpot,Commit
+DL-11179,Technology Corp #1180,Diana Patel,Enterprise,Europe,Technology,CRM Enterprise,Referral,99500,Closed Lost,2022-09-09,2022-10-18,21,61.7,6,Zoho,Best Case
+DL-11180,Technology Corp #1181,Ethan Park,SMB,APAC,Technology,Support Plus,Partner,3000,Lead,2024-03-06,,11,80.4,18,Salesforce,Best Case
+DL-11181,Healthcare Corp #1182,Fiona Walsh,SMB,Europe,Healthcare,Analytics Add-on,Paid Search,6000,Lead,2022-08-12,,6,53.0,31,Microsoft,Commit
+DL-11182,Retail Corp #1183,George Kim,Enterprise,North America,Retail,Support Plus,Partner,6500,Lead,2022-01-16,,12,54.4,39,Salesforce,Pipeline
+DL-11183,Manufacturing Corp #1184,Hannah Brooks,Mid-Market,APAC,Manufacturing,CRM Pro,Outbound,16000,Closed Lost,2024-02-04,2024-03-13,22,84.4,36,Zoho,Closed
+DL-11184,Finance Corp #1185,Alice Morgan,Enterprise,North America,Finance,Analytics Add-on,Paid Search,8500,Lead,2024-03-25,,16,54.1,29,HubSpot,Pipeline
+DL-11185,Finance Corp #1186,Brian Chen,Mid-Market,North America,Finance,Support Plus,Inbound,5000,Lead,2023-01-07,,22,90.5,8,Salesforce,Best Case
+DL-11186,Healthcare Corp #1187,Carlos Rivera,Mid-Market,LATAM,Healthcare,Support Plus,Outbound,3500,Closed Lost,2023-09-11,2023-10-13,3,49.0,36,HubSpot,Commit
+DL-11187,Technology Corp #1188,Diana Patel,Enterprise,Europe,Technology,Integration Suite,Inbound,23000,Closed Lost,2022-10-09,2022-11-04,9,71.9,26,None,Best Case
+DL-11188,Finance Corp #1189,Ethan Park,SMB,APAC,Finance,Integration Suite,Outbound,35000,Lead,2023-01-18,,23,36.8,16,Salesforce,Best Case
+DL-11189,Manufacturing Corp #1190,Fiona Walsh,SMB,Europe,Manufacturing,Support Plus,Paid Search,5500,Lead,2023-06-28,,12,76.2,10,Microsoft,Closed
+DL-11190,Finance Corp #1191,George Kim,Enterprise,North America,Finance,CRM Pro,Inbound,22500,Lead,2022-12-24,,10,37.5,37,None,Pipeline
+DL-11191,Retail Corp #1192,Hannah Brooks,Mid-Market,APAC,Retail,CRM Pro,Outbound,15000,Closed Lost,2023-11-07,2023-12-28,23,71.5,4,None,Pipeline
+DL-11192,Finance Corp #1193,Alice Morgan,Enterprise,North America,Finance,CRM Pro,Outbound,24000,Closed Lost,2022-03-20,2022-04-27,26,62.3,5,Microsoft,Closed
+DL-11193,Technology Corp #1194,Brian Chen,Mid-Market,North America,Technology,Integration Suite,Inbound,29500,Closed Lost,2022-01-08,2022-01-27,13,35.4,29,None,Best Case
+DL-11194,Finance Corp #1195,Carlos Rivera,Mid-Market,LATAM,Finance,Support Plus,Inbound,3000,Lead,2023-05-13,,22,28.9,31,HubSpot,Commit
+DL-11195,Finance Corp #1196,Diana Patel,Enterprise,Europe,Finance,Support Plus,Inbound,3000,Closed Lost,2023-06-08,2023-06-20,1,60.2,24,Zoho,Best Case
+DL-11196,Education Corp #1197,Ethan Park,SMB,APAC,Education,Analytics Add-on,Event,14000,Lead,2024-02-07,,11,35.1,7,HubSpot,Pipeline
+DL-11197,Real Estate Corp #1198,Fiona Walsh,SMB,Europe,Real Estate,CRM Pro,Referral,16500,Closed Lost,2023-01-19,2023-02-25,24,30.0,33,None,Pipeline
+DL-11198,Finance Corp #1199,George Kim,Enterprise,North America,Finance,Analytics Add-on,Outbound,6000,Lead,2023-12-12,,13,65.2,39,Microsoft,Pipeline
+DL-11199,Technology Corp #1200,Hannah Brooks,Mid-Market,APAC,Technology,CRM Enterprise,Referral,182000,Lead,2024-02-19,,11,54.1,22,Microsoft,Best Case
