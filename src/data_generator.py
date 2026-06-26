@@ -82,7 +82,7 @@ def generate_deals(number_of_deals: int = 1200) -> pd.DataFrame:
         stage_history = []
         reached_stage = "Lead"
 
-        for stage_name in PIPELINE_STAGES[:-2]:        # up to Negotiation
+        for stage_name in PIPELINE_STAGES[:-2]:
             min_days, max_days = STAGE_DURATION_DAYS[stage_name]
             days_spent_in_stage = int(np.random.uniform(min_days, max_days))
             stage_history.append((stage_name, current_date))
@@ -141,7 +141,7 @@ def generate_deals(number_of_deals: int = 1200) -> pd.DataFrame:
 
     deals_dataframe = pd.DataFrame(all_deal_rows)
     deals_dataframe.to_csv(DATA_DIRECTORY / "crm_deals.csv", index=False)
-    print(f"✅ Generated {len(deals_dataframe)} deals  →  data/crm_deals.csv")
+    print(f"Generated {len(deals_dataframe)} deals  →  data/crm_deals.csv")
     return deals_dataframe
 
 
@@ -206,5 +206,5 @@ def generate_monthly_targets() -> pd.DataFrame:
     ).astype(int)
 
     targets_dataframe.to_csv(DATA_DIRECTORY / "monthly_targets.csv", index=False)
-    print(f"✅ Generated monthly targets  →  data/monthly_targets.csv")
+    print(f" Generated monthly targets  →  data/monthly_targets.csv")
     return targets_dataframe
