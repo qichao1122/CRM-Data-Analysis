@@ -49,9 +49,10 @@ def _save(name):
     path = PLOTS_DIR / name
     plt.savefig(path, dpi=150, bbox_inches="tight", facecolor=BG)
     plt.close()
-    print(f"path: {path}")
+    print(f"📊  {path}")
 
 
+# ── 1. Pipeline Funnel ────────────────────────────────────────────────────────
 
 def plot_pipeline_funnel(summary: pd.DataFrame):
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))
@@ -77,6 +78,9 @@ def plot_pipeline_funnel(summary: pd.DataFrame):
     plt.tight_layout()
     _save("pipeline_funnel.png")
 
+
+# ── 2. Conversion Waterfall ───────────────────────────────────────────────────
+
 def plot_conversion_waterfall(conv: pd.DataFrame):
     fig, ax = plt.subplots(figsize=(12, 5))
     fig.patch.set_facecolor(BG); _ax(ax)
@@ -96,6 +100,8 @@ def plot_conversion_waterfall(conv: pd.DataFrame):
     plt.tight_layout()
     _save("conversion_waterfall.png")
 
+
+# ── 3. Revenue Forecast (3 scenarios) ────────────────────────────────────────
 
 def plot_revenue_forecast(forecast: pd.DataFrame):
     fig, ax = plt.subplots(figsize=(12, 6))
@@ -123,6 +129,8 @@ def plot_revenue_forecast(forecast: pd.DataFrame):
     _save("revenue_forecast.png")
 
 
+# ── 4. Win Rate by Region & Industry ─────────────────────────────────────────
+
 def plot_win_rates(wr_region: pd.DataFrame, wr_industry: pd.DataFrame):
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
     fig.patch.set_facecolor(BG); _ax(ax1); _ax(ax2)
@@ -139,6 +147,9 @@ def plot_win_rates(wr_region: pd.DataFrame, wr_industry: pd.DataFrame):
 
     plt.tight_layout()
     _save("win_rates.png")
+
+
+# ── 5. Sales Velocity Trend ───────────────────────────────────────────────────
 
 def plot_sales_velocity(velocity: pd.Series):
     fig, ax = plt.subplots(figsize=(14, 5))
@@ -163,6 +174,8 @@ def plot_sales_velocity(velocity: pd.Series):
     _save("sales_velocity.png")
 
 
+# ── 6. Rep Leaderboard ────────────────────────────────────────────────────────
+
 def plot_rep_leaderboard(board: pd.DataFrame):
     fig, axes = plt.subplots(1, 3, figsize=(16, 5))
     fig.patch.set_facecolor(BG)
@@ -185,6 +198,8 @@ def plot_rep_leaderboard(board: pd.DataFrame):
     plt.tight_layout()
     _save("rep_leaderboard.png")
 
+
+# ── 7. Lead Source Mix ────────────────────────────────────────────────────────
 
 def plot_lead_source(df: pd.DataFrame):
     won = df[df["stage"] == "Closed Won"]
